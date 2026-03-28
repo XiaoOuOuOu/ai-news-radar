@@ -53,6 +53,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest-24h.json data/archive.json data/source-status.json data/waytoagi-7d.json data/title-zh-cache.json
+          git add data/latest-24h.json data/source-status.json data/waytoagi-7d.json data/title-zh-cache.json
           git commit -m "chore: update ai news snapshot"
           git push
