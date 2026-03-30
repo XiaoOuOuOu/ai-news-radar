@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-03-30T16:51:36.631815Z",
+  "generated_at": "2026-03-30T17:42:28.223064Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-30",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-30",
+      "title": "本周AI音乐赛道迎来密集升级，从创作、剪辑到音频处理全面突破。谷歌Lyria 3 Pro实现长音频结构化生成，Suno v5.5主打声音克隆与个性化创作，Mureka新增视频配乐能力，工具实用性大幅提升。LALAL.AI分轨效率与音质同步优化，Neural frames、Tunee则让MV与虚拟艺人制作更简单。而且多篇前沿论文发布，覆盖长音频生成、音乐质量评估、深度伪造检测等关键方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
       "title": "Tesla、SpaceX、xAI等多家前沿科技公司的创始人兼CEO Elon Musk和XPRIZE 基金会创始人兼执行主席 Peter Diamandis两人围绕 xAI 、 Grok 进展、 Optimus 机器人量产、 AGI 明确的时间表以及后稀缺时代 “ 全民高收入 ” 的经济形态展开了深入而极具前瞻性的对话。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Harness 到底是什么？放到AI的语境里，Harness就是你给AI搭的整套工作环境：告诉它什么能做什么不能做的规则文件，自动检查它有没有犯错的校验脚本，帮它记住重要信息的上下文管理，出了问题能回滚的安全机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Claude Cowork产品技术负责人Felix 从产品设计的第一原则出发，解释了 Anthropic 为何在\"云优先\"的浪潮中，执意把 AI agent 留在你的本地电脑——以及虚拟机、Skills、零执行成本这套组合拳，究竟在改变哪些根本性的东西。如果你关心 AI agent的产品逻辑、知识工作的自动化路径、或者 Anthropic 内部的工程文化，这期值得细读。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +38,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-03-30",
+      "title": "本周AI音乐赛道迎来密集升级，从创作、剪辑到音频处理全面突破。谷歌Lyria 3 Pro实现长音频结构化生成，Suno v5.5主打声音克隆与个性化创作，Mureka新增视频配乐能力，工具实用性大幅提升。LALAL.AI分轨效率与音质同步优化，Neural frames、Tunee则让MV与虚拟艺人制作更简单。而且多篇前沿论文发布，覆盖长音频生成、音乐质量评估、深度伪造检测等关键方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
       "title": "Tesla、SpaceX、xAI等多家前沿科技公司的创始人兼CEO Elon Musk和XPRIZE 基金会创始人兼执行主席 Peter Diamandis两人围绕 xAI 、 Grok 进展、 Optimus 机器人量产、 AGI 明确的时间表以及后稀缺时代 “ 全民高收入 ” 的经济形态展开了深入而极具前瞻性的对话。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Harness 到底是什么？放到AI的语境里，Harness就是你给AI搭的整套工作环境：告诉它什么能做什么不能做的规则文件，自动检查它有没有犯错的校验脚本，帮它记住重要信息的上下文管理，出了问题能回滚的安全机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Claude Cowork产品技术负责人Felix 从产品设计的第一原则出发，解释了 Anthropic 为何在\"云优先\"的浪潮中，执意把 AI agent 留在你的本地电脑——以及虚拟机、Skills、零执行成本这套组合拳，究竟在改变哪些根本性的东西。如果你关心 AI agent的产品逻辑、知识工作的自动化路径、或者 Anthropic 内部的工程文化，这期值得细读。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
