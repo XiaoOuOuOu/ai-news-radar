@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T15:58:04.154047Z",
+  "generated_at": "2026-03-30T16:51:36.631815Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -23,7 +23,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-03-30",
@@ -183,36 +183,6 @@
     {
       "date": "2026-03-25",
       "title": "在这场对谈中， 围绕a16z如何判断成长阶段公司的 “ 第二增长曲线 ” 展开系统阐述，重点谈到 Waymo 、 ElevenLabs 、 Kalshi 、 Coinbase 、 Robinhood 、 Stripe 、 Revolut 等公司的投资逻辑，以及私募与公开市场的增长断层、 AI 时代毛利率与留存指标的重新定义、预测市场的监管路径和金融科技平台的长期演化方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "虾干完活了你不知道？让🦐停下来休息了？这怎么行。CY带你让OpenClaw强提醒，干完活打个电话告诉你！从应用创建、权限开通到技能安装，有详细指引和排错方案，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "前几天 ，一篇来自Kimi的论文「ATTENTION RESIDUALS」在 AI 圈引发了激烈讨论——马斯克罕见地发出评价：\"Impressive work from Kimi\"。同时，两位前Openai大佬也同样发出了高度评价，OpenAI 「推理模型之父」Jerry Tworek表示“深度学习2.0时代即将到来”。然而这篇论文的共同一作者之一，是一位17岁的中国高中生——陈广宇。那这篇论文究竟写了什么，能让这些顶级大佬集体出动，这篇文章用更易懂的方式让大家了解它是什么，解决了什么问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "关于OpenClaw大家不仅仅在讨论怎么玩得更花，而更多的是两个字： 太贵 。以及另外两个字： 不安全 。甚至网上已经出现了 付费卸载龙虾 的笑话。今天这篇文章带大家使用 OpenClaw + n8n，打造更便宜、更安全的 Agent 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-24",
-      "title": "为了保证小白也能在安卓手机部署成功OpenClaw，作者尝试了很多次，不停的优化方案，最终找到一条最合适的部署路线！本篇教程将详细介绍如何在安卓手机上零成本部署 OpenClaw，并通过飞书机器人实现对话交互。不需要额外的硬件投入，利用闲置手机就可以搭建 24 小时在线的AI助手。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
