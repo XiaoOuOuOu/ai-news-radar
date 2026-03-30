@@ -1,40 +1,35 @@
 {
-  "generated_at": "2026-03-30T06:22:56.513891Z",
+  "generated_at": "2026-03-30T08:14:39.542737Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-29",
-  "count_today": 5,
+  "latest_date": "2026-03-30",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-03-29",
-      "title": "过去两个月，作者一直在深度使用Claude Code，不是随便玩玩，而是每天都在实战一线深耕。他完成了相关课程，考取了认证，用它搭建项目，搞砸过功能，再逐一修复，接着开发更多功能。这篇文章是他全部的实战心得：那些鲜有人提及的功能、真正高效可用的工作流、让他耗费数小时才踩完的坑，以及帮他节省数天时间的技巧。",
+      "date": "2026-03-30",
+      "title": "Tesla、SpaceX、xAI等多家前沿科技公司的创始人兼CEO Elon Musk和XPRIZE 基金会创始人兼执行主席 Peter Diamandis两人围绕 xAI 、 Grok 进展、 Optimus 机器人量产、 AGI 明确的时间表以及后稀缺时代 “ 全民高收入 ” 的经济形态展开了深入而极具前瞻性的对话。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-29",
-      "title": "一个生产级的 agentic CLI 到底需要哪些组件？每一层的具体怎么实现？SSE 缓冲区怎么管理、system prompt 怎么分段、工具权限怎么拦截、上下文满了怎么压缩。这些问题靠读文档回答不了，靠逆向混淆代码效率极低。作者以 Claude Code 为参照系，从零重建了一个功能等价的实现——纯 TypeScript，零框架，唯一的依赖是 fast-glob，得到了46 个文件，一万行 TypeScript。这篇文章记录的是这个过程中每一层的技术决策和实现细节。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "Linkloud Talk本期邀请到Gamma的创始人Grant Lee。Gamma最早从“革命”Powerpoint 切入，在上线至今3年多的时间里，以极高的人效在去年突破1亿美金的ARR，用户突破 7000万，并且完成了a16z领投的6800万美金的融资，估值高达21亿美金。Grant 分享了创业以来的公司治理理念、以及在高速发展阶段如何保持竞争力，营销与增长上的挑战和最佳实践！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "Compound Engineering凭借更先进的架构，成为了超越热门Superpowers的AI开发工作流。它贴合Anthropic的Harness设计，在规划、审查环节深度更强，还独创了知识沉淀机制，让AI不再每次从零开始。搭配gstack使用，可以覆盖决策、规划、执行、审核全链路，让AI开发更可靠、更具长期价值，对长期迭代项目的开发者极具实用意义。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-29",
-      "title": "Claire Vo曾三度担任首席产品官，也是ChatPRD 的创始人。她几乎用过市面上所有AI产品。她第一次安装OpenClaw花了整整八个小时，换来的结果是——家庭日历被清空。然而半年后，她在家里摆了三台 Mac Mini，运行着九个专属 AI 智能体。克莱尔完整复盘了她从怀疑者到深度用户的全程，以及她如何用 OpenClaw 同时打理工作、播客、课程和三个孩子的日常。",
+      "date": "2026-03-30",
+      "title": "Claude Code创始人Boris Cherny分享了他最新的15条使用技巧，让我们一同来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-03-30",
+      "title": "Tesla、SpaceX、xAI等多家前沿科技公司的创始人兼CEO Elon Musk和XPRIZE 基金会创始人兼执行主席 Peter Diamandis两人围绕 xAI 、 Grok 进展、 Optimus 机器人量产、 AGI 明确的时间表以及后稀缺时代 “ 全民高收入 ” 的经济形态展开了深入而极具前瞻性的对话。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Claude Code创始人Boris Cherny分享了他最新的15条使用技巧，让我们一同来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-29",
       "title": "过去两个月，作者一直在深度使用Claude Code，不是随便玩玩，而是每天都在实战一线深耕。他完成了相关课程，考取了认证，用它搭建项目，搞砸过功能，再逐一修复，接着开发更多功能。这篇文章是他全部的实战心得：那些鲜有人提及的功能、真正高效可用的工作流、让他耗费数小时才踩完的坑，以及帮他节省数天时间的技巧。",
