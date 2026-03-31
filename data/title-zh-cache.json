@@ -5325,5 +5325,16 @@
   "Ministack (Replacement for LocalStack)": "Ministack（LocalStack 的替代品）",
   "Claude finds RCE in Vim and Emacs": "Claude 在 Vim 和 Emacs 中发现 RCE",
   "Axios compromised on NPM – Malicious versions drop remote access trojan": "Axios 受到 NPM 攻击——恶意版本会释放远程访问木马",
-  "Mad Bugs: Vim vs. Emacs vs. Claude": "Mad Bugs：Vim、Emacs 与 Claude"
+  "Mad Bugs: Vim vs. Emacs vs. Claude": "Mad Bugs：Vim、Emacs 与 Claude",
+  "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs": "Show HN：1-Bit Bonsai，第一个商业上可行的 1-Bit LLM",
+  "Letters to Sen. Ed Markey: six autonomous vehicle companies say remote assistants don't directly control vehicles; Tesla says its operators are allowed to do so (Aarian Marshall/Wired)": "致参议员埃德·马基的信：六家自动驾驶汽车公司表示，远程助手并不直接控制车辆；特斯拉表示其运营商可以这样做（Aarian Marshall/Wired）",
+  "Business Insider Profiles Fidji Simo, OpenAI’s ‘CEO of Applications’": "Business Insider 介绍 OpenAI 的“应用首席执行官”Fidji Simo",
+  "Salesforce announces an AI-heavy makeover for Slack, with 30 new features": "Salesforce 宣布对 Slack 进行人工智能改造，新增 30 项功能",
+  "Ordinary Lab Gloves May Have Skewed Microplastic Data": "普通实验室手套可能会扭曲微塑料数据",
+  "A dot a day keeps the clutter away": "每天一点，远离混乱",
+  "Super Micro Computer Investors Look for Exits": "超微型计算机投资者寻求退出",
+  "Forth VM and compiler written in C++ and Scryer Prolog": "用 C++ 和 Scryer Prolog 编写的 Forth VM 和编译器",
+  "Meta, Snapchat, TikTok, YouTube aren't complying with U16 ban, Australia says": "澳大利亚称 Meta、Snapchat、TikTok、YouTube 不遵守 U16 禁令",
+  "Tree of functions, called during boot of Linux kernel v7.0-rc1": "函数树，在 Linux 内核 v7.0-rc1 启动期间调用",
+  "cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay": "cocoa-way：使用 Smithay 用 Rust 编写的本机 macOS Wayland 合成器"
 }
