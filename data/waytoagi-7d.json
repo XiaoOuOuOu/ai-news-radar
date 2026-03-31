@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T12:45:11.284859Z",
+  "generated_at": "2026-03-31T14:24:31.816855Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-31",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-03-31",
@@ -16,9 +16,14 @@
       "date": "2026-03-31",
       "title": "万众期待的 PixVerse V6 终于上线啦！🎉现阶段还在内测体验中，全量开放正在路上～社区专属福利：200份7天Pro会员兑换码，点击文档直接领取，手慢无！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Anthropic 研究科学家 Nicholas Carlini 在 [un]prompted 2026 安全会议上用不到 25 分钟演示了一件事： 语言模型现在可以自主找到并利用零日漏洞 ，目标包括 Linux 内核这种被人类安全专家审计了几十年的软件。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-31",
@@ -28,6 +33,11 @@
     {
       "date": "2026-03-31",
       "title": "万众期待的 PixVerse V6 终于上线啦！🎉现阶段还在内测体验中，全量开放正在路上～社区专属福利：200份7天Pro会员兑换码，点击文档直接领取，手慢无！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Anthropic 研究科学家 Nicholas Carlini 在 [un]prompted 2026 安全会议上用不到 25 分钟演示了一件事： 语言模型现在可以自主找到并利用零日漏洞 ，目标包括 Linux 内核这种被人类安全专家审计了几十年的软件。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
