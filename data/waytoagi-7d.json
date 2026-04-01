@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T15:59:55.121566Z",
+  "generated_at": "2026-04-01T16:56:09.767864Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-01",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-04-01",
@@ -14,15 +14,25 @@
     },
     {
       "date": "2026-04-01",
+      "title": "Agent = Model + Harness。 模型提供智能，Harness 让智能变得有用。这不是一个新概念，但它正在成为 2026 年 AI 工程领域最核心的共识。本文将从\"裸模型的四个硬伤\"出发，逐一拆解 Harness 的六大组件——文件系统、Bash + 沙箱、记忆（AGENTS.md）、Web Search + MCP、上下文工程、编排 + Hooks——带你看清 AI Agent 真正的竞争壁垒，不在模型层，而在 Harness 层。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-01",
       "title": "3月份，是OpenClaw制霸的一个月，各家主要以推出各种Claw为主，大模型这一块，超大尺寸的模型，基本上各家都是发布，但没更新，比如， 智谱的GLM5-Turbo模型 、 千问的Qwen3.5-Omni-Plus模型 、MiniMax的M2.7模型、 小米的MiMo-V2-Pro模型 等等。不过盘点下来，还是开源了不少模型，Qwen开源了3.5系列的小模型、美团开源了全模态和定理模型、腾讯开源了视觉&音频模型、小红书开源了OCR&图像编辑模型。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-04-01",
       "title": "这份手册是作者和Claude Code一起写的。对，用CC写CC教程，它自己教你怎么用它。信息来源主要是Anthropic官方文档、Claude Code之父Boris Cherny的分享、吴恩达的Claude Code课程，再加上我自己用CC做了十几个产品踩过的坑。我用CC大半年了，每个月给Anthropic付200多美金（含税），烧过数十亿tokens，该踩的坑基本都踩了一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Agent = Model + Harness。 模型提供智能，Harness 让智能变得有用。这不是一个新概念，但它正在成为 2026 年 AI 工程领域最核心的共识。本文将从\"裸模型的四个硬伤\"出发，逐一拆解 Harness 的六大组件——文件系统、Bash + 沙箱、记忆（AGENTS.md）、Web Search + MCP、上下文工程、编排 + Hooks——带你看清 AI Agent 真正的竞争壁垒，不在模型层，而在 Harness 层。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -173,46 +183,6 @@
     {
       "date": "2026-03-27",
       "title": "José Maria Macedo（若泽·马里亚·马塞多），Delphi Ventures 创始合伙人、Delphi Labs 创始人兼 CEO。最近，他在中国待了两个星期，拜访了 AI 生态圈里的各位创始人、风险投资人（VC）以及上市公司的 CEO。本文正是 Macedo 在中国进行 AI 生态实地考察后写的观察总结。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "这篇文章带你一同了解Skills 是什么、怎么建 、怎么建好以及Anthropic 在 2026 年 3 月刚推出的三个重要升级。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "裁员新闻铺天盖地，AI 要抢走饭碗的焦虑四处蔓延——但如果暂时放下这些头条，认真看看数据，会发现一个截然不同的故事。科技行业的招聘正在呈现许多令人鼓舞的信号，同时也浮现了一些值得关注的新趋势！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "最近作者的也遇到了长文的创作瓶颈，正好看到了 Dan Koe的这篇深度长文，读完之后深有感触，于是他将原文进行编译分享给各位。如果你也苦恼于如何提升创作力，请花10分钟认真读完这篇文章，你一定不会后悔。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "作者用多维表格AI从最简单的 搭个活动报名系统 一路用到 搭一套完整的培训机构管理系统 ，把能做什么、做不了什么全部记下来。让我们来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Claude Code生态发展很快，头部项目已经有10万star了。作者整理了9个值得关注的开源项目，从技能框架到记忆系统到工作流自动化，基本覆盖了当前热门的方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "3月4日凌晨发出那句「me stepping down. bye my beloved qwen」之后，林俊旸在社交媒体上沉默了三周。今天，他在 X（Twitter）上发布了离职以来的 第一篇长文。在这篇文章里，他没有谈离职原因，没有回应去向传闻。全文只做了一件事：写下他对 AI 下一阶段方向的判断。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
