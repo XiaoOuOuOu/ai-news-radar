@@ -5396,5 +5396,15 @@
   "Okta's CEO says all AI agents need a kill switch": "Okta 首席执行官表示所有人工智能代理都需要一个终止开关",
   "Meta is assembling an elite new AI lab for its recommendations division": "Meta 正在为其推荐部门组建一个新的精英人工智能实验室",
   "Asana CEO bets on organizing AI agent chaos at work as Wall Street fears SaaS disruption": "由于华尔街担心 SaaS 受到干扰，Asana 首席执行官押注于组织人工智能代理在工作中的混乱局面",
-  "The German state (Schleswig-Holstein) trying to break free from Microsoft": "德国（石勒苏益格-荷尔斯泰因州）试图摆脱微软的束缚"
+  "The German state (Schleswig-Holstein) trying to break free from Microsoft": "德国（石勒苏益格-荷尔斯泰因州）试图摆脱微软的束缚",
+  "openai /      codex": "openai / 法典",
+  "Global VC investment hit a record $297B in Q1 2026, up 150% YoY, with AI startups capturing 81% of the funding; just four companies raised 64% of the total (Gené Teare/Crunchbase News)": "2026 年第一季度，全球风险投资达到创纪录的 $297B，同比增长 150%，其中人工智能初创公司获得了 81% 的资金；仅四家公司筹集了总额的 64%（Gené Teare/Crunchbase News）",
+  "Anthropic confirms it leaked 512,000 lines of Claude Code source code — spilling some of its biggest secrets": "Anthropic 确认泄露了 512,000 行 Claude Code 源代码——泄露了一些最大的秘密",
+  "Austin-based Coder, which helps developers build and run code from local devices to the cloud, raised a $90M Series C led by KKR, after raising $35M in 2024 (Julia Hornstein/The Information)": "总部位于奥斯汀的 Coder 帮助开发人员从本地设备到云端构建和运行代码，继 2024 年筹集了 3500 万美元之后，又筹集了由 KKR 领投的 9000 万美元 C 轮融资（Julia Hornstein/The Information）",
+  "Slack's upgraded AI can analyze how you work": "Slack 升级后的 AI 可以分析你的工作方式",
+  "Why you shouldn’t ask ChatGPT for relationship advice — it’ll just tell you you’re right and 'may worsen rather than resolve conflict'": "为什么你不应该向 ChatGPT 寻求关系建议——它只会告诉你你是对的，并且“可能会恶化而不是解决冲突”",
+  "Corti’s new Symphony AI beats OpenAI and Anthropic on medical coding": "Corti 的新 Symphony AI 在医疗编码方面击败 OpenAI 和 Anthropic",
+  "Why Don’t You Use String Views Instead of Passing strings by const&?": "为什么不使用字符串视图而不是通过 const& 传递字符串？",
+  "Got turned down because of my manager using Chat GPT to check if my hair was up to code": "因为我的经理使用 Chat GPT 检查我的头发是否符合规范而被拒绝",
+  "RubyGems Fracture Incident Report": "RubyGems 断裂事故报告"
 }
