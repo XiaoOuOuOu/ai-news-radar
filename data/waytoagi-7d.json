@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-04-02T19:40:19.138942Z",
+  "generated_at": "2026-04-02T20:22:46.371218Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-02",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-02",
+      "title": "都说OpenAI和Anthropic是死对头，但是上周OpenAI悄悄发布了一个东西，叫 codex-plugin-cc （OpenAI Codex的Claude Code官方插件），专门给在用Claude Code的人装的。它可以让你在Claude Code工作流里，直接调用Codex干活。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-02",
       "title": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "skill-creator 是一个“教 AI 如何写好技能说明书”的工具，也是创建技能时最关键的一环。旧版只是教你写说明书，而新版不仅教你怎么写，还会帮你考核、打分、纠正问题，直到你写出一份真正好用的说明书为止。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +33,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-04-02",
+      "title": "都说OpenAI和Anthropic是死对头，但是上周OpenAI悄悄发布了一个东西，叫 codex-plugin-cc （OpenAI Codex的Claude Code官方插件），专门给在用Claude Code的人装的。它可以让你在Claude Code工作流里，直接调用Codex干活。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-02",
       "title": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "skill-creator 是一个“教 AI 如何写好技能说明书”的工具，也是创建技能时最关键的一环。旧版只是教你写说明书，而新版不仅教你怎么写，还会帮你考核、打分、纠正问题，直到你写出一份真正好用的说明书为止。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
