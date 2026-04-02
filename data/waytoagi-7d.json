@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-02T11:36:35.201644Z",
+  "generated_at": "2026-04-02T12:42:35.203260Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-02",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-02",
+      "title": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-02",
       "title": "OpenAI总裁访谈背后，藏着这家巨头的真实焦虑与战略赌局。砍掉Sora不只是技术聚焦，更是止损巨额烧钱与用户流失；即将推出的Super App想要整合聊天、编程与浏览器能力，意图打造统一 AI 入口，却直面微软与Anthropic的夹击。OpenAI 又将会如何应对？让我们来一探究竟！",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-02",
+      "title": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-02",
       "title": "OpenAI总裁访谈背后，藏着这家巨头的真实焦虑与战略赌局。砍掉Sora不只是技术聚焦，更是止损巨额烧钱与用户流失；即将推出的Super App想要整合聊天、编程与浏览器能力，意图打造统一 AI 入口，却直面微软与Anthropic的夹击。OpenAI 又将会如何应对？让我们来一探究竟！",
