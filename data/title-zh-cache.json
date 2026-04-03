@@ -5813,5 +5813,7 @@
   "US Army chief of staff fired by Hegseth": "美国陆军参谋长被赫格斯解职",
   "Show HN: I tested 15 free AI models at building real software on a $25/year VPS": "Show HN：我在每年 25 美元的 VPS 上构建真实软件时测试了 15 个免费 AI 模型",
   "Running out of Disk Space in Production": "生产环境中磁盘空间不足",
-  "Packaging 128 languages with Nix": "使用 Nix 打包 128 种语言"
+  "Packaging 128 languages with Nix": "使用 Nix 打包 128 种语言",
+  "800 Rust terminal projects in 3 years": "3年内800个Rust终端项目",
+  "Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays": "Show HN：SyNumpy – 用于处理 NumPy 数组的仅标头 C++17 库"
 }
