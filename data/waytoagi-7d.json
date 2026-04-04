@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-04T17:20:36.215790Z",
+  "generated_at": "2026-04-04T18:24:09.422151Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-04",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-04-04",
+      "title": "大多数人学习了AI相关知识后，却完全不知道该打造什么作品。或许掌握了理论知识，熟悉各类工具，可一旦坐下来动手创作，就只能对着空白屏幕发呆。这份清单就是为了解决这个问题。25个项目按难度分级整理，每个项目都能在一个周末内完成，每个项目都能解决实际问题，每个项目所学到的技能，还能为后续项目打下基础、层层叠加。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-04",
       "title": "在用Claude Code开发时误改配置、乱删文件、漏跑测试的痛点，靠Hooks就能一键解决。这篇文章推荐了8个Claude Code Hooks，对日常使用AI写码的人来说实用性极强，快上手试试！",
@@ -23,8 +28,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-04-04",
+      "title": "大多数人学习了AI相关知识后，却完全不知道该打造什么作品。或许掌握了理论知识，熟悉各类工具，可一旦坐下来动手创作，就只能对着空白屏幕发呆。这份清单就是为了解决这个问题。25个项目按难度分级整理，每个项目都能在一个周末内完成，每个项目都能解决实际问题，每个项目所学到的技能，还能为后续项目打下基础、层层叠加。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-04",
       "title": "在用Claude Code开发时误改配置、乱删文件、漏跑测试的痛点，靠Hooks就能一键解决。这篇文章推荐了8个Claude Code Hooks，对日常使用AI写码的人来说实用性极强，快上手试试！",
