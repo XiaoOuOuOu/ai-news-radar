@@ -1,45 +1,55 @@
 {
-  "generated_at": "2026-04-06T15:35:40.081959Z",
+  "generated_at": "2026-04-06T16:33:18.844987Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-05",
-  "count_today": 6,
+  "latest_date": "2026-04-06",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-04-05",
-      "title": "这篇文章里，作者写了自己为什么离开传统制造，为什么会被 AI 这股浪潮推着往前走，也写了这半年里我是怎么靠一个个项目、一点点实践，把自己从原来的工作惯性里拽出来，最后真正拿到一份 AI 产品经理的工作。那篇文章更像一段转型复盘，讲的是选择、冒险、试错和跃迁。如果你也想转型AI产品经理，值得一看！",
+      "date": "2026-04-06",
+      "title": "本周AI音乐领域技术与合规迎来新变化。阿里Qwen3.5-Omni实现音视频直接编程，ElevenMusic入局对标主流平台，海绵音乐、ProducerAI同步升级创作体验。与此同时，版权争议持续升级，美国权威机构质疑AI训练合理使用，TikTok上线技术严控变调侵权。但独立音乐人频遭AI声纹克隆与恶意版权勒索。快来一同查看AI音乐行业最新动态。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-05",
-      "title": "这篇文章和大家聊聊编程智能体（Coding Agent）和 Agent harness（智能体 Harness）的整体设计。它们到底是什么？怎么工作的？在实际应用中，各个部件又是如何协同配合的？",
+      "date": "2026-04-06",
+      "title": "Philip Johnston ， StarCloud 创始人兼 CEO ，全球首个实现太空数据中心在轨运行的创业者，深耕航天与算力基础设施。 Sonya Huang 、 Pat Grady ，科技领域资深主持人。这期对话则聚焦太空数据中心的技术、成本、规模化与商业未来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-05",
-      "title": "本周AI精选论文覆盖模型安全、Agent架构、成本与效率等核心突破，极具实战与研究价值。Claude被证实存在情绪向量，为安全对齐提供新方向；AI Agent陷阱揭示网络攻击新形态，风险与责任亟待明确。多Agent异步协作、自组织架构大幅提升工程效率，Harness自动化优化与编码Agent替代长上下文，显著降低落地成本。",
+      "date": "2026-04-06",
+      "title": "OpenAI Codex 团队的 产品规格文档只有 10 个要点 。不是说每个功能的文档只有 10 个要点，而是整个产品的 spec 就这么多。 设计师写的代码量超过了六个月前工程师写的 。50 到 100 人的团队，直到最近才有了第二个产品经理。来让我们看看他们是如何用自己的产品构建产品！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-05",
-      "title": "在规划和启动 SEO 时，对 SEO 做得不错的竞争网站有明确、详细的洞察是非常重要的。一方面，你以为你很懂客户，但你可能 不懂搜索用户在搜索什么，以及其背后的搜索意图 。另一方面，每个新站都应当做 SEO 竞争性分析，最起码能了解 SEO 流量渠道能不能做？现阶段该不该做？这篇文章分享了寻找并了解你的 SEO 竞争对手的方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "Marc Andreessen 是少数几个亲历了互联网、移动端、云计算三次浪潮、且不只是\"见证\"了它们的人——他联合创立了 Netscape，写出了第一个商业浏览器，此后与 Ben Horowitz 共同创立 a16z，成为硅谷最有影响力的风险基金之一。这期对话是目前市面上最有密度、最少废话的一次一手回答，不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "Dazhuang Skill Creator 基于 Claude Code 官方 skill-creator，但并不只是改几句提示词。作者把自己对提示词架构、Skill 架构，以及 CLI 工具运行机制的理解重新整合进去，对整体工作流、结构分层、bundled resources 和可维护性做了一次完整重构，整个 skill.md 非常轻量量，基本上只有规则和工作流程，优化起来像以前写提示词一样简单。快来安装试试！",
+      "date": "2026-04-06",
+      "title": "Jyothi Nookula 在 AI 领域工作了 13.5 年，持有 12 项 AI 专利，先后担任 Amazon SageMaker、Meta PyTorch、Netflix 开发者平台的 AI 产品总监。这期播客是一堂公开的 AI 产品经理速成课：不是职场鸡汤，是从岗位结构、技术选型、Agent 架构到三家大厂 PM 文化的真实拆解。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-04-06",
+      "title": "本周AI音乐领域技术与合规迎来新变化。阿里Qwen3.5-Omni实现音视频直接编程，ElevenMusic入局对标主流平台，海绵音乐、ProducerAI同步升级创作体验。与此同时，版权争议持续升级，美国权威机构质疑AI训练合理使用，TikTok上线技术严控变调侵权。但独立音乐人频遭AI声纹克隆与恶意版权勒索。快来一同查看AI音乐行业最新动态。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "Philip Johnston ， StarCloud 创始人兼 CEO ，全球首个实现太空数据中心在轨运行的创业者，深耕航天与算力基础设施。 Sonya Huang 、 Pat Grady ，科技领域资深主持人。这期对话则聚焦太空数据中心的技术、成本、规模化与商业未来。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "OpenAI Codex 团队的 产品规格文档只有 10 个要点 。不是说每个功能的文档只有 10 个要点，而是整个产品的 spec 就这么多。 设计师写的代码量超过了六个月前工程师写的 。50 到 100 人的团队，直到最近才有了第二个产品经理。来让我们看看他们是如何用自己的产品构建产品！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "Jyothi Nookula 在 AI 领域工作了 13.5 年，持有 12 项 AI 专利，先后担任 Amazon SageMaker、Meta PyTorch、Netflix 开发者平台的 AI 产品总监。这期播客是一堂公开的 AI 产品经理速成课：不是职场鸡汤，是从岗位结构、技术选型、Agent 架构到三家大厂 PM 文化的真实拆解。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-05",
       "title": "这篇文章里，作者写了自己为什么离开传统制造，为什么会被 AI 这股浪潮推着往前走，也写了这半年里我是怎么靠一个个项目、一点点实践，把自己从原来的工作惯性里拽出来，最后真正拿到一份 AI 产品经理的工作。那篇文章更像一段转型复盘，讲的是选择、冒险、试错和跃迁。如果你也想转型AI产品经理，值得一看！",
@@ -188,41 +198,6 @@
     {
       "date": "2026-04-01",
       "title": "3月份，是OpenClaw制霸的一个月，各家主要以推出各种Claw为主，大模型这一块，超大尺寸的模型，基本上各家都是发布，但没更新，比如， 智谱的GLM5-Turbo模型 、 千问的Qwen3.5-Omni-Plus模型 、MiniMax的M2.7模型、 小米的MiMo-V2-Pro模型 等等。不过盘点下来，还是开源了不少模型，Qwen开源了3.5系列的小模型、美团开源了全模态和定理模型、腾讯开源了视觉&音频模型、小红书开源了OCR&图像编辑模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "本周AI领域TOP论文覆盖自我进化、智能大爆发、模型架构与安全等核心方向。Hyperagents实现元认知自我优化，谷歌提出智能爆发来自社会式组合智能，ARC-AGI-3凸显人机推理差距。Claudini让AI自主发现更强对抗攻击，MemCollab实现跨模型记忆共享，多项技术在代码、强化学习、多智能体协作上大幅提升性能。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "山音超级编剧大师 - 全格式影视编剧 Skill 是由 @山音 设计的自然语言驱动编剧 Agent Skill 覆盖 1-3 分钟概念超短片→90 分钟电影长片→多集剧集的全流程剧本创作，一站式搞定人物、大纲、场景、剧本全链路，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "万众期待的 PixVerse V6 终于上线啦！🎉社区专属福利：200份7天Pro会员兑换码，点击文档直接领取，手慢无！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "WaytoAGI第五期「Openclaw小龙虾训练营」的课程已经进行了一半啦，在过去一周（2026年3月11日——2026年3月20日）我们收到了许多同学的作业投稿，经过层层筛选，最终精选出6位同学共11篇笔记分享给大家，希望大家有所收获，同时也感谢这几位同学的认真撰写。如果大家有好的想法想要投稿，记得通过下方二维码「作业投稿」和大家分享你的优秀作业笔记！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "Claude Code的完整TypeScript源码，51.2万行，1903个文件，就这样暴露在了公网上。Claude Code和其他AI编程工具到底有什么本质区别？为什么它写代码的\"手感\"就是比别人好？51万行代码里，到底藏着什么？快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "Anthropic 研究科学家 Nicholas Carlini 在 [un]prompted 2026 安全会议上用不到 25 分钟演示了一件事： 语言模型现在可以自主找到并利用零日漏洞 ，目标包括 Linux 内核这种被人类安全专家审计了几十年的软件。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-31",
-      "title": "3月31日，安全研究员Chaofan Shou发现 Anthropic 的 Claude Code 全部源码通过npm包里的一个source map文件暴露在了公网上。其中1,900 个 TypeScript 源文件， 512,000 行代码，从工具系统到权限模型到未发布功能，全部以未混淆的原始形态公开可下载。几个小时之内，源码被多人备份到 GitHub。其中最大的一个备份仓库 一个小时内涨到11,300star 和 17,300fork，568个issue，让我们来一起探究事件的始末！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
