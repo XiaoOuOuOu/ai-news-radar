@@ -6605,5 +6605,17 @@
   "Cambodia unveils a statue of famous landmine-sniffing rat Magawa": "柬埔寨著名嗅雷鼠马加瓦雕像揭幕",
   "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP": "使用通过 USB/IP 桥接到 WebUSB 的浏览器内 Linux VM 来拯救旧打印机",
   "Claude is having another moment, again": "克劳德又迎来了另一个时刻",
-  "A macOS bug that causes TCP networking to stop working after 49.7 days": "导致 TCP 网络在 49.7 天后停止工作的 macOS 错误"
+  "A macOS bug that causes TCP networking to stop working after 49.7 days": "导致 TCP 网络在 49.7 天后停止工作的 macOS 错误",
+  "Interviews with Anthropic executives on why Claude Mythos Preview is a cybersecurity \"reckoning\", not releasing it publicly over misuse concerns, and more (Kevin Roose/New York Times)": "采访 Anthropic 高管，了解为什么 Claude Mythos Preview 是网络安全的“清算”，而不是因为滥用问题而公开发布，等等（Kevin Roose/纽约时报）",
+  "'AI is only as strong as its data': Why Microsoft is betting on this little-known startup’s 700B parameter model to predict your next purchase": "“人工智能的强度取决于其数据”：为什么微软押注于这家鲜为人知的初创公司的 700B 参数模型来预测你的下一次购买",
+  "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"": "Bluesky 用户正在掌握将一切归咎于“氛围编码”的艺术",
+  "Waterloo-based Mappedin, which uses AI and LiDAR to create and maintain 3D digital maps of indoor spaces, raised $24.5M, bringing its total funding to $35M (Chris Metinko/Axios)": "总部位于滑铁卢的 Mappedin 使用 AI 和 LiDAR 创建和维护室内空间 3D 数字地图，筹集了 2,450 万美元，使其总资金达到 3,500 万美元（Chris Metinko/Axios）",
+  "Testing Suggests Google's AI Overviews Tells Millions of Lies Per Hour": "测试表明谷歌的人工智能概述每小时会说出数百万个谎言",
+  "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything": "Anthropic 与其竞争对手联手阻止人工智能入侵一切",
+  "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation": "Nvidia 支持的“Southgate”人工智能数据中心建设者 Firmus 估值达到 5.5B 美元",
+  "Impeaching Donald J. Trump, President of the United States [pdf]": "弹劾美国总统唐纳德·J·特朗普 [pdf]",
+  "Anthropic's Project Glasswing includes AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, Microsoft, Nvidia, Palo Alto Networks, and others (David Gewirtz/ZDNET)": "Anthropic 的 Glasswing 项目包括 AWS、Apple、Broadcom、Cisco、CrowdStrike、Google、Microsoft、Nvidia、Palo Alto Networks 等（David Gewirtz/ZDNET）",
+  "Assessing Claude Mythos Preview’s cybersecurity capabilities": "评估 Claude Mythos Preview 的网络安全能力",
+  "The Blueprint of a North Korean Attack on Open-Source": "朝鲜攻击开源的蓝图",
+  "Solod – A subset of Go that translates to C": "Solod – Go 的子集，可转换为 C"
 }
