@@ -1,25 +1,50 @@
 {
-  "generated_at": "2026-04-08T19:02:08.972044Z",
+  "generated_at": "2026-04-08T20:30:21.166210Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-08",
-  "count_today": 2,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-04-08",
+      "title": "贝叶斯定理是概率论和机器学习中的一个核心思想。它告诉你，当你看到新数据之后，应该如何更新自己的判断。在这篇文章里，会把整个内容一块一块拆开来讲。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
       "title": "当下AI智能体开发普遍陷入局部优化误区，作者借鉴贝尔实验室系统工程思想，指出软件工程本质就是系统工程。构建可用的Agent软件需要打通智能体、数据、安全、界面、基础设施五层架构，摒弃零散工具堆砌，从整体视角实现协同设计。文中结合了开源项目Dash的实操演示，提供了可落地的架构方案，可以快速搭建稳定可靠的生产级智能体系统，快来借鉴一下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-04-08",
+      "title": "今天凌晨，Meta 发布了全新的大模型 Muse Spark ，已上线到 Meta 旗下的各类产品。Muse Spark 是一个原生多模态推理模型 ，支持工具调用 、 视觉推理链（visual chain of thought） 和多Agent协同。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Hannah Stulberg 是DoorDash的PM，前Google APM，她在 Claude Code上已经投入超过1500个小时，而且至今仍在每天改进自己的工作流。这期Aakash Gupta的播客里，她把自己的「Team OS」完整拆解给了所有人——一个让 PM 一个人撑起 20 人团队的共享知识库系统。如果你是 PM、工程师或设计师，正在思考如何用 AI 真正放大自己的工作效率，这篇文章值得认真读完。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
       "title": "Anthropic 发布了 Claude Mythos Preview 。这是一个通用前沿模型，定位在 Opus 之上，是 Claude 产品线的全新最高层级。Anthropic 同时宣布，Mythos Preview 不会公开发布，只向 12 家核心合作方和 40 余家关键基础设施组织开放，让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "AI圈正掀起Hermes Agent热潮，或许将复刻OpenClaw的FOMO现象。本篇文章清晰展现了它与OpenClaw的核心区别：Hermes轻量化易上手，以智能体为核心，具备独有的技能自我进化与经验沉淀能力，运行透明稳定，更适合个人打造专属协作智能体。同时还解读了迅猛上涨的市场数据与发展趋势，配套中英文文档，帮你精准判断到底哪款工具更适配自身需求，来抓住新一轮 Agent 风口。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-04-08",
+      "title": "贝叶斯定理是概率论和机器学习中的一个核心思想。它告诉你，当你看到新数据之后，应该如何更新自己的判断。在这篇文章里，会把整个内容一块一块拆开来讲。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-08",
       "title": "当下AI智能体开发普遍陷入局部优化误区，作者借鉴贝尔实验室系统工程思想，指出软件工程本质就是系统工程。构建可用的Agent软件需要打通智能体、数据、安全、界面、基础设施五层架构，摒弃零散工具堆砌，从整体视角实现协同设计。文中结合了开源项目Dash的实操演示，提供了可落地的架构方案，可以快速搭建稳定可靠的生产级智能体系统，快来借鉴一下！",
@@ -27,7 +52,22 @@
     },
     {
       "date": "2026-04-08",
+      "title": "今天凌晨，Meta 发布了全新的大模型 Muse Spark ，已上线到 Meta 旗下的各类产品。Muse Spark 是一个原生多模态推理模型 ，支持工具调用 、 视觉推理链（visual chain of thought） 和多Agent协同。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Hannah Stulberg 是DoorDash的PM，前Google APM，她在 Claude Code上已经投入超过1500个小时，而且至今仍在每天改进自己的工作流。这期Aakash Gupta的播客里，她把自己的「Team OS」完整拆解给了所有人——一个让 PM 一个人撑起 20 人团队的共享知识库系统。如果你是 PM、工程师或设计师，正在思考如何用 AI 真正放大自己的工作效率，这篇文章值得认真读完。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
       "title": "Anthropic 发布了 Claude Mythos Preview 。这是一个通用前沿模型，定位在 Opus 之上，是 Claude 产品线的全新最高层级。Anthropic 同时宣布，Mythos Preview 不会公开发布，只向 12 家核心合作方和 40 余家关键基础设施组织开放，让我们来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "AI圈正掀起Hermes Agent热潮，或许将复刻OpenClaw的FOMO现象。本篇文章清晰展现了它与OpenClaw的核心区别：Hermes轻量化易上手，以智能体为核心，具备独有的技能自我进化与经验沉淀能力，运行透明稳定，更适合个人打造专属协作智能体。同时还解读了迅猛上涨的市场数据与发展趋势，配套中英文文档，帮你精准判断到底哪款工具更适配自身需求，来抓住新一轮 Agent 风口。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
