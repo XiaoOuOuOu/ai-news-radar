@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-04-11T16:22:10.741513Z",
+  "generated_at": "2026-04-11T17:21:51.654312Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-11",
-  "count_today": 3,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-04-11",
       "title": "这篇Anthropic官方博客揭秘了Claude Code的工具设计心法，为Agent开发者提供了极具参考价值的架构思路。文中通过多次迭代案例，展现了从低效方案到结构化工具、从待办清单到任务协作的演进逻辑。读懂这套设计哲学，你也可以避开工具冗余的陷阱，打造更高效、更适配模型的智能体系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "多数人的知识笔记最终都会烂尾，核心问题是维护成本远高于记录成本。Karpathy带来AI驱动的知识库新解法，借助Obsidian与Claude Code，只需简单三步即可搭建三层结构Wiki，AI自动完成内容拆分、概念页面生成与双向链接构建，还能定期体检修复过时信息与断链问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "作者实测筛选出40个可以让 Claude 从封闭大脑变为智能助手的实用MCP服务器，而且按搜索、文件、开发、生产力等场景分类，清晰说明了用途与适用场景，并针对不同职业提供入门安装套餐。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +33,21 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-04-11",
       "title": "这篇Anthropic官方博客揭秘了Claude Code的工具设计心法，为Agent开发者提供了极具参考价值的架构思路。文中通过多次迭代案例，展现了从低效方案到结构化工具、从待办清单到任务协作的演进逻辑。读懂这套设计哲学，你也可以避开工具冗余的陷阱，打造更高效、更适配模型的智能体系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "多数人的知识笔记最终都会烂尾，核心问题是维护成本远高于记录成本。Karpathy带来AI驱动的知识库新解法，借助Obsidian与Claude Code，只需简单三步即可搭建三层结构Wiki，AI自动完成内容拆分、概念页面生成与双向链接构建，还能定期体检修复过时信息与断链问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "作者实测筛选出40个可以让 Claude 从封闭大脑变为智能助手的实用MCP服务器，而且按搜索、文件、开发、生产力等场景分类，清晰说明了用途与适用场景，并针对不同职业提供入门安装套餐。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
