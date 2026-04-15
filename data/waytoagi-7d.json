@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-15T17:57:27.637234Z",
+  "generated_at": "2026-04-15T19:05:38.990475Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-15",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-04-15",
+      "title": "这篇文章给你一套双层系统，让你运行的每一个 AI Agent 都变得更聪明。20 分钟搭建，每天自动变强，完全开源。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
@@ -20,6 +25,11 @@
     {
       "date": "2026-04-15",
       "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-15",
+      "title": "作者这篇文章分享一个方案：用 Claude Code+飞书 CLI+CC-Connect，实现龙虾同等能力，而且更可控、更放心。简单说就是：你在飞书发消息 → CC-Connect 把消息转给本地 CC → CC 执行任务 → 通过飞书 CLI 把结果发回飞书。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,8 +43,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 41,
   "updates_7d": [
+    {
+      "date": "2026-04-15",
+      "title": "这篇文章给你一套双层系统，让你运行的每一个 AI Agent 都变得更聪明。20 分钟搭建，每天自动变强，完全开源。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
@@ -48,6 +63,11 @@
     {
       "date": "2026-04-15",
       "title": "你有没有这种感觉：用AI生成的视频，画质明明很好，人物也很精致，但总觉得少了点什么。看起来更像一张\"动起来的海报\"，而不是一段真正的影像。差的那个东西，叫运镜。小歪整理了AI视频镜头语言提示词大全，手把手教你写提示词！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-15",
+      "title": "作者这篇文章分享一个方案：用 Claude Code+飞书 CLI+CC-Connect，实现龙虾同等能力，而且更可控、更放心。简单说就是：你在飞书发消息 → CC-Connect 把消息转给本地 CC → CC 执行任务 → 通过飞书 CLI 把结果发回飞书。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
