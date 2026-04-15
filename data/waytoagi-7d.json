@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-15T15:57:05.833164Z",
+  "generated_at": "2026-04-15T16:54:49.018512Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-15",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-15",
+      "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-04-15",
+      "title": "同样质量的一篇文章，用传统方式（打开 AI 对话框来回改 Prompt）大概需要120-240分钟 。用我接下来要讲的这条管线，25-40分钟 ，而且我自己动手的时间不超过15分钟。省下来的时间不是偷懒——是把时间从 \"和 AI 拉扯\" 转移到了 \"注入我的判断\" 上。这篇文章和大家分享下 如何用最近很火的Cli来把审美变成可执行的内容生产线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-15",
       "title": "前两天 Hermes上还只能飞书聊天，但缺少文件管理权限，玩法少了很多，现在飞书CLI官宣支持Hermes了！你可以照着这篇保姆级教程做，抢先一步把 Hermes 接进飞书并进化为功能权限齐全的完全体飞书CLI！",
@@ -198,36 +208,6 @@
     {
       "date": "2026-04-10",
       "title": "OiiOii 是全球首个动画创作Agent。用户通过自然语言对话，就能快速生成一张精美的插图、制作几秒的惊艳短视频，或者创作一段完整的剧情动画短片。这篇使用手册将带你快速熟悉平台的核心功能，开启你的 AI 创作之旅！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "这是一个毛孩子家庭的 24 小时 AI 全天候跟拍系统。从凌晨到深夜，每小时自动生成一幅专属波普风插画，构建可覆盖毛孩子一生的数字档案网站。作者不懂代码，全靠龙虾vibe coding，来分享一个从零搭建的思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "在这篇博客里，我们会学习 Mixture of Experts（MoE）架构，理解什么是 experts，router 如何选择它们，为什么 MoE 能让大模型更快、更便宜，以及为什么它驱动了如今很多最强大的大语言模型（LLMs）。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "即梦悄悄放出了一个新工具叫 Octo。目前还在内测阶段，小歪写这篇文章带大家一起拆解下。Octo 不是一个普通的AI生图或者生视频的工具 ，在一个画布上， 不仅可以生图、生视频，还可以并行的实时搜索，来给你的AI创作过程提供灵感或者资料佐证等 跟AI聊天，就能完成从想创意、定风格、设计角色、拆分镜到生成视频、剪辑导出的全部流程！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "作者每天看到优质的项目/工具、模型发布、精彩的行业观点，都会顺手丢到群里，跟大家分享互动。但是有些问题之前在群里都有讨论过，也发过对应的项目的使用介绍。但只要聊天记录一过，还是会有人反复再问。毕竟群聊是流式的，信息刷过去就没了，根本没沉淀。这篇文章，作者就带大家一起拆解下他是如何将群聊优质信息整理成知识库的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "Deep Agents deploy基于 Deep Agents 构建 —— 这是一款开源、不依赖特定模型的智能体管理框架。这类管理框架与记忆存储紧密关联，是实现开源智能体框架生产级落地的最快捷方式。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "Anthropic 今天发了一个新产品，叫 Claude Managed Agents 。一句话概括：你告诉 Anthropic 你想要什么样的 AI 智能体，它帮你在云端跑起来， 基础设施全包，按用量收费 。Sentry 用它几周就上线了自动修 bug 的全流程，Rakuten 一周部署一个专项智能体。然而之前这些事需要一整个工程师团队干几个月。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
