@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T12:59:04.951563Z",
+  "generated_at": "2026-04-16T14:54:05.068328Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-16",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-16",
@@ -16,9 +16,19 @@
       "date": "2026-04-16",
       "title": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "一位14年经验的首席工程师，在同一个8万行代码 的真实项目里， 同时用 Claude Code 和 Codex 干了 120 个小时 ，然后写了一份对比报告。他不是凑周末写个 demo，是实打实的生产环境协同开发。最后发现AI 的工程素养，比生成速度重要一万倍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Phil Carter，独立增长顾问、天使投资人，过去在Quizlet负责增长产品，也长期服务消费类订阅公司。这期对话他把问题拆得非常具体：产品怎么在第一分钟抓住用户，增长团队怎么把这种价值送到更多人面前，最后又该怎样用试用、分层和算力成本把收入真正留下来。不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 43,
+  "count_7d": 45,
   "updates_7d": [
     {
       "date": "2026-04-16",
@@ -28,6 +38,16 @@
     {
       "date": "2026-04-16",
       "title": "成峰最近把他的剪辑 Agent 的字幕功能重做了一遍。跑一条指令，剪映首页多出一个新草稿。双击打开，字幕全在时间轴上，花字和入场动画都已经配好了。字幕准确率 95%，有口播稿能到 99%。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "一位14年经验的首席工程师，在同一个8万行代码 的真实项目里， 同时用 Claude Code 和 Codex 干了 120 个小时 ，然后写了一份对比报告。他不是凑周末写个 demo，是实打实的生产环境协同开发。最后发现AI 的工程素养，比生成速度重要一万倍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Phil Carter，独立增长顾问、天使投资人，过去在Quizlet负责增长产品，也长期服务消费类订阅公司。这期对话他把问题拆得非常具体：产品怎么在第一分钟抓住用户，增长团队怎么把这种价值送到更多人面前，最后又该怎样用试用、分层和算力成本把收入真正留下来。不容错过！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
