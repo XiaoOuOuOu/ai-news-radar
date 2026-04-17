@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-04-17T16:40:13.569308Z",
+  "generated_at": "2026-04-17T17:38:38.392846Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-17",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-04-17",
+      "title": "无论你用 Claude Code、Hermes、OpenClaw 还是其他 Agent，Skill 都是让 AI 干得又快又好的关键。但问题是：散落各处的教程太多，系统的学习路径太少。今天，WaytoAGI × 黄叔联合推荐这份《Claude Agent Skills 蓝皮书》。五篇二十章，从\"Skill 是给普通人最好的礼物\"讲起，到 Agent Team、自动进化收尾，覆盖完整学习曲线。搭配 WaytoAGI 知识库里持续更新的实战案例，理论和实操一站搞定。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-17",
       "title": "OpenCLI把复杂网页操作变成极简命令，一行指令就能秒查热榜、搜爆款、导数据，大幅提升信息获取效率。依托后台服务与浏览器插件联动，可以覆盖知乎、小红书、GitHub等数十平台，既能支撑内容创作者快速找选题，也适合程序员高效查项目。本篇指南，小白也能快速上手，彻底告别繁琐手动操作。",
@@ -28,8 +33,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-04-17",
+      "title": "无论你用 Claude Code、Hermes、OpenClaw 还是其他 Agent，Skill 都是让 AI 干得又快又好的关键。但问题是：散落各处的教程太多，系统的学习路径太少。今天，WaytoAGI × 黄叔联合推荐这份《Claude Agent Skills 蓝皮书》。五篇二十章，从\"Skill 是给普通人最好的礼物\"讲起，到 Agent Team、自动进化收尾，覆盖完整学习曲线。搭配 WaytoAGI 知识库里持续更新的实战案例，理论和实操一站搞定。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-17",
       "title": "OpenCLI把复杂网页操作变成极简命令，一行指令就能秒查热榜、搜爆款、导数据，大幅提升信息获取效率。依托后台服务与浏览器插件联动，可以覆盖知乎、小红书、GitHub等数十平台，既能支撑内容创作者快速找选题，也适合程序员高效查项目。本篇指南，小白也能快速上手，彻底告别繁琐手动操作。",
