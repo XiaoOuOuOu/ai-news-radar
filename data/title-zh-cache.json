@@ -8800,5 +8800,10 @@
   "PostgreSQL production incident caused by transaction ID wraparound": "事务ID环绕引发的PostgreSQL生产事件",
   "In the AI propaganda war, Iran is winning": "在人工智能宣传战中，伊朗获胜",
   "List of people imprisoned for editing Wikipedia": "因编辑维基百科而入狱的人员名单",
-  "The FBI Director Is MIA": "FBI 局长失踪"
+  "The FBI Director Is MIA": "FBI 局长失踪",
+  "Zero-Copy GPU Inference from WebAssembly on Apple Silicon": "Apple Silicon 上 WebAssembly 的零复制 GPU 推理",
+  "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating": "NASA 关闭航行者 1 号上的仪器以保持航天器运行",
+  "Sidephone: A minimalist Android phone with swappable USB keypads": "Sidephone：带有可更换 USB 键盘的极简 Android 手机",
+  "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data": "Show HN：MDV – 用于文档、仪表板和数据幻灯片的 Markdown 超集",
+  "Claude Opus wrote a Chrome exploit for $2,283": "Claude Opus 花费 2,283 美元编写了一个 Chrome 漏洞利用程序"
 }
