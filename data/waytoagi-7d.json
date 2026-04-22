@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-04-22T14:28:34.427742Z",
+  "generated_at": "2026-04-22T15:59:54.751825Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-22",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-22",
+      "title": "大羽的这篇万字拆解完整公开了北影节入围AIGC短片《带你去玩球！》的全流程创作，涵盖角色场景资产打造、分镜设计、多模型图生视频与动画剪辑技巧，另外还分享了场景一致性、运镜控制等实战难点的解决方案。大羽用低成本实现了高质感视听效果，为大家个人AIGC影像创作提供了可复用的实战思路，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-22",
       "title": "GPT Image 2正式全量开放，打开ChatGPT就能用。小歪把能想到的场景全试了一遍，一口气整理了这篇可能是全网最全的Image 2提示词案例合集。合集涵盖写实摄影 、 游戏与娱乐场景、 UI 设计、海报设计与商业视觉、角色设计、知识可视化与信息图表、创意玩法、网页摘要与 知识图谱生成等多个大类，快来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-22",
+      "title": "大羽的这篇万字拆解完整公开了北影节入围AIGC短片《带你去玩球！》的全流程创作，涵盖角色场景资产打造、分镜设计、多模型图生视频与动画剪辑技巧，另外还分享了场景一致性、运镜控制等实战难点的解决方案。大羽用低成本实现了高质感视听效果，为大家个人AIGC影像创作提供了可复用的实战思路，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-22",
       "title": "GPT Image 2正式全量开放，打开ChatGPT就能用。小歪把能想到的场景全试了一遍，一口气整理了这篇可能是全网最全的Image 2提示词案例合集。合集涵盖写实摄影 、 游戏与娱乐场景、 UI 设计、海报设计与商业视觉、角色设计、知识可视化与信息图表、创意玩法、网页摘要与 知识图谱生成等多个大类，快来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "AI 改变的不仅是界面外观，而是用户角色本身 ——从\"操作员（operator）\"变成\"监督员（supervisor）\"。这使得 UX 从\"命令式交互\"彻底转向\"意图委托式交互\"。本文是 Jakob Nielsen （尼尔森诺曼集团创始人、UX 领域泰斗）写的关于 AI 时代用户体验设计的深度长文，核心是提出 \"Intent by Discovery\"（通过发现来明确意图） 作为 AI 时代 UX 的核心范式。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
