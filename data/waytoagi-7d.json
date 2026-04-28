@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T17:26:59.929326Z",
+  "generated_at": "2026-04-28T19:15:19.083218Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-28",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-04-28",
@@ -31,9 +31,14 @@
       "date": "2026-04-28",
       "title": "DeepSeek-V4开源发布，以原生百万Token超长上下文能力，登顶当下最强开源大模型，性能直追顶尖闭源产品。本篇文章深度拆解了它的核心突破，为开发者与企业私有化部署、长文本AI应用开发，提供了极具参考价值的前沿实践范本。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "AI智能体长期进化的核心关键，从来不是迭代模型本身，而是搭建独立可迁移的底层记忆架构。作者自研开源Brain系统，以Git为核心存储底座，搭配轻量检索索引，打造了一个类型化、高安全、可自愈的通用记忆层。这套轻量化可落地的方案可以永久留存个人开发决策与经验，为AI工作流搭建可持续积累的专属知识资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 24,
+  "count_7d": 25,
   "updates_7d": [
     {
       "date": "2026-04-28",
@@ -58,6 +63,11 @@
     {
       "date": "2026-04-28",
       "title": "DeepSeek-V4开源发布，以原生百万Token超长上下文能力，登顶当下最强开源大模型，性能直追顶尖闭源产品。本篇文章深度拆解了它的核心突破，为开发者与企业私有化部署、长文本AI应用开发，提供了极具参考价值的前沿实践范本。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "AI智能体长期进化的核心关键，从来不是迭代模型本身，而是搭建独立可迁移的底层记忆架构。作者自研开源Brain系统，以Git为核心存储底座，搭配轻量检索索引，打造了一个类型化、高安全、可自愈的通用记忆层。这套轻量化可落地的方案可以永久留存个人开发决策与经验，为AI工作流搭建可持续积累的专属知识资产。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
