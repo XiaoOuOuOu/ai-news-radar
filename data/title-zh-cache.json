@@ -11607,5 +11607,17 @@
   "Craig Venter of Human Genome Project Dies at 79": "人类基因组计划的克雷格·文特尔去世，享年 79 岁",
   "Reducing ML-KEM-768 encapsulation key sizes by 24 octets": "将 ML-KEM-768 封装密钥大小减少 24 个八位位组",
   "What Conferences are You Excited to Attend in the Next 12 Months?": "您很高兴在未来 12 个月内参加哪些会议？",
-  "I got infected with a crypto-miner via misconfigured qBittorrent": "我通过错误配置的 qBittorrent 感染了加密矿工"
+  "I got infected with a crypto-miner via misconfigured qBittorrent": "我通过错误配置的 qBittorrent 感染了加密矿工",
+  "What if Tech Company Layoffs Aren't All About AI?": "如果科技公司裁员不全是关于人工智能怎么办？",
+  "OpenAI introduces AI-generated pets for its Codex app": "OpenAI 为其 Codex 应用程序引入人工智能生成的宠物",
+  "Welcome to Hell Developer": "欢迎来到地狱开发者",
+  "A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 (Victor Swezey/Bloomberg)": "继 2025 年 12 月另一家中国法院做出类似裁决后，一家中国法院裁定，公司不能仅仅为了用人工智能取代员工而解雇员工（Victor Swezey/彭博社）",
+  "'It took 9 seconds': tech founder outlines how rogue Claude-powered AI tool wiped entire company database and backups": "“花了 9 秒”：科技创始人概述了由克劳德驱动的流氓人工智能工具如何擦除整个公司数据库和备份",
+  "Unsigned Sizes: A Five Year Mistake": "无符号尺寸：五年的错误",
+  "'Build AI that can accurately represent the full complexity of biology': Mark Zuckerberg wants to cure all diseases but needs far more data to deliver a digital twin of human cells—As genetic data becomes the next frontier, will you trust him with yours?": "“构建能够准确代表生物学全部复杂性的人工智能”：马克·扎克伯格希望治愈所有疾病，但需要更多的数据来提供人类细胞的数字孪生——随着基因数据成为下一个前沿领域，你会相信他的数据吗？",
+  "Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors (Robert Booth/The Guardian)": "研究：OpenAI 的 o1 使用电子记录和护士的几句话正确诊断了 67% 的急诊室患者，而分诊医生的正确诊断率为 50-55%（罗伯特·布斯/卫报）",
+  "Do_not_track": "请勿追踪",
+  "What is Apache Kafka and how does it work?": "什么是 Apache Kafka？它是如何工作的？",
+  "stackless coroutines for gamedev in ~200 lines of C++": "用于游戏开发的无堆栈协程，大约 200 行 C++ 代码",
+  "Finding a RCE in my old TP-Link router": "在我的旧 TP-Link 路由器中发现 RCE"
 }
