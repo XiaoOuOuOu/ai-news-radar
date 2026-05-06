@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T12:21:14.918882Z",
+  "generated_at": "2026-05-06T15:18:28.341643Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-06",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-05-06",
@@ -14,15 +14,25 @@
     },
     {
       "date": "2026-05-06",
+      "title": "Emily Glassberg Sands负责 Stripe的数据和AI。Stripe 处理大约全球 2% 的 GDP，能看到 AI 公司如何收钱、谁在付钱、欺诈从哪里来、商家怎样接入新的购买渠道。本期对话带你解锁 Agent 经济下的 AI 商业新逻辑，给AI 创业者、产品及增长从业者提供极具参考价值的实战指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-06",
       "title": "AI角色想要拥有真实活人感，要靠能落地的工程化设计方法论。作者借鉴游戏NPC创作逻辑，以完整世界观和精细化设定集为底座，搭建出角色卡、日程脚本、事件流、社交生态、情绪关系等整套系统架构。通过状态机、预算消费、隐私边界、内心独白等巧思设计，让AI拥有了独立生活轨迹、情绪起伏与人际边界，甚至会越界反感、主动维系关系，给所有做拟人化AI产品的从业者提供了可复用、可落地的实战思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 9,
+  "count_7d": 10,
   "updates_7d": [
     {
       "date": "2026-05-06",
       "title": "OpenAI升级 ChatGPT 默认模型，GPT-5.5 Instant正式取代旧版5.3，免费用户也可以直接体验。核心升级直击日常使用痛点：高危领域幻觉大降 52.5%，数学与多模态推理显著提分，回答精简近三成、更干练。新增记忆联动 Gmail与来源溯源，个性化更强；安全评级升至 Instant 系列首个 “高能力”，网络安全能力突出。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-06",
+      "title": "Emily Glassberg Sands负责 Stripe的数据和AI。Stripe 处理大约全球 2% 的 GDP，能看到 AI 公司如何收钱、谁在付钱、欺诈从哪里来、商家怎样接入新的购买渠道。本期对话带你解锁 Agent 经济下的 AI 商业新逻辑，给AI 创业者、产品及增长从业者提供极具参考价值的实战指引。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
