@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-05-07T10:56:56.491693Z",
+  "generated_at": "2026-05-07T12:25:13.295936Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-07",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-05-07",
+      "title": "这是一篇写给完全没用过 Codex 的新手教程。每条指令作者都会先讲它是干嘛的，再用大白话解释什么时候用，最后给一个可以照抄的例子。读完你就能上手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-07",
       "title": "想要把日常生活和工作全盘交给AI自动化，掌握Skill编写已然是必备能力。云舒这篇文章分享了可直接复用的实操四步法，更给出像做产品一样迭代优化的思路，还讲透Skill与普通提示词的核心区别、分层架构逻辑和经验SOP化的底层心法。这篇实战好文不容错过！",
@@ -18,8 +23,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 9,
+  "count_7d": 10,
   "updates_7d": [
+    {
+      "date": "2026-05-07",
+      "title": "这是一篇写给完全没用过 Codex 的新手教程。每条指令作者都会先讲它是干嘛的，再用大白话解释什么时候用，最后给一个可以照抄的例子。读完你就能上手。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-07",
       "title": "想要把日常生活和工作全盘交给AI自动化，掌握Skill编写已然是必备能力。云舒这篇文章分享了可直接复用的实操四步法，更给出像做产品一样迭代优化的思路，还讲透Skill与普通提示词的核心区别、分层架构逻辑和经验SOP化的底层心法。这篇实战好文不容错过！",
