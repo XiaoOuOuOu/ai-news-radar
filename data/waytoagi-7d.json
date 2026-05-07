@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-05-07T05:19:37.074362Z",
+  "generated_at": "2026-05-07T08:09:54.876187Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-06",
-  "count_today": 7,
+  "latest_date": "2026-05-07",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-05-06",
-      "title": "本篇文章从第一性原理出发的梳理，带你看清从输入 prompt 到流式输出响应之间到底发生了什么：tokenization、embeddings、attention、prefill / decode 两阶段拆分、KV caching，以及 quantization。",
+      "date": "2026-05-07",
+      "title": "想要把日常生活和工作全盘交给AI自动化，掌握Skill编写已然是必备能力。云舒这篇文章分享了可直接复用的实操四步法，更给出像做产品一样迭代优化的思路，还讲透Skill与普通提示词的核心区别、分层架构逻辑和经验SOP化的底层心法。这篇实战好文不容错过！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-06",
-      "title": "本期精选的十大前沿论文，覆盖工程框架、模型架构、多智能体协作、记忆检索等核心方向。从可审计的Harness工程、低成本MoE工具模型，到世界建模分层体系、隐性空间多智能体通信，再到动态人才市场架构、技能结构化标准化、推理蒸馏降本等创新突破，每项成果都给出了实测数据与落地优势。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "冷逸花了一周时间，把GitHub上跟中文创作相关的Skills翻了个遍。按照场景挑出这20个，全部亲测好用。这些Skills全部来自于国内的宝藏博主们以及社区中的精选。有的是博主做的超级合集，有的是解决单一问题的利器。快来安装试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "不用绘画基础、无需手动构思，套用这套提示词就能一键生成自带荒诞笑点、适配日常聊天的专属表情包合集。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "OpenAI升级 ChatGPT 默认模型，GPT-5.5 Instant正式取代旧版5.3，免费用户也可以直接体验。核心升级直击日常使用痛点：高危领域幻觉大降 52.5%，数学与多模态推理显著提分，回答精简近三成、更干练。新增记忆联动 Gmail与来源溯源，个性化更强；安全评级升至 Instant 系列首个 “高能力”，网络安全能力突出。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Emily Glassberg Sands负责 Stripe的数据和AI。Stripe 处理大约全球 2% 的 GDP，能看到 AI 公司如何收钱、谁在付钱、欺诈从哪里来、商家怎样接入新的购买渠道。本期对话带你解锁 Agent 经济下的 AI 商业新逻辑，给AI 创业者、产品及增长从业者提供极具参考价值的实战指引。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "AI角色想要拥有真实活人感，要靠能落地的工程化设计方法论。作者借鉴游戏NPC创作逻辑，以完整世界观和精细化设定集为底座，搭建出角色卡、日程脚本、事件流、社交生态、情绪关系等整套系统架构。通过状态机、预算消费、隐私边界、内心独白等巧思设计，让AI拥有了独立生活轨迹、情绪起伏与人际边界，甚至会越界反感、主动维系关系，给所有做拟人化AI产品的从业者提供了可复用、可落地的实战思路。",
+      "date": "2026-05-07",
+      "title": "Anthropic兄妹 Dario Amodei 和 Daniela Amodei 一起在Anthropic 第二届开发者大会台上和Anthropic 首席产品官 Ami Vora展开对话。话题从“指数曲线上的体感”开始，覆盖开发者生态、模型训练逻辑的下一步、Anthropic 在能力释放上的取舍，一直聊到未来六个月最让 Dario 兴奋的能力变化。下面是这场约半小时对话的整理。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 7,
+  "count_7d": 9,
   "updates_7d": [
+    {
+      "date": "2026-05-07",
+      "title": "想要把日常生活和工作全盘交给AI自动化，掌握Skill编写已然是必备能力。云舒这篇文章分享了可直接复用的实操四步法，更给出像做产品一样迭代优化的思路，还讲透Skill与普通提示词的核心区别、分层架构逻辑和经验SOP化的底层心法。这篇实战好文不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Anthropic兄妹 Dario Amodei 和 Daniela Amodei 一起在Anthropic 第二届开发者大会台上和Anthropic 首席产品官 Ami Vora展开对话。话题从“指数曲线上的体感”开始，覆盖开发者生态、模型训练逻辑的下一步、Anthropic 在能力释放上的取舍，一直聊到未来六个月最让 Dario 兴奋的能力变化。下面是这场约半小时对话的整理。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-06",
       "title": "本篇文章从第一性原理出发的梳理，带你看清从输入 prompt 到流式输出响应之间到底发生了什么：tokenization、embeddings、attention、prefill / decode 两阶段拆分、KV caching，以及 quantization。",
