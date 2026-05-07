@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T15:23:05.463487Z",
+  "generated_at": "2026-05-07T17:29:10.511501Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-07",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-05-07",
@@ -19,11 +19,16 @@
     },
     {
       "date": "2026-05-07",
+      "title": "Claude Code被Codex强势反超，一周下载量差距达数十倍。用电脑控制、长任务自治、浏览器、自动审批、Chronicle 记忆、游戏生成和仪表盘生成对两者做了对比之后发现：Codex胜在稳定执行、少打断，适配复杂工程落地；而Claude则在对话编排、远程操作上保留优势。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-07",
       "title": "Anthropic兄妹 Dario Amodei 和 Daniela Amodei 一起在Anthropic 第二届开发者大会台上和Anthropic 首席产品官 Ami Vora展开对话。话题从“指数曲线上的体感”开始，覆盖开发者生态、模型训练逻辑的下一步、Anthropic 在能力释放上的取舍，一直聊到未来六个月最让 Dario 兴奋的能力变化。下面是这场约半小时对话的整理。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 10,
+  "count_7d": 11,
   "updates_7d": [
     {
       "date": "2026-05-07",
@@ -33,6 +38,11 @@
     {
       "date": "2026-05-07",
       "title": "想要把日常生活和工作全盘交给AI自动化，掌握Skill编写已然是必备能力。云舒这篇文章分享了可直接复用的实操四步法，更给出像做产品一样迭代优化的思路，还讲透Skill与普通提示词的核心区别、分层架构逻辑和经验SOP化的底层心法。这篇实战好文不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Claude Code被Codex强势反超，一周下载量差距达数十倍。用电脑控制、长任务自治、浏览器、自动审批、Chronicle 记忆、游戏生成和仪表盘生成对两者做了对比之后发现：Codex胜在稳定执行、少打断，适配复杂工程落地；而Claude则在对话编排、远程操作上保留优势。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
