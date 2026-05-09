@@ -13101,5 +13101,7 @@
   "NixOS and Secrets": "NixOS 和秘密",
   "'LLMs can infer private attributes from ad exposure alone': AI can tell a lot about you just based on the overall patterns of ads you see, without the need to access your browsing history or personal data — and not even a VPN can protect you": "“法学硕士可以仅从广告曝光中推断出私人属性”：人工智能可以根据您看到的广告的整体模式来了解您的很多信息，而无需访问您的浏览历史记录或个人数据 - 甚至 VPN 也无法保护您",
   "Mark Zuckerberg Just Told 8,000 Employees Their Layoffs Are a Line Item in His $145 Billion AI Bill": "马克·扎克伯格 (Mark Zuckerberg) 刚刚告诉 8,000 名员工，裁员是他 1,450 亿美元人工智能法案中的一个项目",
-  "I’ve banned query strings": "我已禁止查询字符串"
+  "I’ve banned query strings": "我已禁止查询字符串",
+  "FreeBSD: Local Privilege Escalation via Execve()": "FreeBSD：通过 Execve() 进行本地权限升级",
+  "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days": "“脏碎片”(CVE-2026-43284)：八天内第二次 Linux Root 漏洞利用"
 }
