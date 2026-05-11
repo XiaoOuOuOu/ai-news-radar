@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T17:16:08.875193Z",
+  "generated_at": "2026-05-11T19:23:16.822443Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-11",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-05-11",
@@ -31,9 +31,14 @@
       "date": "2026-05-11",
       "title": "最近Codex凭借性价比高、封号风险低的优势，热度快速赶超ClaudeCode。这篇文章专为新手量身打造，从安装登录、界面功能拆解，到Chat与项目模式的适用场景、模型权限合理选配全覆盖。作者还分享了实用的自定义指令、桌面趣味玩法。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "智能体的核心实力早已不单纯取决于模型本身，而是模型外围的整套脚手架体系。这个方法论被LangChain 的工程师 Vivek Trivedy（Viv）定义为Harness Engineering。本文带你深度拆解这套全新工程方法论，让你对Harness 到底是什么、每个组成部分为什么存在有一个更清晰的认知。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-05-11",
@@ -58,6 +63,11 @@
     {
       "date": "2026-05-11",
       "title": "最近Codex凭借性价比高、封号风险低的优势，热度快速赶超ClaudeCode。这篇文章专为新手量身打造，从安装登录、界面功能拆解，到Chat与项目模式的适用场景、模型权限合理选配全覆盖。作者还分享了实用的自定义指令、桌面趣味玩法。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "智能体的核心实力早已不单纯取决于模型本身，而是模型外围的整套脚手架体系。这个方法论被LangChain 的工程师 Vivek Trivedy（Viv）定义为Harness Engineering。本文带你深度拆解这套全新工程方法论，让你对Harness 到底是什么、每个组成部分为什么存在有一个更清晰的认知。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
