@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-05-13T13:59:17.102776Z",
+  "generated_at": "2026-05-13T16:18:19.595775Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-13",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-05-13",
       "title": "这篇文章整理了 25 个 skills，可以添加到任何 AI 模型中，用来显著提升你的生产力。按学生学习、职场办公、研究分析、视频创作、代码自动化五大类规整分类。每个Skill都有清晰定位、输出规范与使用约束。文章里也附了一段视频指南，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "本篇文章按照Anthropic CFO Krishna Rao在《Invest Like The Best》中的分享拆成 8 个判断：算力为什么是命门，指数增长怎么管理，三类芯片怎么被调度，前沿模型为什么能带来收入跳变，Claude Code 怎样改变组织，平台和应用边界如何取舍，定价和毛利怎么重新计算，以及 Anthropic 自己怎么在财务团队里使用 Claude。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-05-13",
       "title": "这篇文章整理了 25 个 skills，可以添加到任何 AI 模型中，用来显著提升你的生产力。按学生学习、职场办公、研究分析、视频创作、代码自动化五大类规整分类。每个Skill都有清晰定位、输出规范与使用约束。文章里也附了一段视频指南，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "本篇文章按照Anthropic CFO Krishna Rao在《Invest Like The Best》中的分享拆成 8 个判断：算力为什么是命门，指数增长怎么管理，三类芯片怎么被调度，前沿模型为什么能带来收入跳变，Claude Code 怎样改变组织，平台和应用边界如何取舍，定价和毛利怎么重新计算，以及 Anthropic 自己怎么在财务团队里使用 Claude。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -163,26 +173,6 @@
     {
       "date": "2026-05-08",
       "title": "Claude Code创始人分享了颠覆性行业洞察，直面AI重构软件开发的未来趋势。如今顶尖工程师早已不用亲手敲代码，依靠多Agent并行与Loop自动化，就能批量处理PR、运维CI、沉淀用户反馈。随着模型能力飞速迭代，传统权限、提示词外壳壁垒逐渐弱化，产品核心转向任务编排与团队协作。未来职场将诞生大量跨学科通才，代码会变成基础表达能力，人人都能低成本搭建软件工具。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "这是一篇写给完全没用过 Codex 的新手教程。每条指令作者都会先讲它是干嘛的，再用大白话解释什么时候用，最后给一个可以照抄的例子。读完你就能上手。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "想要把日常生活和工作全盘交给AI自动化，掌握Skill编写已然是必备能力。云舒这篇文章分享了可直接复用的实操四步法，更给出像做产品一样迭代优化的思路，还讲透Skill与普通提示词的核心区别、分层架构逻辑和经验SOP化的底层心法。这篇实战好文不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Claude Code被Codex强势反超，一周下载量差距达数十倍。用电脑控制、长任务自治、浏览器、自动审批、Chronicle 记忆、游戏生成和仪表盘生成对两者做了对比之后发现：Codex胜在稳定执行、少打断，适配复杂工程落地；而Claude则在对话编排、远程操作上保留优势。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Anthropic兄妹 Dario Amodei 和 Daniela Amodei 一起在Anthropic 第二届开发者大会台上和Anthropic 首席产品官 Ami Vora展开对话。话题从“指数曲线上的体感”开始，覆盖开发者生态、模型训练逻辑的下一步、Anthropic 在能力释放上的取舍，一直聊到未来六个月最让 Dario 兴奋的能力变化。下面是这场约半小时对话的整理。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
