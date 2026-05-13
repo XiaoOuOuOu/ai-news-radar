@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-05-13T11:22:42.365443Z",
+  "generated_at": "2026-05-13T13:59:17.102776Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-12",
-  "count_today": 6,
+  "latest_date": "2026-05-13",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-05-12",
-      "title": "面对AI时代信息过载、信源杂乱、重复冗余的痛点，卡尔重磅开源伯乐Skill。它不做简单的聚合，而是智能筛选优质信源，自动识别最佳的接入方式，通过7天稳定性观察与内容去重，区分一手权威源与广度聚合源，兼顾可信度与覆盖面。依托GitHub Action实现24小时无人值守更新，支持九类信源、双语呈现。快码住，告别无效信息轰炸，建立高效、可靠、专属的AI资讯获取体系。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "每次你开启一个新的 Claude 会话，它都是从零记忆开始的。它不知道你的名字、你的工作、你的偏好，也不知道你希望事情以什么方式完成。你要么先花几分钟重新解释一遍所有背景，要么不解释，然后 Claude 给出的东西就和你真实的工作方式对不上。CLAUDE.md 可以一次性解决这个问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "本篇文章用真实的行业数据戳破了大众对GEO生成式引擎优化的三大认知误区，给出了新站从0到1的落地打法，站内打造结构化、数据化的专业答案型内容，站外优先布局维基词条、权威媒体、社区口碑等高信任外链。读懂这篇文章，你也可以提前布局AI生成式流量新赛道。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "受Claude Code创始人多智能体并行工作方式的启发，成峰打造了Agentfile这款专为 AI 编程协作设计的项目管理工具，解决了多任务并发散乱、窗口繁杂的痛点，可以轻松支撑十几个项目同时推进。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "Karpathy犀利指出Claude写代码的三类典型弊病，衍生出的4条CLAUDE.md规则爆火全网。但随着Claude Code生态快速演进，Agent互斥、Skill冲突、工作流中断等新痛点出现，这4条规则已难以适配。作者在这个基础上增补了8条新规则，而且剖析了每条规则的设计逻辑，可以一站式规避全新生态下的各类隐形故障。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "Anthropic核心负责人Fiona Fung兼具Meta、微软资深团队管理背景，亲历软件开发模式的时代变迁。她跳出碎片化的提示词玩法，披露了Claude Code团队内部专属工作范式，深度剖析了AI提速编码后，团队协作中新瓶颈的演变逻辑。从瓶颈转移、规范重构、落地推广、效果衡量，到待解行业难题展开思考，重新定义了工程师、产品、设计与管理者的协作新模式。",
+      "date": "2026-05-13",
+      "title": "这篇文章整理了 25 个 skills，可以添加到任何 AI 模型中，用来显著提升你的生产力。按学生学习、职场办公、研究分析、视频创作、代码自动化五大类规整分类。每个Skill都有清晰定位、输出规范与使用约束。文章里也附了一段视频指南，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-05-13",
+      "title": "这篇文章整理了 25 个 skills，可以添加到任何 AI 模型中，用来显著提升你的生产力。按学生学习、职场办公、研究分析、视频创作、代码自动化五大类规整分类。每个Skill都有清晰定位、输出规范与使用约束。文章里也附了一段视频指南，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-12",
       "title": "面对AI时代信息过载、信源杂乱、重复冗余的痛点，卡尔重磅开源伯乐Skill。它不做简单的聚合，而是智能筛选优质信源，自动识别最佳的接入方式，通过7天稳定性观察与内容去重，区分一手权威源与广度聚合源，兼顾可信度与覆盖面。依托GitHub Action实现24小时无人值守更新，支持九类信源、双语呈现。快码住，告别无效信息轰炸，建立高效、可靠、专属的AI资讯获取体系。",
