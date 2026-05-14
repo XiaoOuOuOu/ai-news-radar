@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-05-14T16:01:58.441747Z",
+  "generated_at": "2026-05-14T18:26:33.061107Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-14",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-05-14",
+      "title": "这9个Claude Agent堪称创业者、自由职业者的效率神器，依托Claude定时异步运行，在休息时段也可以自动完成每日简报、行业调研、邮件分拣、数据复盘、代码维护、竞品监测、内容创作、会议筹备与知识提炼。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "多数人学AI会陷入盲目追工具、囤教程的怪圈，看似什么都懂，实操仍然要从零开始，根源是缺少专属的中枢与工作流体系。本篇文章帮你建立工程化工作流思维，把AI从临时助手变成长期协作的高效生产力系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-14",
       "title": "吴恩达全新AI提示词课程干货满满，全是普通人能立刻上手的AI使用心法。适配当下思考模型的全新交互逻辑，从高质量上下文输入、锁定权威信源、给模型预留推理空间，到活用深度研究、多维度交叉核验全覆盖。跟着这套思路就能避开 AI 废话与刻意讨好，精准拿捏不同场景下的 AI 使用精髓。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "Noah早年共同创办Percolate，后来做 Variance，现在经营 AI 策略咨询公司 Alephic，也做一个关于 AI 与营销的会议 brand.ai。本期节目他把Claude code带到现场：Obsidian 笔记库、Git、家里地下室的小服务器、手机终端、客户项目和写作资料，全都接在一起。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -18,11 +33,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-05-14",
+      "title": "这9个Claude Agent堪称创业者、自由职业者的效率神器，依托Claude定时异步运行，在休息时段也可以自动完成每日简报、行业调研、邮件分拣、数据复盘、代码维护、竞品监测、内容创作、会议筹备与知识提炼。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "多数人学AI会陷入盲目追工具、囤教程的怪圈，看似什么都懂，实操仍然要从零开始，根源是缺少专属的中枢与工作流体系。本篇文章帮你建立工程化工作流思维，把AI从临时助手变成长期协作的高效生产力系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-14",
       "title": "吴恩达全新AI提示词课程干货满满，全是普通人能立刻上手的AI使用心法。适配当下思考模型的全新交互逻辑，从高质量上下文输入、锁定权威信源、给模型预留推理空间，到活用深度研究、多维度交叉核验全覆盖。跟着这套思路就能避开 AI 废话与刻意讨好，精准拿捏不同场景下的 AI 使用精髓。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "Noah早年共同创办Percolate，后来做 Variance，现在经营 AI 策略咨询公司 Alephic，也做一个关于 AI 与营销的会议 brand.ai。本期节目他把Claude code带到现场：Obsidian 笔记库、Git、家里地下室的小服务器、手机终端、客户项目和写作资料，全都接在一起。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
