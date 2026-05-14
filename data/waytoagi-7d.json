@@ -1,20 +1,30 @@
 {
-  "generated_at": "2026-05-14T13:23:55.068082Z",
+  "generated_at": "2026-05-14T16:01:58.441747Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-14",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-05-14",
+      "title": "吴恩达全新AI提示词课程干货满满，全是普通人能立刻上手的AI使用心法。适配当下思考模型的全新交互逻辑，从高质量上下文输入、锁定权威信源、给模型预留推理空间，到活用深度研究、多维度交叉核验全覆盖。跟着这套思路就能避开 AI 废话与刻意讨好，精准拿捏不同场景下的 AI 使用精髓。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-14",
       "title": "Claude 已经发布两年了。很多每天都在用它的人，仍然只用到了它能力的 10%。不是因为它复杂，而是因为没人向他们展示另外 90% 到底是什么样。这份指南就是为了解决这个问题。读完之后，你会把 Claude 配置成一个能记住你、理解你、按你的思考方式工作的系统。你也会知道如何用它完成很多人从未尝试过的事情。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 29,
   "updates_7d": [
+    {
+      "date": "2026-05-14",
+      "title": "吴恩达全新AI提示词课程干货满满，全是普通人能立刻上手的AI使用心法。适配当下思考模型的全新交互逻辑，从高质量上下文输入、锁定权威信源、给模型预留推理空间，到活用深度研究、多维度交叉核验全覆盖。跟着这套思路就能避开 AI 废话与刻意讨好，精准拿捏不同场景下的 AI 使用精髓。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-14",
       "title": "Claude 已经发布两年了。很多每天都在用它的人，仍然只用到了它能力的 10%。不是因为它复杂，而是因为没人向他们展示另外 90% 到底是什么样。这份指南就是为了解决这个问题。读完之后，你会把 Claude 配置成一个能记住你、理解你、按你的思考方式工作的系统。你也会知道如何用它完成很多人从未尝试过的事情。",
@@ -153,41 +163,6 @@
     {
       "date": "2026-05-09",
       "title": "Claude 平台负责人 Angela 和工程负责人 Caitlin在这场访谈中深度拆解了Claude 开发者平台底层布局。工程师、产品负责人和创业团队读这场对话，可以看到下一层抽象会落在哪里，以及今天自己搭 Agent 时哪些基础设施不该重复造。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "这份指南是一条6个阶段的路线图，每个阶段都有一个具体项目、一份规范阅读清单，以及你真正需要的确切资源。也就是说，只要大约 17 周的高强度投入，你就能达到“可以独立负责一项生产级 AI 功能，从头做到尾”的 agent engineer 水平。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "浏览器智能体有一个“失忆症”问题。它们每次运行都会从零重新摸索站点，反复支付完整的探索成本。Autobrowse 的解决办法是：让智能体围绕一个真实任务不断迭代，直到方法收敛，然后把胜出的做法提升为一个可复用、可长期保存的技能。这个技能就成了“记忆”，下一个智能体、队友或客户都可以直接拿来用，不必再把已经学会的东西重新学一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "很多人刚开始用 Claude Code，会往 CLAUDE.md 里塞一切：项目历史、技术决策、个人偏好、甚至公司价值观。结果Claude 在 2000 行的上下文里迷失，生成出莫名其妙的东西，而你也不知道为什么。这篇文章不讲 CLAUDE.md 的结构规范。这里讲的是实战中踩出来的 8 条经验——哪些反直觉的做法反而更有效，哪些坑踩一次就够了。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "大模型虽然能快速产出看似完整的内容，却空洞模板化、无法落地复用，返工成本极高。本篇文章分享了超实用的万能提示词，结合周报撰写、公众号选题、AI视频分镜三大真实场景实操演示，帮你理清定位、受众、风格与落地要求，教你跳出浅层套用模式，真正把AI变成高效协作工具。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "为了让GEO行业回归理性，帮中小企业在AI时代真正做好营销，姚金刚和向阳乔木基于国内外前沿论文、生成式AI法规 & 互联网广告法、一年实战踩坑经验整理出一份10万字《GEO红皮书》，拆解了常见黑帽GEO手段，让你一眼识破并教你甄别GEO服务商水平，避免踩坑以及提供GEO风险自查清单，防患于未然。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "OpenAI一口气发布了三个实时语音模型： GPT-Realtime-2、GPT-Realtime-Translate、GPT-Realtime-Whisper ，全部今日起在 Realtime API 开放。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Claude Code创始人分享了颠覆性行业洞察，直面AI重构软件开发的未来趋势。如今顶尖工程师早已不用亲手敲代码，依靠多Agent并行与Loop自动化，就能批量处理PR、运维CI、沉淀用户反馈。随着模型能力飞速迭代，传统权限、提示词外壳壁垒逐渐弱化，产品核心转向任务编排与团队协作。未来职场将诞生大量跨学科通才，代码会变成基础表达能力，人人都能低成本搭建软件工具。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
