@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-05-15T19:12:25.664669Z",
+  "generated_at": "2026-05-15T20:47:21.647392Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-15",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-05-15",
+      "title": "这篇文章直击AI记忆底层真相，揭开其区别于人类的存储逻辑。作者结合多款主流AI智能体实战案例，理清系统提示词、全局规则与技能库的使用边界，教你合理划分信息存放位置。吃透这套工程化记忆原理，可以快速排查日常使用中的各类记忆异常。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-15",
       "title": "这期节目对谈嘉宾是 Every 的增长负责人 Austin Tedesco，聊他们为什么从 Claude Code 转向 Codex。Austin 说，自己现在大约 80% 的工作时间都在 Codex 桌面应用里，里面连着 Gmail、Slack、Notion、Stripe 和公司数据源。他没有以工程师身份坐在 IDE 里写代码，作为增长负责人，他把策略、数据分析、招聘、GTM 计划和自动化都搬进了一个 Agent 管理界面。",
@@ -15,6 +20,11 @@
     {
       "date": "2026-05-15",
       "title": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Anthropic 正式推出Claude Code官方课程，帮你快速掌握这款 AI 编程助手。课程共 9 大模块，层层递进：从 Claude Code 定位与安装入手，讲清核心原理；重点拆解 CLAUDE.md 项目规范文件、标准开发工作流（探索→规划→编码→提交）、上下文管理、MCP 协议、Hooks 自动化等关键能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-05-15",
+      "title": "这篇文章直击AI记忆底层真相，揭开其区别于人类的存储逻辑。作者结合多款主流AI智能体实战案例，理清系统提示词、全局规则与技能库的使用边界，教你合理划分信息存放位置。吃透这套工程化记忆原理，可以快速排查日常使用中的各类记忆异常。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-15",
       "title": "这期节目对谈嘉宾是 Every 的增长负责人 Austin Tedesco，聊他们为什么从 Claude Code 转向 Codex。Austin 说，自己现在大约 80% 的工作时间都在 Codex 桌面应用里，里面连着 Gmail、Slack、Notion、Stripe 和公司数据源。他没有以工程师身份坐在 IDE 里写代码，作为增长负责人，他把策略、数据分析、招聘、GTM 计划和自动化都搬进了一个 Agent 管理界面。",
@@ -38,6 +53,11 @@
     {
       "date": "2026-05-15",
       "title": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Anthropic 正式推出Claude Code官方课程，帮你快速掌握这款 AI 编程助手。课程共 9 大模块，层层递进：从 Claude Code 定位与安装入手，讲清核心原理；重点拆解 CLAUDE.md 项目规范文件、标准开发工作流（探索→规划→编码→提交）、上下文管理、MCP 协议、Hooks 自动化等关键能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
