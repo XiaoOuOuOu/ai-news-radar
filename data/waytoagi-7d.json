@@ -1,40 +1,55 @@
 {
-  "generated_at": "2026-05-15T15:53:21.263225Z",
+  "generated_at": "2026-05-15T17:18:26.555931Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-14",
-  "count_today": 5,
+  "latest_date": "2026-05-15",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-05-14",
-      "title": "这9个Claude Agent堪称创业者、自由职业者的效率神器，依托Claude定时异步运行，在休息时段也可以自动完成每日简报、行业调研、邮件分拣、数据复盘、代码维护、竞品监测、内容创作、会议筹备与知识提炼。",
+      "date": "2026-05-15",
+      "title": "这期节目对谈嘉宾是 Every 的增长负责人 Austin Tedesco，聊他们为什么从 Claude Code 转向 Codex。Austin 说，自己现在大约 80% 的工作时间都在 Codex 桌面应用里，里面连着 Gmail、Slack、Notion、Stripe 和公司数据源。他没有以工程师身份坐在 IDE 里写代码，作为增长负责人，他把策略、数据分析、招聘、GTM 计划和自动化都搬进了一个 Agent 管理界面。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-14",
-      "title": "多数人学AI会陷入盲目追工具、囤教程的怪圈，看似什么都懂，实操仍然要从零开始，根源是缺少专属的中枢与工作流体系。本篇文章帮你建立工程化工作流思维，把AI从临时助手变成长期协作的高效生产力系统。",
+      "date": "2026-05-15",
+      "title": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-14",
-      "title": "吴恩达全新AI提示词课程干货满满，全是普通人能立刻上手的AI使用心法。适配当下思考模型的全新交互逻辑，从高质量上下文输入、锁定权威信源、给模型预留推理空间，到活用深度研究、多维度交叉核验全覆盖。跟着这套思路就能避开 AI 废话与刻意讨好，精准拿捏不同场景下的 AI 使用精髓。",
+      "date": "2026-05-15",
+      "title": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-14",
-      "title": "Noah早年共同创办Percolate，后来做 Variance，现在经营 AI 策略咨询公司 Alephic，也做一个关于 AI 与营销的会议 brand.ai。本期节目他把Claude code带到现场：Obsidian 笔记库、Git、家里地下室的小服务器、手机终端、客户项目和写作资料，全都接在一起。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-14",
-      "title": "Claude 已经发布两年了。很多每天都在用它的人，仍然只用到了它能力的 10%。不是因为它复杂，而是因为没人向他们展示另外 90% 到底是什么样。这份指南就是为了解决这个问题。读完之后，你会把 Claude 配置成一个能记住你、理解你、按你的思考方式工作的系统。你也会知道如何用它完成很多人从未尝试过的事情。",
+      "date": "2026-05-15",
+      "title": "AI 行业已从拼模型转向拼落地，FDE 前线部署工程师成为大厂抢人核心。OpenAI、Anthropic、Google 均重兵布局，成立独立部署公司、收购团队、简化面试疯狂扩编。FDE 不做 PPT 咨询，而是驻场写代码、集成调试、帮企业把 AI 落地到真实业务。本篇文章清晰拆解了三大巨头的不同打法、岗位本质、职业价值与风险。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 30,
   "updates_7d": [
+    {
+      "date": "2026-05-15",
+      "title": "这期节目对谈嘉宾是 Every 的增长负责人 Austin Tedesco，聊他们为什么从 Claude Code 转向 Codex。Austin 说，自己现在大约 80% 的工作时间都在 Codex 桌面应用里，里面连着 Gmail、Slack、Notion、Stripe 和公司数据源。他没有以工程师身份坐在 IDE 里写代码，作为增长负责人，他把策略、数据分析、招聘、GTM 计划和自动化都搬进了一个 Agent 管理界面。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "AI 行业已从拼模型转向拼落地，FDE 前线部署工程师成为大厂抢人核心。OpenAI、Anthropic、Google 均重兵布局，成立独立部署公司、收购团队、简化面试疯狂扩编。FDE 不做 PPT 咨询，而是驻场写代码、集成调试、帮企业把 AI 落地到真实业务。本篇文章清晰拆解了三大巨头的不同打法、岗位本质、职业价值与风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-14",
       "title": "这9个Claude Agent堪称创业者、自由职业者的效率神器，依托Claude定时异步运行，在休息时段也可以自动完成每日简报、行业调研、邮件分拣、数据复盘、代码维护、竞品监测、内容创作、会议筹备与知识提炼。",
@@ -163,36 +178,6 @@
     {
       "date": "2026-05-10",
       "title": "YC CEO Gary在最近几个月用 Claude Code、GStack、GBrain 和一套自己的 Agent 工作流，写出数十万行代码，开源项目从零做到 GitHub 10 万 star 级别。工程师、创业者和产品负责人读这期，不会只听到一句“AI 很强”，而会看到一个忙到只剩碎片时间的人，怎样把想法、上下文、测试、QA 和多模型 review 串成一条生产线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "近日，在备受瞩目的红杉资本“人工智能巅峰”行业峰会上，红杉资本的核心合伙人们与硅谷的顶尖创业者和技术专家齐聚一堂，共同探讨这场正在重塑世界秩序的变革。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "深陷海量AI学习资料却无从下手？元子基于飞书CLI盘活了社区知识库。凭借特定的Skill配置就能实现文档检索、路径定制、消息推送全流程自动化。同时她还分享了五条适配不同人群的标准化学习路线，覆盖零基础入门、代码提效、产品搭建、Agent深耕和社区运营。快来上手试试，找到自己的成长路径！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "当下AI协作常用的Markdown出现各种局限，长篇内容可读性差、视觉呈现单薄、分享不便，已经难以承载复杂的工作诉求。Anthropic Claude Code 团队的工程师Thariq 强势推崇用HTML替代Markdown做AI输出载体，可以凭借超高信息密度、精美视觉排版、自适应布局和交互能力。一起来看看他的深度思考与实战逻辑！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "做事总陷入跟风模仿的思维惯性，一味照搬他人路径、套用现成模板，埋头苦干一番后却极易做出无人需要的成果。本篇文章以作者亲身经历为引，深度剖析了类比思维的局限，对比阐释第一性原理的底层逻辑，结合马斯克、福特的经典案例生动佐证。或许也可以帮你跳出从众套路，挣脱固有认知束缚，学会溯源底层真理做独立判断，抓住被忽略的破局机遇。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "Monica出海说的本期节目邀请到了大M博士，为大家剥离对欧洲“安逸、老派”的刻板印象，从语言本地化、合规文件、渠道分销与客户决策四个底层维度拆解真实的市场规则 。无论你是做SaaS服务、智能硬件还是消费品，这期极具信息密度的干货将帮你避开“盲目复制”陷阱 ，提供一套极具实操性的欧洲本地化“清零重构”指南。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-09",
-      "title": "Claude 平台负责人 Angela 和工程负责人 Caitlin在这场访谈中深度拆解了Claude 开发者平台底层布局。工程师、产品负责人和创业团队读这场对话，可以看到下一层抽象会落在哪里，以及今天自己搭 Agent 时哪些基础设施不该重复造。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],

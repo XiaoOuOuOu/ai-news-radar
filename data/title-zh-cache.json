@@ -14334,5 +14334,19 @@
   "Postgres minor releases closing 11 CVEs": "Postgres 次要版本关闭了 11 个 CVE",
   "The AI zombification of universities": "大学的人工智能僵尸化",
   "First public macOS kernel memory corruption exploit on Apple M5": "Apple M5 上首次公开 macOS 内核内存损坏漏洞",
-  "HDD Firmware Hacking": "硬盘固件黑客"
+  "HDD Firmware Hacking": "硬盘固件黑客",
+  "OpenAI is connecting ChatGPT to bank accounts via Plaid": "OpenAI 正在通过 Plaid 将 ChatGPT 连接到银行账户",
+  "ArXiv to Ban Researchers for a Year if They Submit AI Slop": "ArXiv 将禁止研究人员提交 AI 违规行为一年",
+  "I finally understand my lease agreement, and I only had to ask Gemini": "我终于明白了我的租赁协议，我只需要问双子座",
+  "OpenAI launches personal finance tools for US ChatGPT Pro users, letting them connect to 12K+ financial institutions to analyze spending, plan finances, more (Ivan Mehta/TechCrunch)": "OpenAI 为美国 ChatGPT Pro 用户推出个人理财工具，让他们连接到超过 12K 家金融机构来分析支出、规划财务等（Ivan Mehta/TechCrunch）",
+  "I love Linux, but I can't quit Windows": "我喜欢 Linux，但我无法退出 Windows",
+  "ChatGPT will offer personalized financial advice (if you connect your bank account)": "ChatGPT 将提供个性化的财务建议（如果您连接银行帐户）",
+  "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts": "OpenAI 推出个人理财 ChatGPT，让你连接银行账户",
+  "I built Zenith: a live local-first fixed viewport planetarium": "我建造了 Zenith：一个现场本地优先的固定视口天文馆",
+  "A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2 (Rebecca Bellan/TechCrunch)": "AI 视频生成初创公司 Runway 的简介，该公司直接根据观测数据训练模型，目前估值为 5.3B 美元，并在第二季度的 ARR 中增加了 4000 万美元（Rebecca Bellan/TechCrunch）",
+  "'A new rhythm for collaboration is emerging': OpenAI adds remote access to bring Codex to ChatGPT for iPhone, iPad, and Android": "“协作的新节奏正在出现”：OpenAI 增加了远程访问功能，将 Codex 引入适用于 iPhone、iPad 和 Android 的 ChatGPT",
+  "AI gave North Korean hackers a $600 million month. DeFi is still working out how to respond.": "AI 每月给朝鲜黑客带来 6 亿美元的收入。 DeFi 仍在研究如何应对。",
+  "The sigmoids won't save you": "sigmoid 救不了你",
+  "NanoTDB – Golang Append-Only Time Series DB": "NanoTDB – Golang 仅追加时间序列数据库",
+  "The era of 15GB free Gmail storage is ending": "15GB 免费 Gmail 存储空间的时代即将结束"
 }
