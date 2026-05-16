@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-05-16T16:41:56.010719Z",
+  "generated_at": "2026-05-16T17:44:23.054286Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-16",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-05-16",
       "title": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "当东南亚和中东的红海竞争愈演愈烈，中亚——这片曾被贴上“传统”与“地缘复杂”标签的腹地，正在经历一场剧烈的商业重构。这里有基建的巨大落差，也有AI大模型在小语种语料上的市场真空；这里有极度稀缺的TikTok内容生态，也潜伏着不靠谱的翻译、“假领导”关系网以及致命的合规陷阱。如果你聚焦中国科技企业中亚布局，正焦虑“自身优势突出却找不到破局路径”，不妨细读这篇万字对谈。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,11 +33,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-05-16",
       "title": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "当东南亚和中东的红海竞争愈演愈烈，中亚——这片曾被贴上“传统”与“地缘复杂”标签的腹地，正在经历一场剧烈的商业重构。这里有基建的巨大落差，也有AI大模型在小语种语料上的市场真空；这里有极度稀缺的TikTok内容生态，也潜伏着不靠谱的翻译、“假领导”关系网以及致命的合规陷阱。如果你聚焦中国科技企业中亚布局，正焦虑“自身优势突出却找不到破局路径”，不妨细读这篇万字对谈。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
