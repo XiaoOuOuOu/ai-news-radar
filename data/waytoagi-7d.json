@@ -1,23 +1,53 @@
 {
-  "generated_at": "2026-05-16T15:44:52.198590Z",
+  "generated_at": "2026-05-16T16:41:56.010719Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-16",
-  "count_today": 1,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-05-16",
+      "title": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-16",
       "title": "厌倦了效果拉胯、流程繁琐的普通AI剪辑工具？作者这篇文章带来全新实用方案，依托Codex就能快速部署，可以轻松把文章、网页、产品资料快速转为短视频。只需要用文字明确视频定位、时长、风格与框架，就能一键生成初稿，还能以聊天形式灵活调整画面、字幕与节奏。作者整理了多场景万能提示词与高效修改技巧，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "DeepMind创始人Demis Hassabis的重磅分享，包括：AGI 还差什么，Agent 到底走到哪一步，创业者在 AGI 逼近时还该押注什么。 这场对话少有空泛愿景，更像一份给工程师、产品负责人和深科技创始人的路线图。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "99% 教程只教你\"装好登录、随便聊一下\"。 但真正让 Codex 配得上\"百亿超级 Agent\"这个名号的，是 那些藏得很深的进阶功能 。作者整理了12个进阶玩法，快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-05-16",
+      "title": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
       "title": "厌倦了效果拉胯、流程繁琐的普通AI剪辑工具？作者这篇文章带来全新实用方案，依托Codex就能快速部署，可以轻松把文章、网页、产品资料快速转为短视频。只需要用文字明确视频定位、时长、风格与框架，就能一键生成初稿，还能以聊天形式灵活调整画面、字幕与节奏。作者整理了多场景万能提示词与高效修改技巧，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "DeepMind创始人Demis Hassabis的重磅分享，包括：AGI 还差什么，Agent 到底走到哪一步，创业者在 AGI 逼近时还该押注什么。 这场对话少有空泛愿景，更像一份给工程师、产品负责人和深科技创始人的路线图。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "99% 教程只教你\"装好登录、随便聊一下\"。 但真正让 Codex 配得上\"百亿超级 Agent\"这个名号的，是 那些藏得很深的进阶功能 。作者整理了12个进阶玩法，快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -158,26 +188,6 @@
     {
       "date": "2026-05-11",
       "title": "智能体的核心实力早已不单纯取决于模型本身，而是模型外围的整套脚手架体系。这个方法论被LangChain 的工程师 Vivek Trivedy（Viv）定义为Harness Engineering。本文带你深度拆解这套全新工程方法论，让你对Harness 到底是什么、每个组成部分为什么存在有一个更清晰的认知。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "本篇文章凝练了LLM生产级落地的八大核心支柱，覆盖提示词工程、RAG、上下文管理、模型微调、智能体架构、专业LLM部署、推理优化，以及安全评测与可观测性全链路。每一项都配套免费学习资源与实战路径，可以带你跳出碎片化技巧陷阱，建立系统化工程思维。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "本周精选的十篇AI前沿论文，覆盖 Agent 架构、模型训练、智能体评测与记忆机制等核心方向，直击行业技术演进关键突破口。从 HeavySkill 内化并行推理审议能力、Conductor 可学习多智能体编排，到预训练阶段前置安全对齐，刷新模型性能上限。同时推出全新 coding-agent 评测基准，拆解多智能体协调失效根源、长序列任务训练瓶颈。还布局了虚拟环境生成、智能体记忆底层重构、可解释模型迭代与 Skill 安全可信体系。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "以前做一套品牌视觉提案，要么你自己有专业设计能力，要么花钱请设计师。一个完整的品牌提案——从主视觉到识别系统到产品包装到场景应用，没个几天甚至几周根本出不来。但现在，GPT-Image-2可以帮你做到了！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "YC CEO Gary在最近几个月用 Claude Code、GStack、GBrain 和一套自己的 Agent 工作流，写出数十万行代码，开源项目从零做到 GitHub 10 万 star 级别。工程师、创业者和产品负责人读这期，不会只听到一句“AI 很强”，而会看到一个忙到只剩碎片时间的人，怎样把想法、上下文、测试、QA 和多模型 review 串成一条生产线。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
