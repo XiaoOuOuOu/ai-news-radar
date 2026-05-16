@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-05-16T14:16:37.969526Z",
+  "generated_at": "2026-05-16T15:44:52.198590Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-15",
-  "count_today": 6,
+  "latest_date": "2026-05-16",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-05-15",
-      "title": "这篇文章直击AI记忆底层真相，揭开其区别于人类的存储逻辑。作者结合多款主流AI智能体实战案例，理清系统提示词、全局规则与技能库的使用边界，教你合理划分信息存放位置。吃透这套工程化记忆原理，可以快速排查日常使用中的各类记忆异常。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "这期节目对谈嘉宾是 Every 的增长负责人 Austin Tedesco，聊他们为什么从 Claude Code 转向 Codex。Austin 说，自己现在大约 80% 的工作时间都在 Codex 桌面应用里，里面连着 Gmail、Slack、Notion、Stripe 和公司数据源。他没有以工程师身份坐在 IDE 里写代码，作为增长负责人，他把策略、数据分析、招聘、GTM 计划和自动化都搬进了一个 Agent 管理界面。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "这两天 Claude Code 又更新了一个东西，叫 Agent View。它解决的不是模型会不会写代码的问题。它解决的是当你同时让几个 AI 去干活时，人到底怎么盯、怎么插手、怎么拍板的问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "Anthropic 正式推出Claude Code官方课程，帮你快速掌握这款 AI 编程助手。课程共 9 大模块，层层递进：从 Claude Code 定位与安装入手，讲清核心原理；重点拆解 CLAUDE.md 项目规范文件、标准开发工作流（探索→规划→编码→提交）、上下文管理、MCP 协议、Hooks 自动化等关键能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "Anthropic 刚刚出了一份 36 页的创始人手册： 创建一家 AI Native 的公司，几个人，做几百人的事儿。手册把创业拆成四个阶段（想法、MVP、上线、规模化），每个阶段讲清楚该做什么、容易踩什么坑、Claude 的三个产品形态（Chat、Cowork、Code）分别在什么时候用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-15",
-      "title": "AI 行业已从拼模型转向拼落地，FDE 前线部署工程师成为大厂抢人核心。OpenAI、Anthropic、Google 均重兵布局，成立独立部署公司、收购团队、简化面试疯狂扩编。FDE 不做 PPT 咨询，而是驻场写代码、集成调试、帮企业把 AI 落地到真实业务。本篇文章清晰拆解了三大巨头的不同打法、岗位本质、职业价值与风险。",
+      "date": "2026-05-16",
+      "title": "厌倦了效果拉胯、流程繁琐的普通AI剪辑工具？作者这篇文章带来全新实用方案，依托Codex就能快速部署，可以轻松把文章、网页、产品资料快速转为短视频。只需要用文字明确视频定位、时长、风格与框架，就能一键生成初稿，还能以聊天形式灵活调整画面、字幕与节奏。作者整理了多场景万能提示词与高效修改技巧，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-05-16",
+      "title": "厌倦了效果拉胯、流程繁琐的普通AI剪辑工具？作者这篇文章带来全新实用方案，依托Codex就能快速部署，可以轻松把文章、网页、产品资料快速转为短视频。只需要用文字明确视频定位、时长、风格与框架，就能一键生成初稿，还能以聊天形式灵活调整画面、字幕与节奏。作者整理了多场景万能提示词与高效修改技巧，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-15",
       "title": "这篇文章直击AI记忆底层真相，揭开其区别于人类的存储逻辑。作者结合多款主流AI智能体实战案例，理清系统提示词、全局规则与技能库的使用边界，教你合理划分信息存放位置。吃透这套工程化记忆原理，可以快速排查日常使用中的各类记忆异常。",
