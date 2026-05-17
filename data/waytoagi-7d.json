@@ -1,40 +1,35 @@
 {
-  "generated_at": "2026-05-17T14:19:05.291381Z",
+  "generated_at": "2026-05-17T15:47:51.389564Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-16",
-  "count_today": 5,
+  "latest_date": "2026-05-17",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-05-16",
-      "title": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
+      "date": "2026-05-17",
+      "title": "本周精选的10篇AI 顶尖前沿论文成果，覆盖大模型训练提速、长文本优化、智能体记忆、代码检索、多智能体协作等热门赛道。从 Lighthouse Attention 大幅降低长上下文训练成本，到 grep 搜索媲美向量检索，再到 δ‑mem 轻量在线记忆、Token 训练提速 3 倍，每篇都直击行业痛点。不仅有技术原理，更有实测效果与工程价值，为研发优化、项目落地提供全新思路与参考方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-16",
-      "title": "当东南亚和中东的红海竞争愈演愈烈，中亚——这片曾被贴上“传统”与“地缘复杂”标签的腹地，正在经历一场剧烈的商业重构。这里有基建的巨大落差，也有AI大模型在小语种语料上的市场真空；这里有极度稀缺的TikTok内容生态，也潜伏着不靠谱的翻译、“假领导”关系网以及致命的合规陷阱。如果你聚焦中国科技企业中亚布局，正焦虑“自身优势突出却找不到破局路径”，不妨细读这篇万字对谈。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "厌倦了效果拉胯、流程繁琐的普通AI剪辑工具？作者这篇文章带来全新实用方案，依托Codex就能快速部署，可以轻松把文章、网页、产品资料快速转为短视频。只需要用文字明确视频定位、时长、风格与框架，就能一键生成初稿，还能以聊天形式灵活调整画面、字幕与节奏。作者整理了多场景万能提示词与高效修改技巧，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "DeepMind创始人Demis Hassabis的重磅分享，包括：AGI 还差什么，Agent 到底走到哪一步，创业者在 AGI 逼近时还该押注什么。 这场对话少有空泛愿景，更像一份给工程师、产品负责人和深科技创始人的路线图。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-16",
-      "title": "99% 教程只教你\"装好登录、随便聊一下\"。 但真正让 Codex 配得上\"百亿超级 Agent\"这个名号的，是 那些藏得很深的进阶功能 。作者整理了12个进阶玩法，快来试试！",
+      "date": "2026-05-17",
+      "title": "大模型普遍存在交互失忆问题，难以延续长期协作。本篇文章这套智能体记忆体系可以补齐该短板。文中搭配了完整可落地的实战代码，手把手带你搭建本地记忆存储架构，同时给出记忆衰减、权重评级、定期整合等高效管理策略。吃透这套记忆搭建逻辑，既能解决智能体任务中断、经验无法复用等难题，还能打造具备长期学习能力的智能协作体，大幅提升 Agent 实战稳定性与个性化服务能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-05-17",
+      "title": "本周精选的10篇AI 顶尖前沿论文成果，覆盖大模型训练提速、长文本优化、智能体记忆、代码检索、多智能体协作等热门赛道。从 Lighthouse Attention 大幅降低长上下文训练成本，到 grep 搜索媲美向量检索，再到 δ‑mem 轻量在线记忆、Token 训练提速 3 倍，每篇都直击行业痛点。不仅有技术原理，更有实测效果与工程价值，为研发优化、项目落地提供全新思路与参考方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-17",
+      "title": "大模型普遍存在交互失忆问题，难以延续长期协作。本篇文章这套智能体记忆体系可以补齐该短板。文中搭配了完整可落地的实战代码，手把手带你搭建本地记忆存储架构，同时给出记忆衰减、权重评级、定期整合等高效管理策略。吃透这套记忆搭建逻辑，既能解决智能体任务中断、经验无法复用等难题，还能打造具备长期学习能力的智能协作体，大幅提升 Agent 实战稳定性与个性化服务能力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-16",
       "title": "想要摆脱反复叮嘱AI遵守规则的困扰，Agent Hooks正是优化智能体工作流的高效方案。它可以将自定义逻辑绑定在会话全生命周期节点，依托事件触发机制自动执行校验、管控与收尾操作，把硬性规范从提示词中剥离出来。这篇文章使用 6 个生命周期节点，覆盖开发者通常最先需要的主流程！",
