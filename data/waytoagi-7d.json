@@ -1,40 +1,35 @@
 {
-  "generated_at": "2026-05-19T10:28:48.412315Z",
+  "generated_at": "2026-05-19T13:47:07.894463Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-05-18",
-  "count_today": 5,
+  "latest_date": "2026-05-19",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-05-18",
-      "title": "本文解锁用Codex搭建完整 AI 视频制作工作流的实用玩法。它不止可以生成画面，更能统筹脚本撰写、分镜规划、素材整理、自动化剪辑与多轮自查迭代，化身全能制作搭档。作者手把手教你搭建专属视频技能体系，配齐本地工具与规范项目目录，搭配分阶段精准指令高效出片，新手也能快速上手产出各类商用优质视频。",
+      "date": "2026-05-19",
+      "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-05-18",
-      "title": "很多人刚开始用AI，会把注意力放在Prompt上：怎么写角色？怎么写格式？怎么让它一步步思考？这当然重要。可面对周期长、资料杂乱、需求多变的真实项目，单靠提示词根本无力维系稳定输出，极易出现信息断层、规则遗忘等问题。Prompt工程解决怎么说清楚，Context工程解决让模型看到什么，Harness工程解决如何让模型稳定做事。三者相融互补，学会这套完整使用逻辑，才能让 AI 稳稳承接复杂长线任务！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "Claude Code 团队工程师 Thariq Shihipar 最近几个月一直在试一种工作流：把 AI 计划、PRD、技术 spec、设计系统，尽量从 Markdown 文档变成 HTML 文件。听起来像格式偏好，聊到后面会发现它指向一个更大的变化：当 AI 可以连续跑几个小时、写出上万 token 的计划，人类如果还想留在回路里，就需要更容易看懂、能点、能改、能协作的中间界面。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "AI正在颠覆传统SEO工作方式，Agent Skills让繁琐流程一键自动化，彻底告别多平台切换与重复操作。本文拆解将SEO标准SOP转化为可复用技能的核心方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-18",
-      "title": "AI 音乐行业呈现高供给、低消费态势，海量作品涌现却普遍收听低迷。多款实用创作工具迎来重磅升级，专业编曲与高保真作曲技术持续突破，大幅降低了音乐制作门槛。与此同时行业合规体系正在加速完善，版权申报与商用规范也在逐步落地。头部平台也不断拓宽使用场景，打通车载等多元使用渠道，丰富创作与传播体验。",
+      "date": "2026-05-19",
+      "title": "Anthropic 重磅升级Managed Agents，推出自托管沙箱与 MCP 隧道两大核心能力，打破智能体部署与数据安全壁垒。此次更新将执行环境下放至客户侧，支持对接四大云服务商，兼顾灵活部署与极致安全。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-05-19",
+      "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "Anthropic 重磅升级Managed Agents，推出自托管沙箱与 MCP 隧道两大核心能力，打破智能体部署与数据安全壁垒。此次更新将执行环境下放至客户侧，支持对接四大云服务商，兼顾灵活部署与极致安全。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-05-18",
       "title": "本文解锁用Codex搭建完整 AI 视频制作工作流的实用玩法。它不止可以生成画面，更能统筹脚本撰写、分镜规划、素材整理、自动化剪辑与多轮自查迭代，化身全能制作搭档。作者手把手教你搭建专属视频技能体系，配齐本地工具与规范项目目录，搭配分阶段精准指令高效出片，新手也能快速上手产出各类商用优质视频。",
