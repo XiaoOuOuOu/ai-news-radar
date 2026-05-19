@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:47:07.894463Z",
+  "generated_at": "2026-05-19T16:42:20.193248Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-19",
-  "count_today": 2,
+  "count_today": 3,
   "updates_today": [
     {
       "date": "2026-05-19",
@@ -14,15 +14,25 @@
     },
     {
       "date": "2026-05-19",
+      "title": "普通人无需懂代码，也能一站式完成品牌视觉设计到网站正式上线。借助GPT Image2依托现成视觉素材，搭配简短指令就能批量产出风格统一的多款网页界面，快速敲定整体设计调性。再将设计图交由Codex自动转换成可交互网页，经过多轮微调优化视觉细节与交互效果，还能一键完成云端部署，快速获取可直接演示的公开网址。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-19",
       "title": "Anthropic 重磅升级Managed Agents，推出自托管沙箱与 MCP 隧道两大核心能力，打破智能体部署与数据安全壁垒。此次更新将执行环境下放至客户侧，支持对接四大云服务商，兼顾灵活部署与极致安全。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-05-19",
       "title": "这不是一篇写给程序员炫技的工具手册。这是一篇写给普通人、零基础新手、刚接触 AI 工具的读者的实战入门教学。你不需要先学会编程，也不需要一上来就懂命令行、配置文件、模型参数、MCP、Skill 这些听起来很吓人的词。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "普通人无需懂代码，也能一站式完成品牌视觉设计到网站正式上线。借助GPT Image2依托现成视觉素材，搭配简短指令就能批量产出风格统一的多款网页界面，快速敲定整体设计调性。再将设计图交由Codex自动转换成可交互网页，经过多轮微调优化视觉细节与交互效果，还能一键完成云端部署，快速获取可直接演示的公开网址。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -163,31 +173,6 @@
     {
       "date": "2026-05-14",
       "title": "Claude 已经发布两年了。很多每天都在用它的人，仍然只用到了它能力的 10%。不是因为它复杂，而是因为没人向他们展示另外 90% 到底是什么样。这份指南就是为了解决这个问题。读完之后，你会把 Claude 配置成一个能记住你、理解你、按你的思考方式工作的系统。你也会知道如何用它完成很多人从未尝试过的事情。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "这篇文章整理了 25 个 skills，可以添加到任何 AI 模型中，用来显著提升你的生产力。按学生学习、职场办公、研究分析、视频创作、代码自动化五大类规整分类。每个Skill都有清晰定位、输出规范与使用约束。文章里也附了一段视频指南，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "还在逐句给Codex下指令、全程盯着人工纠偏？全新 /goal 目标驱动模式 彻底改写了协作逻辑，不用管控分步操作，只需要定义最终成果、边界约束与可验证完成条件。它就能锁定核心任务锚点，自主循环推进、自测校验，完美解决长会话意图衰减、中途跑偏的问题。文中给出了详细的安装教程、全套指令、标准书写范式与适配场景，还拆解了六大高频踩坑点，帮你从执行者变成策略制定者。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "本篇文章按照Anthropic CFO Krishna Rao在《Invest Like The Best》中的分享拆成 8 个判断：算力为什么是命门，指数增长怎么管理，三类芯片怎么被调度，前沿模型为什么能带来收入跳变，Claude Code 怎样改变组织，平台和应用边界如何取舍，定价和毛利怎么重新计算，以及 Anthropic 自己怎么在财务团队里使用 Claude。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "最近Agent 的长期记忆十分火爆，每个人都在聊记忆系统。但多半是一堆名词砸过来：向量数据库、RAG、上下文窗口、压缩、情景记忆……作者这篇文章从基础开始讲，不堆名词！尽量带大家读懂！！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-05-13",
-      "title": "Hermes全新Kanban功能，把敏捷开发看板逻辑搬进AI协作。它把任务拆解、分配、执行、交接、失败重试、人工介入这些事情拉到了一个看板上。打开 Dashboard 就能看到所有 Agent 在干什么、卡在哪、产出了什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
