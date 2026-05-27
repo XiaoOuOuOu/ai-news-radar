@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:29:55.325265Z",
+  "generated_at": "2026-05-27T19:10:55.437116Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-05-27",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-05-27",
@@ -19,11 +19,16 @@
     },
     {
       "date": "2026-05-27",
+      "title": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
       "title": "很多人用AI只会简单发指令、坐等输出，效率极低还总觉得不好用。这篇文章结合总结六套实用进阶用法，带你精准明确需求意图，把知识库从杂物堆变成可复用的知识网络，真正把AI变成高效生产力帮手。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-05-27",
@@ -33,6 +38,11 @@
     {
       "date": "2026-05-27",
       "title": "苍何老师开源了一份《Codex 实战指南》。从第一次上手，到把 Codex 接入真实工作流；帮助不同背景的人用 Codex 完成开发、创作、研究、自动化与团队协作。 如果这个项目帮你节省了摸索时间，欢迎点亮 Star，让更多人看到它。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "现在你只需要设定品牌调性，就可以用Lovart快速生成LOGO、专属字体与完整品牌套件，自动统一设计风格。冷逸这篇文章就给大家详细介绍下一整套的民宿视觉物料都有些什么，以及他是怎么做的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
