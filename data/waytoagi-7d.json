@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-06-09T12:28:27.025723Z",
+  "generated_at": "2026-06-09T15:48:32.400694Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-09",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-06-09",
       "title": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-06-09",
       "title": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
