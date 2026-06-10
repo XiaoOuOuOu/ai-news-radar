@@ -1,20 +1,30 @@
 {
-  "generated_at": "2026-06-10T10:46:05.144631Z",
+  "generated_at": "2026-06-10T14:14:02.339042Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-10",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-06-10",
+      "title": "不少人用AI编程时习惯直接下达笼统指令，这样很容易造成项目失控。老金这套工作流给出了解法：由ChatGPT担任架构与项目管理，负责规划方向、拆分微型任务并制定项目规则；Codex专注执行单次任务、编写代码。通过规范多类项目文档，把任务拆解为5-10分钟即可验收的最小单元，严格控制改动范围。每轮执行后输出完整报告，同步项目状态。这样可以有效规避AI擅自新增功能、过度重构的问题，尤其适合中长期迭代项目。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-10",
       "title": "Google 今天发布了其实时语音翻译模型： Gemini 3.5 Live Translate ，能在70多种语言之间做到边听边译，同时保留说话人的语调、节奏和音高。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
+    {
+      "date": "2026-06-10",
+      "title": "不少人用AI编程时习惯直接下达笼统指令，这样很容易造成项目失控。老金这套工作流给出了解法：由ChatGPT担任架构与项目管理，负责规划方向、拆分微型任务并制定项目规则；Codex专注执行单次任务、编写代码。通过规范多类项目文档，把任务拆解为5-10分钟即可验收的最小单元，严格控制改动范围。每轮执行后输出完整报告，同步项目状态。这样可以有效规避AI擅自新增功能、过度重构的问题，尤其适合中长期迭代项目。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-10",
       "title": "Google 今天发布了其实时语音翻译模型： Gemini 3.5 Live Translate ，能在70多种语言之间做到边听边译，同时保留说话人的语调、节奏和音高。",
