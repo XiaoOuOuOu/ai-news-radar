@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-06-14T12:54:53.160015Z",
+  "generated_at": "2026-06-14T15:02:30.364530Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-13",
-  "count_today": 7,
+  "latest_date": "2026-06-14",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-13",
-      "title": "遇到Codex 反复重连别的情况，多数人会盲目重装、换账号。本篇文章给出一套完整的排查流程，以及相关的终端命令，教你一步步核查真实代理端口、验证网络链路、配置专属环境文件。",
+      "date": "2026-06-14",
+      "title": "还在让各类干货在收藏夹里白白吃灰？这篇文章要讲的，就是怎么用一个开源工具，加上 Obsidian，把本地 AI 知识库彻底补齐。它还支持B站、YouTube视频自动转录文字，借助大模型产出高质量摘要、智能打标签并生成知识图谱，轻松把零散的内容沉淀为能高效复用的个人知识资产。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-13",
-      "title": "由郎瀚威 Will整理的2026年5月生成式AI产品数据榜单已发布，涵盖全球总榜Top100，出海总榜Top50，国内总榜Top80，美国大公司Top30，中国大公司Top30。让我们一起来看看相关数据！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "有三个命令：/goal、/loop、/workflows。很多人把它们混为一谈，觉得都是\"让 Claude自己多干会儿\"。这是个误解。它们解决的根本不是同一个问题。/goal 回答的是\" 什么时候算干完 \"，/loop 回答的是\" 隔多久干一次 \"，/workflows 回答的是\" 一次铺开多少个 Claude 一起干 \"。一个管终点，一个管节奏，一个管规模。搞清楚这三个维度，你才知道手上的活该交给谁。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "很多人第一次写 Skill，会下意识地写成一个更长的 Prompt。把背景、规则、注意事项、示例、参考资料，全都塞进一个 SKILL.md。看起来很完整，但实际并不好用。这篇文章就带大家拆解一下如何写出工业级的Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "作者拆解了大型语言模型到底是怎么构建出来的：ChatGPT、Claude 和 Gemini 背后的完整流程，并把它压缩成一张路线图。收藏这篇，保存下来。 读完之后，你会理解从原始互联网文本到一个能像助手一样回答问题的模型，中间精确经历的五阶段路径。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "AI 进入公司后，最先被推翻的，常常是CEO的工作方式、公司的成本结构和整套组织边界。这期对话，让我们一起探究下背后的原因！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-13",
-      "title": "2026世界杯Skills，一个程序员决定用自己的方式看世界杯，让我们来看看他都做了些什么？",
+      "date": "2026-06-14",
+      "title": "AI Coding 让软件的边际成本越来越小，小到几乎不存在。那护城河还有什么？是增长。如今流量红利消退，增长不再是单一岗位的职责，而是产品、技术、运营等全员必备的底层能力。文章中拆解了新旧增长玩法，并分享了洞察、试错、分析、复盘、放大的完整增长闭环。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-06-14",
+      "title": "还在让各类干货在收藏夹里白白吃灰？这篇文章要讲的，就是怎么用一个开源工具，加上 Obsidian，把本地 AI 知识库彻底补齐。它还支持B站、YouTube视频自动转录文字，借助大模型产出高质量摘要、智能打标签并生成知识图谱，轻松把零散的内容沉淀为能高效复用的个人知识资产。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-14",
+      "title": "AI Coding 让软件的边际成本越来越小，小到几乎不存在。那护城河还有什么？是增长。如今流量红利消退，增长不再是单一岗位的职责，而是产品、技术、运营等全员必备的底层能力。文章中拆解了新旧增长玩法，并分享了洞察、试错、分析、复盘、放大的完整增长闭环。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-13",
       "title": "遇到Codex 反复重连别的情况，多数人会盲目重装、换账号。本篇文章给出一套完整的排查流程，以及相关的终端命令，教你一步步核查真实代理端口、验证网络链路、配置专属环境文件。",
