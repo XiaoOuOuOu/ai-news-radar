@@ -1,25 +1,40 @@
 {
-  "generated_at": "2026-06-15T15:34:19.039778Z",
+  "generated_at": "2026-06-15T19:35:52.011723Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-15",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-06-15",
+      "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-15",
       "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-06-15",
       "title": "想要做好AI工具站海外的引流，SEO是必不可少的底层根基。本文直击十大高频SEO错误，结合测试子域名重复收录、多语言站点配置、URL规范、抓取异常、页面性能等真实场景，给出了可相对应的解决方案。不管是独立开发者还是运营团队，都能借助这份指南优化站点基建，为谷歌排名与自然流量增长铺路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "当下行业通用AI记忆方案仅仅是靠向量化切片检索实现记忆调取，模式简单但是却存在很多短板。默认记忆是无分层、持续堆叠的扁平索引，长期使用极易出现失效问题。猫叔设计了一个架构：Nemos，通过三个独立维度规整记忆，搭配稀疏激活机制管控存储体量，更适配长期稳定运行的AI底层记忆基础设施。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-06-15",
+      "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-15",
       "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
@@ -28,6 +43,11 @@
     {
       "date": "2026-06-15",
       "title": "想要做好AI工具站海外的引流，SEO是必不可少的底层根基。本文直击十大高频SEO错误，结合测试子域名重复收录、多语言站点配置、URL规范、抓取异常、页面性能等真实场景，给出了可相对应的解决方案。不管是独立开发者还是运营团队，都能借助这份指南优化站点基建，为谷歌排名与自然流量增长铺路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-15",
+      "title": "当下行业通用AI记忆方案仅仅是靠向量化切片检索实现记忆调取，模式简单但是却存在很多短板。默认记忆是无分层、持续堆叠的扁平索引，长期使用极易出现失效问题。猫叔设计了一个架构：Nemos，通过三个独立维度规整记忆，搭配稀疏激活机制管控存储体量，更适配长期稳定运行的AI底层记忆基础设施。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -178,36 +198,6 @@
     {
       "date": "2026-06-10",
       "title": "Claude重磅推出的Fable 5模型在代码开发、专业办公、法律医疗、数理推演等领域优势显著。小歪收集了一些测评案例，让我们一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "这半年作者一线测过的产品多到说不清，发布会看到一半就关掉的也多到数不清。这篇文章不是流水账，是他从一堆事里挑了 10 件，自己亲手用过、踩过坑、形成判断的，串成一条线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "苹果在 WWDC 2026 上发布了全新的 Apple Intelligence（苹果智能）和独立的 Siri AI。本次更新背后，都是由它的一整套自研基础模型驱动。小互这篇文章一次讲清楚：五个模型分别是谁、各管什么；手机装不下大模型这个老难题，苹果这次怎么绕过去的；这些模型到底能让你用上哪些新功能；苹果公布的评测数据该怎么看等等。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "编程智能体的协作模式正在迎来变革，循环工程正成为新趋势。它不再需要人工反复编写、下发提示词，而是搭建自动化循环系统，由其自主调度、校验任务并持续迭代，直至目标完成。目前主流的Claude Code、Codex均已配齐核心组件。这种思路跳出了单一工具选择的局限，转向通用流程设计，或将成为人与AI编程协作的主流方向。不过这一模式尚处早期，需要警惕Token成本飙升、输出质量下滑等问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Floatboat带来了全新的 AI 协作玩法，以日历为载体实现趣味十足的“时间编程”。只需要订阅或创建日程，AI便会自动跟进任务，结合你的工作习惯与个人定位，联动全网热点搜集素材、核验信息、产出完整内容方案。它能千人千面打造差异化创作思路，自动规避老旧选题，全程操作透明，而且还支持随时调整优化。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Benedict Evans是前 a16z 合伙人，也是硅谷长期追踪平台迁移的分析师。他这次与a16z 合伙人Erik Torenberg对话，回看自己一年多前那份《AI Eats the World》之后，AI 行业真正发生了什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-09",
-      "title": "Anthropic 于 2026-06-09 发布 Claude Fable 5 与 Claude Mythos 5。Fable 5 是面向公众开放的 Mythos-class 模型，Mythos 5 使用同一底层模型，面向 Project Glasswing 与受信访问项目。Fable 5 在网络安全、生物化学、模型蒸馏等高风险场景触发安全分类器，并自动回退到 Claude Opus 4.8。文档已开放编辑权限，欢迎展示你的测试案例！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
