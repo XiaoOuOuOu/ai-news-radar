@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-06-16T16:49:16.056296Z",
+  "generated_at": "2026-06-16T19:59:57.354012Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-16",
-  "count_today": 4,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-06-16",
+      "title": "这篇播客拆解了Anthropic 推出的Claude Code全新Routines主动智能体能力，打破 AI 工具仅能被动等待指令的局限，依托托管后台实现定时、代码库事件、Webhook 多类触发自动执行任务。仅需四组基础配置即可搭建自动化流程，所有运行会话全程可视化，支持中途暂停、调整方向，还能设置Agent互审降低失误。如果你是工程师或者产品负责人，也可以借鉴这套思路把重复流程转化为团队可复用的自动化机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-16",
       "title": "很多人尝试让Agent帮忙搭n8n工作流，遇到最费劲的环节就是把目标说清楚。作者为此专门为n8n做了一个Goal生成skill。使用这个 Skill，你可以轻而易举地把一个n8n工作流开发需求，转译成可直接复制的 /goal 指令，从而驱动Agent完成完整的「构建 → 验证 → 部署 → 分层测试 → 迭代」闭环。",
@@ -14,7 +19,17 @@
     },
     {
       "date": "2026-06-16",
+      "title": "宝玉这篇文章完整拆解了AI编程工具Cursor的崛起与危机：天才创始人打造出年收入数十亿、覆盖多数五百强的爆款产品，却因深度依赖Anthropic，在对方推出同类竞品后遭遇生存冲击。公司紧急自研Composer模型降低外部钳制，又为补足算力绑定SpaceX，曝光价值600亿美金潜在收购协议。让我们一起来看看这背后有什么内幕？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
       "title": "作者整理了GitHub 上 Star 数最高的十大Agent Skill，快来看看有没有适合你的Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "作者使用Loop Engineering 架构，搭建了一个可自主运转的知识库自动化循环。文中还给出了可直接套用的规则模板与简易脚本，快跟着一起实操试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,8 +43,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-06-16",
+      "title": "这篇播客拆解了Anthropic 推出的Claude Code全新Routines主动智能体能力，打破 AI 工具仅能被动等待指令的局限，依托托管后台实现定时、代码库事件、Webhook 多类触发自动执行任务。仅需四组基础配置即可搭建自动化流程，所有运行会话全程可视化，支持中途暂停、调整方向，还能设置Agent互审降低失误。如果你是工程师或者产品负责人，也可以借鉴这套思路把重复流程转化为团队可复用的自动化机制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-16",
       "title": "很多人尝试让Agent帮忙搭n8n工作流，遇到最费劲的环节就是把目标说清楚。作者为此专门为n8n做了一个Goal生成skill。使用这个 Skill，你可以轻而易举地把一个n8n工作流开发需求，转译成可直接复制的 /goal 指令，从而驱动Agent完成完整的「构建 → 验证 → 部署 → 分层测试 → 迭代」闭环。",
@@ -37,7 +57,17 @@
     },
     {
       "date": "2026-06-16",
+      "title": "宝玉这篇文章完整拆解了AI编程工具Cursor的崛起与危机：天才创始人打造出年收入数十亿、覆盖多数五百强的爆款产品，却因深度依赖Anthropic，在对方推出同类竞品后遭遇生存冲击。公司紧急自研Composer模型降低外部钳制，又为补足算力绑定SpaceX，曝光价值600亿美金潜在收购协议。让我们一起来看看这背后有什么内幕？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
       "title": "作者整理了GitHub 上 Star 数最高的十大Agent Skill，快来看看有没有适合你的Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "作者使用Loop Engineering 架构，搭建了一个可自主运转的知识库自动化循环。文中还给出了可直接套用的规则模板与简易脚本，快跟着一起实操试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
