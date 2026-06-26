@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T13:54:55.849953Z",
+  "generated_at": "2026-06-26T16:04:34.837792Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -13,7 +13,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 30,
   "updates_7d": [
     {
       "date": "2026-06-26",
@@ -163,36 +163,6 @@
     {
       "date": "2026-06-21",
       "title": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "本文拆解了李继刚19个连贯配套Agent Skill。十款理解类工具从多维度拆解概念、深度研读文献、提炼知识底层逻辑，四款工具负责观点推演、成文创作与辩证校验，还有一些是用于实现内容可视化、演讲排版、仓库同步等对外交付。快来看看有没有适合你的！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "很多人热衷于收藏各类AI学习资料，最后囤积很多教程却从不落地实操。文中整理了Claude的10门官方课程和14篇实操指南，全部免费，并且搭建了一套条理清晰、可直接跟进的完整学习路线。这份学习地图适合刚入门、找不到系统学习方向，总在盲目收集资料却毫无进步的AI学习者。快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "大聪明这篇文章拆解了Claude Code 七类上下文注入方案，带你清晰区分 CLAUDE.md、Rules、Skills、Subagents、Hooks 等适用场景，理清技能与隔离子Agent的分工差异。除此之外还拆解了事件驱动 Hooks 如何实现无偏差自动化，以及Dynamic Workflows的新能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "今天学习任何东西，既容易，又让人迷糊。容易，是因为 AI 几秒钟就能解释几乎任何内容。迷糊，是因为大多数人只是随意提问获取碎片化解答，只会短暂看懂内容，无法形成长效记忆。下面这 6 条提示词，可以把 Claude 变成你的私人老师、考官、资源筛选器和学习伙伴，帮助你深度吃透知识点、巩固长期记忆！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "Vibe Coding圈里最近流传着一个说法：不要再给你的编码智能体写提示词了，开始设计能替你提示它们的循环。和所有新东西一样，这句话被反复转述，却很少被讲清楚。这篇文章讲解了什么是智能体循环，为什么它重要，以及它在生产环境里长什么样。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "Silicon Valley Girl 这期对话真正有用的地方，不在于预测AI抢走多少工作，而在于把未来职场拆成两个很具体的问题：谁还在等流程喂任务，谁已经能带着 AI 改写自己的工作边界。AI 不会把每个人立刻推到同一个终点，但会放大主动学习者和旁观者之间的差距。今天最小的开始，可以只是把一个重复任务交给 AI，亲手跑通，再问自己：我的工作里，还有哪一步可以被重新设计。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
