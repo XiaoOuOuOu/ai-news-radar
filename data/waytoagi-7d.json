@@ -1,40 +1,55 @@
 {
-  "generated_at": "2026-06-27T15:56:56.571854Z",
+  "generated_at": "2026-06-27T17:00:06.749516Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-26",
-  "count_today": 5,
+  "latest_date": "2026-06-27",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-06-26",
-      "title": "豆包付费专业版来了，底层模型升级，面向普通用户的办公入口、专业技能和深度任务也开始补齐。小歪为了测得更充分一点，这次买的是“加强”档， 办公任务、浏览器操作、PPT、表格、可视化、短剧创作、日报、热点抓取、定时提醒 等多种场景全都测试了一遍，快来看看效果如何！",
+      "date": "2026-06-27",
+      "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-26",
-      "title": "绝大多数开发者只把Claude Code当作简单编程工具，给出指令就直接采纳输出结果，白白浪费绝大多数核心能力。文中整理了27个实操方法，按入门、进阶、高阶分层拆解，能够大幅提高代码开发、项目改造的整体产出效率。",
+      "date": "2026-06-27",
+      "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-26",
-      "title": "不少自媒体创作者想要绑定IP专属形象，为此小互花费一周时间迭代打磨，推出开源工具小互IP Studio，内置31个画风统一的原创角色素材。没有专属人物形象的创作者可以直接选用配图，后续打造自有IP后，仅仅简单修改就能一键切换人设。",
+      "date": "2026-06-27",
+      "title": "这是姚金刚和向阳老师在社区的第二场GEO公开课，主题是GEO内容工程，相关资料、文档、系统相关链接都已分享在文末。这场直播课有助于大家更系统的理解，为什么GEO的内容对系统能力的要求会更高，为什么管理与运营的逻辑会和很多传统的营销方式不一样。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-26",
-      "title": "不少人用AI处理长程任务会遇到AI擅自扩大需求、虚报任务完成、流程无从追溯等失控问题。老金的开源框架Meta_Kim搭建了一个完整可控的治理闭环，专为Claude Code、Codex等编码工具设计。整套流程从拆解模糊需求、分步收集信息、全局检索可用工具能力，到操作闸门管控、关键节点交由人工决策、多层流程复核、实机结果校验，最后依托图谱与向量记忆沉淀复用经验。无代码基础也能上手，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "a16z合伙人 osh Elman 在这期对话中拆解了下一代消费互联网产品的破局逻辑。想要抢占市场，产品需要重构线上线下生活场景、读懂用户多设备的上下文，打造无法替代的使用体验。你会看到用户为什么留下来，分发从哪里来以及产品怎么进入人的日常生活。",
+      "date": "2026-06-27",
+      "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 33,
   "updates_7d": [
+    {
+      "date": "2026-06-27",
+      "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "这是姚金刚和向阳老师在社区的第二场GEO公开课，主题是GEO内容工程，相关资料、文档、系统相关链接都已分享在文末。这场直播课有助于大家更系统的理解，为什么GEO的内容对系统能力的要求会更高，为什么管理与运营的逻辑会和很多传统的营销方式不一样。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-26",
       "title": "豆包付费专业版来了，底层模型升级，面向普通用户的办公入口、专业技能和深度任务也开始补齐。小歪为了测得更充分一点，这次买的是“加强”档， 办公任务、浏览器操作、PPT、表格、可视化、短剧创作、日报、热点抓取、定时提醒 等多种场景全都测试了一遍，快来看看效果如何！",
@@ -178,31 +193,6 @@
     {
       "date": "2026-06-22",
       "title": "Claude Code 上线满一年，Boris Cherny 和 Cat Wu 以主创身份复盘了团队内部的真实工作流。他们谈论的不是某个具体功能，而是人和agent到底该怎么分工。 让我们来一起探究一下！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "阿真分享了一套可定制专属卡通IP信息图的Codex专用Skill，可以解决自媒体配图形象不统一、辨识度弱的问题。只用粘贴文章或者飞书文档链接，即可一键批量产出适配多平台、可调长宽比例的系列信息图。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "本周精选的十篇顶级论文，覆盖空间视觉推理、技能调度、电脑操作智能体、强化学习、长期记忆、网页自动化与金融数据集多个关键方向。文中提炼了每项工作的核心创新、实测性能提升与落地意义，带你一站式梳理前沿突破。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "在目前主流的Agent Harness中，更多使用的还是SubAgent的方式，或者说Agent As Tool，而不是古典Multi Agent的那种对等Agent范式。本篇文章梳理了主流Agent Harness的实现对比，给搭建Agent系统的开发者提供了清晰的选型参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "产品经理接下来要掌握的能力，不是提示词工程，而是循环工程（Loop Engineering）。仅仅优化单次指令只能解决临时需求，真正的目标应该是搭建一套持续自我优化的自动化体系来让你的工作更加高效精准！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Fiona Fung 现在带着 Anthropic里Claude Code和Cowork背后的工程、产品团队，也就是Boris Cherny和Cat Wu所在的组织。她能同时看到工程师、PM、设计师、数据科学家和小企业用户怎么被AI改变。让我们一同看看最AI化的产品团队是如何工作的？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
