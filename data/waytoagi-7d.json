@@ -1,40 +1,85 @@
 {
-  "generated_at": "2026-06-28T16:54:45.724275Z",
+  "generated_at": "2026-06-28T17:57:08.312976Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-27",
-  "count_today": 5,
+  "latest_date": "2026-06-28",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-06-27",
-      "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
+      "date": "2026-06-28",
+      "title": "这篇文章梳理了让你精通 Claude 的7 篇实用指南：你真正需要读哪些指南、应该按什么顺序读，以及每篇指南的快速提要，方便你快速浏览。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-27",
-      "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
+      "date": "2026-06-28",
+      "title": "本周十篇重磅AI前沿论文，聚焦当下火热的多智能体赛道，破解了多模型调度、记忆架构、评测失真等行业核心难题。做 Agent 开发、模型评测、数据集搭建的从业者都能从中获取可落地的前沿创新思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-27",
-      "title": "这是姚金刚和向阳老师在社区的第二场GEO公开课，主题是GEO内容工程，相关资料、文档、系统相关链接都已分享在文末。这场直播课有助于大家更系统的理解，为什么GEO的内容对系统能力的要求会更高，为什么管理与运营的逻辑会和很多传统的营销方式不一样。",
+      "date": "2026-06-28",
+      "title": "很多搭建LLM智能体的团队都会卡在同一个问题：即便精细调试提示词，模型仍然频繁出错而且无法自主优化。传统监督微调只能复刻样本，很难适配多步骤工具调用任务。文章中介绍了一套低门槛强化微调组合方案：借助开源ART框架落地GRPO算法，搭配RULER免去标注数据与自定义奖励函数，依靠大模型评审给出相对排序完成训练。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-27",
-      "title": "不少创作者在用GPT做中国传统画风插画时会遇到工具短板：GPT擅长搭建完整分镜与精美构图，产出却自带浓重日系动漫质感；仅有即梦3.0能还原水墨戏曲中式画风，但画面却粗糙杂乱。作者分享了一套互补流水线，先用大模型拆解抽象文案生成画面、提取纯画面描述，再导入即梦3.0绘制国风底图，辅以骨骼参考优化群像，最后回传GPT打磨画面瑕疵。做国风短片、插画的创作者可以直接复用。",
+      "date": "2026-06-28",
+      "title": "大多数 Claude Code 用户知道 .claude/ 文件夹的存在，但很少有人认真思考它的组织方式。项目小的时候，一个 CLAUDE.md、几个设置文件就够了。但随着项目增长，指令变得难以维护，工作流散落在错误的地方，文件夹慢慢变成有用配置和难以解释的混乱的混合物。这篇文章将会带你搭建一个组织良好的 .claude/ 文件夹，让 Claude 更容易被引导、被信任，也更容易在真实项目中扩展。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-27",
-      "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
+      "date": "2026-06-28",
+      "title": "买东西，你打开京东、淘宝；聊天，你打开微信；刷视频，你打开抖音；吃饭点外卖，你打开美团。我们的数字生活被切割成了一个个方方正正的图标，每一个图标对应一块被精心定义好的需求领域。我们已经习惯了这件事，但人在数字互联网中想要的，真的只是这些app吗？让我们一起来看看互联网产品的底层是什么？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Vibe Motion正在颠覆传统视频制作逻辑，用代码驱动动画生成的Remotion和HyperFrames两大框架让视频生产变得工程化、可调试。从全合成动画到真人口播视频，作者通过踩遍10个技术坑，揭示了AI时代视频制作的底层逻辑与实战经验。这场从React组件到HTML/CSS的技术迁移，正在重新定义动态视觉内容的创作边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Jiaona Zhang是Laurel的CPO，她做过 Airbnb、Dropbox、Webflow、WeWork 的产品负责人，也在 Stanford、Yale 和 Reforge 教产品。很多产品负责人和创业团队现在卡在同一个地方：公司里总有一个人很会用 AI，能写 prompt、搭 agent、自动化掉一堆杂活。在这期对话中，我们就会看到Laurel是如何把少数高手的操作沉淀成全公司都能调用的技能。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-06-28",
+      "title": "这篇文章梳理了让你精通 Claude 的7 篇实用指南：你真正需要读哪些指南、应该按什么顺序读，以及每篇指南的快速提要，方便你快速浏览。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "本周十篇重磅AI前沿论文，聚焦当下火热的多智能体赛道，破解了多模型调度、记忆架构、评测失真等行业核心难题。做 Agent 开发、模型评测、数据集搭建的从业者都能从中获取可落地的前沿创新思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "很多搭建LLM智能体的团队都会卡在同一个问题：即便精细调试提示词，模型仍然频繁出错而且无法自主优化。传统监督微调只能复刻样本，很难适配多步骤工具调用任务。文章中介绍了一套低门槛强化微调组合方案：借助开源ART框架落地GRPO算法，搭配RULER免去标注数据与自定义奖励函数，依靠大模型评审给出相对排序完成训练。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "大多数 Claude Code 用户知道 .claude/ 文件夹的存在，但很少有人认真思考它的组织方式。项目小的时候，一个 CLAUDE.md、几个设置文件就够了。但随着项目增长，指令变得难以维护，工作流散落在错误的地方，文件夹慢慢变成有用配置和难以解释的混乱的混合物。这篇文章将会带你搭建一个组织良好的 .claude/ 文件夹，让 Claude 更容易被引导、被信任，也更容易在真实项目中扩展。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "买东西，你打开京东、淘宝；聊天，你打开微信；刷视频，你打开抖音；吃饭点外卖，你打开美团。我们的数字生活被切割成了一个个方方正正的图标，每一个图标对应一块被精心定义好的需求领域。我们已经习惯了这件事，但人在数字互联网中想要的，真的只是这些app吗？让我们一起来看看互联网产品的底层是什么？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Vibe Motion正在颠覆传统视频制作逻辑，用代码驱动动画生成的Remotion和HyperFrames两大框架让视频生产变得工程化、可调试。从全合成动画到真人口播视频，作者通过踩遍10个技术坑，揭示了AI时代视频制作的底层逻辑与实战经验。这场从React组件到HTML/CSS的技术迁移，正在重新定义动态视觉内容的创作边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Jiaona Zhang是Laurel的CPO，她做过 Airbnb、Dropbox、Webflow、WeWork 的产品负责人，也在 Stanford、Yale 和 Reforge 教产品。很多产品负责人和创业团队现在卡在同一个地方：公司里总有一个人很会用 AI，能写 prompt、搭 agent、自动化掉一堆杂活。在这期对话中，我们就会看到Laurel是如何把少数高手的操作沉淀成全公司都能调用的技能。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-27",
       "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
