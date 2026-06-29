@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T16:31:03.110734Z",
+  "generated_at": "2026-06-29T18:55:30.150442Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-29",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-29",
@@ -16,9 +16,24 @@
       "date": "2026-06-29",
       "title": "卡尔自研的开源macOS工具Bugu，可以解决长时间Vibe Coding状况下任务状态不明、电脑休眠等等问题。依托分层音效反馈，不用开盖就能分辨任务的各类运行状态，同时一键锁住设备不休眠。文中还有浏览器自动化调研、多技能组合等实用开发技巧，快来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "作者结合多款产品落地经验，提炼出一套完整Vibe Coding流程，覆盖需求拆解、快速出最简原型、可控迭代、多层验收、云端部署、线上反馈迭代六大环节，附带版本存档、上下文压缩、双AI互审、域名与环境变量配置等大量避坑实操。想独立落地产品的零基础小白也能直接复用，快上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Codex的核心能力本来是为写代码设计的，但这套能力——从多个地方拉信息、调用各种工具、一步步执行复杂任务——用来办公同样好使。这篇指南教你怎么用Codex来处理日常工作。 从搭环境开始，到实际跑各种工作流，再到把重复劳动变成越来越顺手的系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Andrew Ambrosino是Codex的产品与工程负责人。他的履历很特殊：做过设计师、工程师、PM，也做过创始人。如果你今天还在纠结该写 PRD、画原型，还是直接让 Agent 开工，这期对话或许会给你帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-06-29",
@@ -28,6 +43,21 @@
     {
       "date": "2026-06-29",
       "title": "卡尔自研的开源macOS工具Bugu，可以解决长时间Vibe Coding状况下任务状态不明、电脑休眠等等问题。依托分层音效反馈，不用开盖就能分辨任务的各类运行状态，同时一键锁住设备不休眠。文中还有浏览器自动化调研、多技能组合等实用开发技巧，快来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "作者结合多款产品落地经验，提炼出一套完整Vibe Coding流程，覆盖需求拆解、快速出最简原型、可控迭代、多层验收、云端部署、线上反馈迭代六大环节，附带版本存档、上下文压缩、双AI互审、域名与环境变量配置等大量避坑实操。想独立落地产品的零基础小白也能直接复用，快上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Codex的核心能力本来是为写代码设计的，但这套能力——从多个地方拉信息、调用各种工具、一步步执行复杂任务——用来办公同样好使。这篇指南教你怎么用Codex来处理日常工作。 从搭环境开始，到实际跑各种工作流，再到把重复劳动变成越来越顺手的系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "Andrew Ambrosino是Codex的产品与工程负责人。他的履历很特殊：做过设计师、工程师、PM，也做过创始人。如果你今天还在纠结该写 PRD、画原型，还是直接让 Agent 开工，这期对话或许会给你帮助！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
