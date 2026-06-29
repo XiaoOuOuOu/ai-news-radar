@@ -1,50 +1,35 @@
 {
-  "generated_at": "2026-06-29T12:20:26.699202Z",
+  "generated_at": "2026-06-29T16:31:03.110734Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-28",
-  "count_today": 7,
+  "latest_date": "2026-06-29",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-06-28",
-      "title": "这篇文章梳理了让你精通 Claude 的7 篇实用指南：你真正需要读哪些指南、应该按什么顺序读，以及每篇指南的快速提要，方便你快速浏览。",
+      "date": "2026-06-29",
+      "title": "本周AI音乐行业周报汇集了近期重磅版权纠纷、工具更新与前沿论文。Suno、Udio、英伟达接连卷入大规模侵权诉讼，配套法庭级检测工具、防伪造隐形水印也随之落地补齐维权手段。国内外音频工具迎来集中更新。文末还附上了八篇前沿论文，覆盖统一音频架构、实时交互编曲、音源修复等方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-06-28",
-      "title": "本周十篇重磅AI前沿论文，聚焦当下火热的多智能体赛道，破解了多模型调度、记忆架构、评测失真等行业核心难题。做 Agent 开发、模型评测、数据集搭建的从业者都能从中获取可落地的前沿创新思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "很多搭建LLM智能体的团队都会卡在同一个问题：即便精细调试提示词，模型仍然频繁出错而且无法自主优化。传统监督微调只能复刻样本，很难适配多步骤工具调用任务。文章中介绍了一套低门槛强化微调组合方案：借助开源ART框架落地GRPO算法，搭配RULER免去标注数据与自定义奖励函数，依靠大模型评审给出相对排序完成训练。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "大多数 Claude Code 用户知道 .claude/ 文件夹的存在，但很少有人认真思考它的组织方式。项目小的时候，一个 CLAUDE.md、几个设置文件就够了。但随着项目增长，指令变得难以维护，工作流散落在错误的地方，文件夹慢慢变成有用配置和难以解释的混乱的混合物。这篇文章将会带你搭建一个组织良好的 .claude/ 文件夹，让 Claude 更容易被引导、被信任，也更容易在真实项目中扩展。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "买东西，你打开京东、淘宝；聊天，你打开微信；刷视频，你打开抖音；吃饭点外卖，你打开美团。我们的数字生活被切割成了一个个方方正正的图标，每一个图标对应一块被精心定义好的需求领域。我们已经习惯了这件事，但人在数字互联网中想要的，真的只是这些app吗？让我们一起来看看互联网产品的底层是什么？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Vibe Motion正在颠覆传统视频制作逻辑，用代码驱动动画生成的Remotion和HyperFrames两大框架让视频生产变得工程化、可调试。从全合成动画到真人口播视频，作者通过踩遍10个技术坑，揭示了AI时代视频制作的底层逻辑与实战经验。这场从React组件到HTML/CSS的技术迁移，正在重新定义动态视觉内容的创作边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Jiaona Zhang是Laurel的CPO，她做过 Airbnb、Dropbox、Webflow、WeWork 的产品负责人，也在 Stanford、Yale 和 Reforge 教产品。很多产品负责人和创业团队现在卡在同一个地方：公司里总有一个人很会用 AI，能写 prompt、搭 agent、自动化掉一堆杂活。在这期对话中，我们就会看到Laurel是如何把少数高手的操作沉淀成全公司都能调用的技能。",
+      "date": "2026-06-29",
+      "title": "卡尔自研的开源macOS工具Bugu，可以解决长时间Vibe Coding状况下任务状态不明、电脑休眠等等问题。依托分层音效反馈，不用开盖就能分辨任务的各类运行状态，同时一键锁住设备不休眠。文中还有浏览器自动化调研、多技能组合等实用开发技巧，快来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 29,
   "updates_7d": [
+    {
+      "date": "2026-06-29",
+      "title": "本周AI音乐行业周报汇集了近期重磅版权纠纷、工具更新与前沿论文。Suno、Udio、英伟达接连卷入大规模侵权诉讼，配套法庭级检测工具、防伪造隐形水印也随之落地补齐维权手段。国内外音频工具迎来集中更新。文末还附上了八篇前沿论文，覆盖统一音频架构、实时交互编曲、音源修复等方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-29",
+      "title": "卡尔自研的开源macOS工具Bugu，可以解决长时间Vibe Coding状况下任务状态不明、电脑休眠等等问题。依托分层音效反馈，不用开盖就能分辨任务的各类运行状态，同时一键锁住设备不休眠。文中还有浏览器自动化调研、多技能组合等实用开发技巧，快来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-28",
       "title": "这篇文章梳理了让你精通 Claude 的7 篇实用指南：你真正需要读哪些指南、应该按什么顺序读，以及每篇指南的快速提要，方便你快速浏览。",
@@ -178,41 +163,6 @@
     {
       "date": "2026-06-24",
       "title": "Agent Memory 其实已经从“存聊天记录”分化成了一整套架构。规则、画像、历史、证据、反思和技能沉淀，各有各的存储方式、加载时机和治理难题。这篇文章想完整讲清楚的，就是截至 2026 年中，这套架构到底长什么样。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "经常用Codex生成图片的人或许常常会遇到版本混乱、修改指令模糊的问题，作者自研并开源了一个本地插件Prompt Canvas。工具采用SQLite本地存储，可以更直观地留存所有迭代版本，而且支持画布可视化批注，自动生成带坐标的结构化修改文档。文中有完整安装流程，快来上手搭建一个可完整回溯、稳定高效的AI做图工具。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "火山引擎Force原动力大会发布了全系列多模态模型，覆盖文本、视频、图像、语音四大赛道，还上线了官方IP二创版权平台。Doubao-Seed-2.1 Pro实现生产级能力，支持超长视频解析、五百级多智能体协同，调用成本远低于海外大模型；Seedance 2.5支持30秒长叙事、3D白模预演与多语言局部改片；Seedream 5.0 Pro自带分层拆解、复杂图文排版能力，图像视频模型可联动创作；全新音频模型能多角色带环境音完整演绎剧情。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "很多开发者习惯开启多个Claude Code、Codex会话模块来提升开发效率，但人工只能逐个审核校验，频繁切屏查看各会话进度很容易漏掉关键节点，打断AI持续运行的节奏。云舒分享了一套轻量化解决方案，借助蓝牙音箱的灯光、语音提醒实时同步每个任务的推进阶段。不用反复切换窗口紧盯界面，就能全程掌握所有会话状态，最大化多线程协同开发的整体效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "字节全新音频模型Seed-Audio 1.0跳出了传统TTS语音合成思路，迈入完整场景化语音创作新阶段。不用专业提示词，仅靠文字描述完整故事场景，就能一次性融合人声情绪、对白、环境音效、背景氛围直出成片。同一音色还可以自由切换激昂、迟疑、暴怒等复杂情绪，诗词吟诵、酒吧电台、影视剧对白、戏曲、直播等多元场景都能高度还原。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "字节Seed 2.1系列模型正式发布 ，以解决日常生活、专业工作和前沿探索中的复杂需求为目标来进行迭代。模型三大核心能力全面升级，既能跨工具完成多步骤高价值办公与生活任务，也能独立走完企业开发全流程实现稳定的代码交付，更强的多模态、推理底层能力全程作为支撑。目前该模型已接入豆包、TRAE，火山引擎同步开放 API，快来上手体验下！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "如果你刚接触 Codex，但已经看到很多人在说Skill，这篇可以先帮你把框架搭起来。那么Skill 到底是什么？哪些值得先看？以及你该怎么跟 Codex 提需求，才能让它更稳定地帮你干活？如果你已经用过一段时间，也可以把它当作一份工具清单，看看有没有值得补上的能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Y Combinator合伙人Max Kolysh在YC内部社区发帖询问创始人到底怎样拿到前10个客户后把他们的回答整理成了一套战术清单，让我们一起来探究下背后的奥秘！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
