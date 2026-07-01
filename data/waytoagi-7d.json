@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-07-01T13:33:05.352876Z",
+  "generated_at": "2026-07-01T16:13:00.178363Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-06-30",
-  "count_today": 6,
+  "latest_date": "2026-07-01",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-06-30",
-      "title": "随着模型和Harness逐步趋同，真正决定Agent能力边界的，会越来越是Context。未来，模型能力会不断提升，Harness会越来越趋同。谁拥有更高质量、更完整、更实时更新的Context，谁就能形成复利，并取得更多价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "很多人用AI做PPT都会踩坑：文字模糊、不能加动画，反复修改还容易耗尽模型上下文。作者小水借助Codex打造了一个专属PPT技能库，收纳了12套完整HTML演示模板，覆盖学生作业、职场汇报、政企宣讲、个人作品集等常见场景。跳出单纯生成静态图片的局限，产出的PPT可以自由编辑、添加动态效果。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "很多人一听到 GitHub，第一反应是： 程序员才用的东西，全是代码和英文。 我又不会编程，看它干嘛？但很多工具、产品、创业方向、AI 应用，在变成大众产品之前，往往会先在 GitHub 上出现。这篇就是写给纯小白的。只讲一件事： 普通人怎么用 GitHub 获取有价值的信息。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "卡尔的开源AI热点工具ai-news-radar迎来重磅更新。普通用户无需配置即可直接在线阅览，开发者还可以建立专属的资讯站。卡尔内置了两个Skill分工筛选、聚合全网信源，还新增了小红书、抖音短视频热点专区；同时收录了大厂官方一手公告与开源更新内容，省去了跨平台搜集、甄别信息的成本。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "DevSpace自托管MCP工具可以解决 ChatGPT 网页Pro额度闲置、Codex额度紧缺的问题。通过隧道工具搭建云端与本地代码的通路，让网页端Pro模型直接读写本地项目、执行测试、读取项目配置，发挥顶尖推理能力。文中提供了一键部署指令，覆盖环境校验、目录权限管控、公网隧道搭建、ChatGPT网页绑定全流程。如果你是Codex重度用户，不妨试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "6月海内外重磅开源各类大模型，覆盖代码、多模态、视频、语音、科学、手机智能体等全赛道。智谱GLM-5.2、Kimi-K2.7-Code等国产编码模型实力突出，谷歌、字节、百度、小米等大厂接连放出音视频、OCR、终端智能体新品，还有面向生物、材料的专业科研模型落地。一起来看看具体都有哪些！",
+      "date": "2026-07-01",
+      "title": "如果你最近用过 Codex、Claude Code，或者在团队里写过 AGENTS.md，大概已经碰到过一个新问题：给 Agent 的规则越来越多，效果却不一定越来越好。AI Engineer 这场演讲讲的就是这件事。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 29,
   "updates_7d": [
+    {
+      "date": "2026-07-01",
+      "title": "如果你最近用过 Codex、Claude Code，或者在团队里写过 AGENTS.md，大概已经碰到过一个新问题：给 Agent 的规则越来越多，效果却不一定越来越好。AI Engineer 这场演讲讲的就是这件事。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-30",
       "title": "随着模型和Harness逐步趋同，真正决定Agent能力边界的，会越来越是Context。未来，模型能力会不断提升，Harness会越来越趋同。谁拥有更高质量、更完整、更实时更新的Context，谁就能形成复利，并取得更多价值。",
@@ -178,26 +158,6 @@
     {
       "date": "2026-06-26",
       "title": "a16z合伙人 osh Elman 在这期对话中拆解了下一代消费互联网产品的破局逻辑。想要抢占市场，产品需要重构线上线下生活场景、读懂用户多设备的上下文，打造无法替代的使用体验。你会看到用户为什么留下来，分发从哪里来以及产品怎么进入人的日常生活。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "这是一篇GitHub的奶爸级别教学。如果你是 AI 编程爱好者，本文对你帮助是极大的。包括：怎么注册，搜索，使用 GitHub、了解 GitHub 详细功能点、如何提交和备份 GitHub 项目。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "火山方舟上线Seed 2.1 Pro，多项Agent、代码、多模态基准成绩位居前列，兼容主流开发工具且调用成本远低于海外模型。作者用它做了一个毕业生就业补贴公益项目，自主完成全网信息抓取、OCR识别、数据核验质检、开源仓库搭建与检索网站开发。整套项目完成成本仅为同类海外模型的几十分之一，快来看看效果如何。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "以前用 AI，最重要的是 Prompt Engineering。也就是你怎么问，AI 才能答得更好。但现在Loop Engineering 解决的是另一个问题： 怎么让 AI 按步骤持续工作，并且自己检查结果。这篇文章是针对小白从0到1的完整教程以及避坑指南。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-25",
-      "title": "AI大幅降低开发门槛后，很多团队盲目落地积压的需求，结果徒增维护与运营成本，Token消耗沦为无效指标。产品运营和 AI 策略顾问 Katie Robly在这期对话中重新划分了PM、设计、工程师的协作边界，同时提出核心思路：AI适合承接整理反馈、生成原型等重复性战术工作，人们应该聚焦客户调研、战略取舍等决策环节，初级产品经理尤其要手动核验AI输出、夯实判断力，前置客户需求调研再启动开发。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
