@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-07-01T16:13:00.178363Z",
+  "generated_at": "2026-07-01T18:52:51.840070Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-01",
-  "count_today": 1,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-07-01",
+      "title": "很多人用 GitHub 搜索，只会在搜索框里输入一个关键词。 比如：AI、Claude Code、MCP、n8n 然后就被一大堆结果淹没。但其实 GitHub 搜索比普通搜索框强很多。 这篇文章提供了很多直接可用的高级搜索语法，建议收藏！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-01",
       "title": "如果你最近用过 Codex、Claude Code，或者在团队里写过 AGENTS.md，大概已经碰到过一个新问题：给 Agent 的规则越来越多，效果却不一定越来越好。AI Engineer 这场演讲讲的就是这件事。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "作者开源了一个叫goal-loop的Skill，可以让没有任何编程基础的小白也能搭建标准化的编码流程。它不会替代你思考，只是把 \"想（需求）、写（需求规格与计划文档）、跑（ Loop 自动化循环构建 ）\" 做成完整的工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "不少AI工程师只会搭建基础智能体，却做不出可以自我迭代优化的成熟系统。文中汇总了20个经过验证的循环设计范式，可以直接收藏复用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Product Hunt 是一个海外新产品集中亮相的地方：AI 工具、SaaS、浏览器插件、开源项目每天上新，用户现场投票、提问、挑刺。读完这篇，你会知道第一次打开该点哪里，看到一个产品怎么判断靠不靠谱，评论区怎么挖真实问题；如果你也想发布产品，哪些规则和坑要先绕开。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 29,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-07-01",
+      "title": "很多人用 GitHub 搜索，只会在搜索框里输入一个关键词。 比如：AI、Claude Code、MCP、n8n 然后就被一大堆结果淹没。但其实 GitHub 搜索比普通搜索框强很多。 这篇文章提供了很多直接可用的高级搜索语法，建议收藏！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
       "title": "如果你最近用过 Codex、Claude Code，或者在团队里写过 AGENTS.md，大概已经碰到过一个新问题：给 Agent 的规则越来越多，效果却不一定越来越好。AI Engineer 这场演讲讲的就是这件事。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "作者开源了一个叫goal-loop的Skill，可以让没有任何编程基础的小白也能搭建标准化的编码流程。它不会替代你思考，只是把 \"想（需求）、写（需求规格与计划文档）、跑（ Loop 自动化循环构建 ）\" 做成完整的工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "不少AI工程师只会搭建基础智能体，却做不出可以自我迭代优化的成熟系统。文中汇总了20个经过验证的循环设计范式，可以直接收藏复用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Product Hunt 是一个海外新产品集中亮相的地方：AI 工具、SaaS、浏览器插件、开源项目每天上新，用户现场投票、提问、挑刺。读完这篇，你会知道第一次打开该点哪里，看到一个产品怎么判断靠不靠谱，评论区怎么挖真实问题；如果你也想发布产品，哪些规则和坑要先绕开。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
