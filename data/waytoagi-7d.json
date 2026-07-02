@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-07-02T03:28:20.012888Z",
+  "generated_at": "2026-07-02T06:57:47.423941Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-01",
-  "count_today": 5,
+  "latest_date": "2026-07-02",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-07-01",
-      "title": "很多人用 GitHub 搜索，只会在搜索框里输入一个关键词。 比如：AI、Claude Code、MCP、n8n 然后就被一大堆结果淹没。但其实 GitHub 搜索比普通搜索框强很多。 这篇文章提供了很多直接可用的高级搜索语法，建议收藏！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "如果你最近用过 Codex、Claude Code，或者在团队里写过 AGENTS.md，大概已经碰到过一个新问题：给 Agent 的规则越来越多，效果却不一定越来越好。AI Engineer 这场演讲讲的就是这件事。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "作者开源了一个叫goal-loop的Skill，可以让没有任何编程基础的小白也能搭建标准化的编码流程。它不会替代你思考，只是把 \"想（需求）、写（需求规格与计划文档）、跑（ Loop 自动化循环构建 ）\" 做成完整的工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "不少AI工程师只会搭建基础智能体，却做不出可以自我迭代优化的成熟系统。文中汇总了20个经过验证的循环设计范式，可以直接收藏复用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-01",
-      "title": "Product Hunt 是一个海外新产品集中亮相的地方：AI 工具、SaaS、浏览器插件、开源项目每天上新，用户现场投票、提问、挑刺。读完这篇，你会知道第一次打开该点哪里，看到一个产品怎么判断靠不靠谱，评论区怎么挖真实问题；如果你也想发布产品，哪些规则和坑要先绕开。",
+      "date": "2026-07-02",
+      "title": "做小红书、公众号图文的创作者不用再陷入静态图单薄、短视频制作繁琐的纠结啦！藏师傅这款社交卡片全新上线 Live Photo 动态制作功能。它可以基于录屏、游戏、生活等短视频素材产出单图、多宫格、并列三连动态图文。内置多重校验逻辑，可以自动筛选适配片段、优化首帧画面、区分各个平台的适配时长，快来上手试试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-07-02",
+      "title": "做小红书、公众号图文的创作者不用再陷入静态图单薄、短视频制作繁琐的纠结啦！藏师傅这款社交卡片全新上线 Live Photo 动态制作功能。它可以基于录屏、游戏、生活等短视频素材产出单图、多宫格、并列三连动态图文。内置多重校验逻辑，可以自动筛选适配片段、优化首帧画面、区分各个平台的适配时长，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-01",
       "title": "很多人用 GitHub 搜索，只会在搜索框里输入一个关键词。 比如：AI、Claude Code、MCP、n8n 然后就被一大堆结果淹没。但其实 GitHub 搜索比普通搜索框强很多。 这篇文章提供了很多直接可用的高级搜索语法，建议收藏！",
