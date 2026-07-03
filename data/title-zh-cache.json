@@ -24084,5 +24084,20 @@
   "Virginia bans sale of precise geolocation data": "弗吉尼亚州禁止出售精确地理位置数据",
   "Since Linux 6.9 (May 2024), the LUKS encryption key remained resident in memory across suspend": "自 Linux 6.9（2024 年 5 月）以来，LUKS 加密密钥在挂起期间仍驻留在内存中",
   "No LLM code in dependencies": "依赖项中没有 LLM 代码",
-  ".gitignore Isn’t the Only Way To Ignore Files in Git": ".gitignore 并不是忽略 Git 中文件的唯一方法"
+  ".gitignore Isn’t the Only Way To Ignore Files in Git": ".gitignore 并不是忽略 Git 中文件的唯一方法",
+  "Claude, please stop trying to memorize random crap": "克劳德，请别再试图记住那些乱七八糟的东西了",
+  "Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds with Incompatibility": "Rust Coreutils cp 最终因不兼容而破坏了 Ubuntu 镜像构建",
+  "GTA 6 developer Rockstar Games accused of enabling crunch, failing to address gender pay gap, and weaponizing bonuses": "GTA 6 开发商 Rockstar Games 被指控加班、未能解决性别薪酬差距以及将奖金武器化",
+  "Parents warned not to publicly share children’s images amid AI abuse risks": "家长警告不要公开分享儿童图像，以免存在人工智能滥用风险",
+  "Gossamer": "游丝",
+  "An interview with Sriram Krishnan, who says \"there will not be an FDA for AI\" under Trump, blames the AI backlash on the industry's \"doomer\" messaging, and more (Financial Times)": "斯里拉姆·克里希南 (Sriram Krishnan) 在接受采访时表示，在特朗普的领导下，“不会有针对人工智能的 FDA”，他将人工智能的强烈抵制归咎于该行业的“厄运”信息等等（《金融时报》）",
+  "The chip industry has a warning for Trump: hands off the memory market": "芯片行业向特朗普发出警告：放手内存市场",
+  "Factories Are Just Rooms": "工厂只是房间",
+  "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are": "1926 年的美国：一份被遗忘的 100 年前的报告讲述了我们是谁",
+  "Best Simple System for Now": "目前最好的简单系统",
+  "AI coding is addictive. Engineers are paying the price": "人工智能编码会让人上瘾。工程师正在付出代价",
+  "Give Smart People the Tools to Do Smart Things": "为聪明人提供做聪明事的工具",
+  "Investors sue Oracle, say it hid how shaky the OpenAI deal was": "投资者起诉甲骨文，称其隐瞒了 OpenAI 交易的不稳定性",
+  "Program-as-Weights: A Programming Paradigm for Fuzzy Functions": "程序即权重：模糊函数的编程范式",
+  "Pandoc Lua Filters": "Pandoc Lua 过滤器"
 }

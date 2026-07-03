@@ -1,40 +1,45 @@
 {
-  "generated_at": "2026-07-03T15:46:20.182509Z",
+  "generated_at": "2026-07-03T17:08:48.551943Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-02",
-  "count_today": 5,
+  "latest_date": "2026-07-03",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-07-02",
-      "title": "还在频繁切换翻译、PDF、聊天窗口来读技术论文？成峰这款开源的论文Skill能直接砍掉一半的阅读耗时。依托模型理解、一体化交互、浏览器操控三层能力，搭建了单屏共读体系，上传论文链接或者PDF即可生成专属中文解读页面。遇到专业术语、难懂段落还可以直接标记提问，解释内容实时回填到原文，读完还能一键整合全篇。快来上手试试！",
+      "date": "2026-07-03",
+      "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-02",
-      "title": "如果你现在正在学 Agent 开发，我知道那种迷茫感。每周都有新工具、新框架、新模型、新发布，过一段时间之后，你根本搞不清到底该学什么。学工具？学框架？等下一个更好的？读完这篇文章之后，你会用简单的语言理解 agentic engineering 概念。下次你再读到 Agent 文章、看演示、或者看到 AI 新闻时，你能认识背后的原理。",
+      "date": "2026-07-03",
+      "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-02",
-      "title": "做小红书、公众号图文的创作者不用再陷入静态图单薄、短视频制作繁琐的纠结啦！藏师傅这款社交卡片全新上线 Live Photo 动态制作功能。它可以基于录屏、游戏、生活等短视频素材产出单图、多宫格、并列三连动态图文。内置多重校验逻辑，可以自动筛选适配片段、优化首帧画面、区分各个平台的适配时长，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "作者实测Claude Fable5模型，它的规划审核能力远超Codex，适合用于复杂系统的迭代。另外依托Fable5还优化落地了一套基于Obsidian搭建的Agent 记忆系统，文末开源了配套的Skill，可以直接部署或者二次改造搭建专属工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-02",
-      "title": "企业里的 AI 项目很容易先变成一个长长的工具清单：接邮箱、接表格、接 Figma、接 Salesforce，再把权限、数据、日志和审批塞进同一个大 Agent。那么IT 团队开始盯着环境变量、运行时、观测日志和权限边界发愁。未来的企业 Agent 可能不会沿着“一个大模型吃下所有工具”的路线长大，而会拆成一组更小、更专、更容易控制的 domain-specific agents。",
+      "date": "2026-07-03",
+      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-07-03",
+      "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-02",
       "title": "还在频繁切换翻译、PDF、聊天窗口来读技术论文？成峰这款开源的论文Skill能直接砍掉一半的阅读耗时。依托模型理解、一体化交互、浏览器操控三层能力，搭建了单屏共读体系，上传论文链接或者PDF即可生成专属中文解读页面。遇到专业术语、难懂段落还可以直接标记提问，解释内容实时回填到原文，读完还能一键整合全篇。快来上手试试！",
@@ -173,31 +178,6 @@
     {
       "date": "2026-06-28",
       "title": "Jiaona Zhang是Laurel的CPO，她做过 Airbnb、Dropbox、Webflow、WeWork 的产品负责人，也在 Stanford、Yale 和 Reforge 教产品。很多产品负责人和创业团队现在卡在同一个地方：公司里总有一个人很会用 AI，能写 prompt、搭 agent、自动化掉一堆杂活。在这期对话中，我们就会看到Laurel是如何把少数高手的操作沉淀成全公司都能调用的技能。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "邮件排版、撰写报告、制作PPT、调研等等重复性的工作，会耗掉职场人六成的工作时间。Claude Cowork可以把你从这些任务里彻底解放出来。作者分享了自己在使用Claude Cowork运行一人公司的完整系统：生产工作交给 Cowork，他只负责做决策。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "这篇万字复盘是作者投入AI创业一年的一线实战沉淀，或许会推翻不少人对AI开发的片面幻想。AI可以快速搭建各类Demo，但随之而来的数据、文档、权限、协作等海量技术债务极易拖垮项目。文中拆解了分层Agent工程优化思路，厘清了简易工作流与长期可治理系统的核心差距。总结的一些避坑参考不容错过。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "这是姚金刚和向阳老师在社区的第二场GEO公开课，主题是GEO内容工程，相关资料、文档、系统相关链接都已分享在文末。这场直播课有助于大家更系统的理解，为什么GEO的内容对系统能力的要求会更高，为什么管理与运营的逻辑会和很多传统的营销方式不一样。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "不少创作者在用GPT做中国传统画风插画时会遇到工具短板：GPT擅长搭建完整分镜与精美构图，产出却自带浓重日系动漫质感；仅有即梦3.0能还原水墨戏曲中式画风，但画面却粗糙杂乱。作者分享了一套互补流水线，先用大模型拆解抽象文案生成画面、提取纯画面描述，再导入即梦3.0绘制国风底图，辅以骨骼参考优化群像，最后回传GPT打磨画面瑕疵。做国风短片、插画的创作者可以直接复用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-27",
-      "title": "Clay AI 负责人Jeff Barg 讲了一件增长团队很难绕开的事：当 AI 已经能写出像人写的邮件，主动触达的胜负就不再押在一句文案上。增长已经从文案工作转向系统工程。让我们来一起看看他们在真实业务中积累了哪些实践经验！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
