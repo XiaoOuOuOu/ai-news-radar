@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T17:08:48.551943Z",
+  "generated_at": "2026-07-03T18:56:57.745662Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-03",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-07-03",
@@ -21,9 +21,14 @@
       "date": "2026-07-03",
       "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-07-03",
@@ -38,6 +43,11 @@
     {
       "date": "2026-07-03",
       "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
