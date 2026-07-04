@@ -1,35 +1,55 @@
 {
-  "generated_at": "2026-07-04T15:52:43.950054Z",
+  "generated_at": "2026-07-04T16:48:30.732880Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-03",
+  "latest_date": "2026-07-04",
   "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-07-03",
-      "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
+      "date": "2026-07-04",
+      "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了自建的低成本 VPS 服务、高效信息筛选路线。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-03",
-      "title": "很多团队已经把 Cursor、Claude Code、原型工具接进日常工作，可真正卡人的地方常常不在模型参数。任务还是散落在邮件、日历、Slack、文件夹和脑子里，人还在手动搬数据、反复确认权限、盯着屏幕等 AI 跑完。Anthropic 工程负责人 Felix Rieseberg 在这期对话里就拆解了他们日常到底怎么用Claude处理这种协作问题的。",
+      "date": "2026-07-04",
+      "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-03",
-      "title": "如果你也习惯让Claude Code、Codex等AI编程工具自动运行陌生的开源仓库，很可能会遭遇隐蔽供应链的攻击。老金给出一套可直接复用的十条安全防护准则，可以避免AI过度自动执行带来的泄密、篡改系统风险。",
+      "date": "2026-07-04",
+      "title": "一转眼2026年已经进入下半年，阿真这篇文章盘点了2026 年上半年的图片与视频模型，伴随模型更新时间轴出现的，还有一些当时的测试文章。一起来回顾下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-07-03",
-      "title": "作者单人运营账号，两个月时间内拿到了抖音8k多粉丝，小红书2k粉丝的结果，总结了这套用codex做视频的方法论。创作者只需要输出核心观点与调整需求。Codex 搭建标准化复用工作流，Remotion 稳定渲染成片，就可以轻松保持高频更新节奏。",
+      "date": "2026-07-04",
+      "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 29,
   "updates_7d": [
+    {
+      "date": "2026-07-04",
+      "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了自建的低成本 VPS 服务、高效信息筛选路线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "很多人最近的焦虑很具体：代码已经能让 Agent 写，图片已经能用模型生成，会议纪要、客服、搜索、调研都在被自动化。下一个被重写的，会不会就是自己的岗位？Richard Socher 在这期里给了一个很硬的判断：问题不能只看 AI 能不能做你的任务，还要看这个任务变便宜后，市场到底需要多少。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "一转眼2026年已经进入下半年，阿真这篇文章盘点了2026 年上半年的图片与视频模型，伴随模型更新时间轴出现的，还有一些当时的测试文章。一起来回顾下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-04",
+      "title": "AI时代，Markdown已经成为AI的第一语言。但是各类Markdown工具要么收费、要么存在云端泄露数据等等问题。冷逸做了一个Markdown编辑器，开源免费，快来上手体验一下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-03",
       "title": "想靠Codex打造有个人表达、摆脱流水线AI质感的个人站点，作者这套实操思路或许可以对你有所帮助！文中整理了多类优质设计参考渠道与提取网页风格的工具，搭配一系列插件可以精准把控视觉调性。同时还给出了页面迭代、素材生成、画布对比修改的完整实操方案，附带标准化提示词模板，无需专业设计功底，也能清晰界定色彩、布局、动效与避坑要求，生成富有个人特色的网页。",
@@ -153,41 +173,6 @@
     {
       "date": "2026-06-29",
       "title": "Andrew Ambrosino是Codex的产品与工程负责人。他的履历很特殊：做过设计师、工程师、PM，也做过创始人。如果你今天还在纠结该写 PRD、画原型，还是直接让 Agent 开工，这期对话或许会给你帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "这篇文章梳理了让你精通 Claude 的7 篇实用指南：你真正需要读哪些指南、应该按什么顺序读，以及每篇指南的快速提要，方便你快速浏览。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "本周十篇重磅AI前沿论文，聚焦当下火热的多智能体赛道，破解了多模型调度、记忆架构、评测失真等行业核心难题。做 Agent 开发、模型评测、数据集搭建的从业者都能从中获取可落地的前沿创新思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "很多搭建LLM智能体的团队都会卡在同一个问题：即便精细调试提示词，模型仍然频繁出错而且无法自主优化。传统监督微调只能复刻样本，很难适配多步骤工具调用任务。文章中介绍了一套低门槛强化微调组合方案：借助开源ART框架落地GRPO算法，搭配RULER免去标注数据与自定义奖励函数，依靠大模型评审给出相对排序完成训练。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "大多数 Claude Code 用户知道 .claude/ 文件夹的存在，但很少有人认真思考它的组织方式。项目小的时候，一个 CLAUDE.md、几个设置文件就够了。但随着项目增长，指令变得难以维护，工作流散落在错误的地方，文件夹慢慢变成有用配置和难以解释的混乱的混合物。这篇文章将会带你搭建一个组织良好的 .claude/ 文件夹，让 Claude 更容易被引导、被信任，也更容易在真实项目中扩展。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "买东西，你打开京东、淘宝；聊天，你打开微信；刷视频，你打开抖音；吃饭点外卖，你打开美团。我们的数字生活被切割成了一个个方方正正的图标，每一个图标对应一块被精心定义好的需求领域。我们已经习惯了这件事，但人在数字互联网中想要的，真的只是这些app吗？让我们一起来看看互联网产品的底层是什么？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Vibe Motion正在颠覆传统视频制作逻辑，用代码驱动动画生成的Remotion和HyperFrames两大框架让视频生产变得工程化、可调试。从全合成动画到真人口播视频，作者通过踩遍10个技术坑，揭示了AI时代视频制作的底层逻辑与实战经验。这场从React组件到HTML/CSS的技术迁移，正在重新定义动态视觉内容的创作边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Jiaona Zhang是Laurel的CPO，她做过 Airbnb、Dropbox、Webflow、WeWork 的产品负责人，也在 Stanford、Yale 和 Reforge 教产品。很多产品负责人和创业团队现在卡在同一个地方：公司里总有一个人很会用 AI，能写 prompt、搭 agent、自动化掉一堆杂活。在这期对话中，我们就会看到Laurel是如何把少数高手的操作沉淀成全公司都能调用的技能。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
