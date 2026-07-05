@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T17:03:32.696571Z",
+  "generated_at": "2026-07-05T18:55:38.171814Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-05",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-05",
@@ -29,11 +29,16 @@
     },
     {
       "date": "2026-07-05",
+      "title": "baoyu-design skill 更新： 支持 PPT 动画了。之前有很多朋友用这个 Skill 做 PPT 了，有人问能不能支持 PPT 动画，但当前这个skill生成的是 HTML 格式的 PPT，然后借助 PptxGenJS 导出为 PPTX，这个库有个局限就是不支持 PPT 的动画。之前借助 Opus 4.8 确实没搞定，但Fable 5对于 PPTX 的 XML 格式了如指掌，迭代了几轮就搞定了。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-05",
       "title": "Pincus 是 Zynga 创始人，也经历过 Web、社交网络、移动游戏三轮计算平台变化。他的新书《Life at the Speed of Play》总结的是一套产品和创始人打法。今天的 PM、创业者和 AI 产品团队读这期，最有用的部分，是一个冷门命题被讲清楚了：当投资人都在看企业 AI，消费产品团队应该怎样判断时机、设计新产品、撑过没有共识的早期。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 32,
   "updates_7d": [
     {
       "date": "2026-07-05",
@@ -53,6 +58,11 @@
     {
       "date": "2026-07-05",
       "title": "不少开发者用 Codex 产出大量半成品项目，因为缺少版本管理反复重做白白浪费精力。芋头小宝这套零基础GitHub实操方案完美解决了项目杂乱丢失的问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "baoyu-design skill 更新： 支持 PPT 动画了。之前有很多朋友用这个 Skill 做 PPT 了，有人问能不能支持 PPT 动画，但当前这个skill生成的是 HTML 格式的 PPT，然后借助 PptxGenJS 导出为 PPTX，这个库有个局限就是不支持 PPT 的动画。之前借助 Opus 4.8 确实没搞定，但Fable 5对于 PPTX 的 XML 格式了如指掌，迭代了几轮就搞定了。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
