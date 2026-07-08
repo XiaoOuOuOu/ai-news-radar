@@ -1,14 +1,19 @@
 {
-  "generated_at": "2026-07-08T17:15:14.116186Z",
+  "generated_at": "2026-07-08T19:01:20.663176Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-08",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-08",
+      "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-08",
       "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -29,12 +34,17 @@
     },
     {
       "date": "2026-07-08",
-      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结 Claude的文档做了详细拆解。",
+      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-07-08",
+      "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-08",
       "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
@@ -57,7 +67,7 @@
     },
     {
       "date": "2026-07-08",
-      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结 Claude的文档做了详细拆解。",
+      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
