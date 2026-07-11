@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-07-11T14:15:32.260052Z",
+  "generated_at": "2026-07-11T15:41:57.824563Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-07-10",
-  "count_today": 7,
+  "latest_date": "2026-07-11",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-07-10",
-      "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "这期内容对于产品经理和创始人来说不容错过：它把“看数据”从一个汇报动作拉回到产品动作，可以知道哪个用户需要被访谈，哪个功能真的在形成习惯，哪个看似成功的渠道只带来一次性试用。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "如果你是产品经理、项目经理、运营，或者任何经常要把别人一句话变成可执行事项的人， 这个Skill就是写给你的 。它会帮你把这句话反问拆解成一份需求沟通清单 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "关于Seedream 5.0 Pro，小歪做了8个维度的案例测试。而且，为了看看同一套提示词下，不同模型的效果，甚至同样都是Seedream 5.0 Pro，不同工具是不是会有差异。她把 即梦的Seedream 5.0 Pro 、 豆包的Seedream 5.0 Pro 、 GPT的Image 2 和 Gemini的Nano banana Pro 四个效果放在一起，给大家看看对比。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "为什么 AI 总不按照我们的思路生成图片？为什么老是有些离谱操作？为什么用 AI 工具写提示词也会翻车？为什么明显错误的动作，抽卡很多次也无法避免？今天就和阿真一起来看看，相信你看完以后生图翻车情况会少很多，翻车了也会立马知道问题出在哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-10",
-      "title": "一个完全不熟 Reddit 的人，怎么先活下来，再用它看需求、找选题、做产品调研，并避开那些一上来就会踩的规则和账号坑。这篇文章带你看懂！",
+      "date": "2026-07-11",
+      "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-07-11",
+      "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-10",
       "title": "这里是Codex史诗级更新的最全面解读，你所产生的疑问和你必须知道的最新玩法都在这里面。",
