@@ -26183,5 +26183,12 @@
   "Show HN: I implemented a neural network in SQL": "Show HN：我用 SQL 实现了一个神经网络",
   "Grok CLI uploaded the whole home directory to GCS": "Grok CLI 将整个主目录上传到 GCS",
   "WebExtension to query any HTML table with PRQL": "使用 PRQL 查询任何 HTML 表的 WebExtension",
-  "A WWDC 26 Update on Building a Mac-assed App with SwiftUI": "关于使用 SwiftUI 构建 Mac 辅助应用程序的 WWDC 26 更新"
+  "A WWDC 26 Update on Building a Mac-assed App with SwiftUI": "关于使用 SwiftUI 构建 Mac 辅助应用程序的 WWDC 26 更新",
+  "Writing a bindless GPU abstraction layer": "编写无绑定 GPU 抽象层",
+  "Researchers detail \"context bombing\", where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90% (Dan Goodin/Ars Technica)": "研究人员详细介绍了“上下文轰炸”，即防御者使用即时注入来触发攻击者 LLM 的护栏，从而将 AI 黑客攻击的成功率降低约 90%（Dan Goodin/Ars Technica）",
+  "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says": "分析师称 OpenAI 的广告业务将比自己的预测低 90%",
+  "Sources: Nvidia intensified due diligence and cut its authorized AI chip customers in Singapore, Malaysia, and Japan by 50%+ to prevent China diversions (Zijing Wu/Financial Times)": "资料来源：英伟达加强尽职调查，将其在新加坡、马来西亚和日本的授权 AI 芯片客户削减 50% 以上，以防止中国转移（吴紫晶/金融时报）",
+  "Australia is offering free daytime electricity": "澳大利亚提供白天免费电力",
+  "YouTrackDB is a general-use object-oriented graph database": "YouTrackDB 是一个通用的面向对象的图形数据库",
+  "Our Amish Language": "我们的阿米什语言"
 }
