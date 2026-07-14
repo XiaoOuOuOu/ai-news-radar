@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:51:04.062938Z",
+  "generated_at": "2026-07-14T16:06:22.358718Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -38,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-07-13",
@@ -193,36 +193,6 @@
     {
       "date": "2026-07-09",
       "title": "Instagram负责人Mosseri在接手Instagram前，他做过 Facebook News Feed，也带过 Facebook 的排序算法团队。这期 Mosseri 聊了Instagram怎么处理AI内容，AI 能写代码、拉数据、生成内容、解释推荐系统以后，人还负责什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "这篇文章要解决的就是一件事： 让 AI 拿到你的上下文，开始基于你的资料干活。看完之后，你可以获得：一个最小知识库目录结构，一套从安全任务开始跑通的流程，两段可以复制的提示词，以及一个选工具的判断标准。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "藏师傅这款开源绘图 Skill 可以一次性解决 AI 配图信息模糊、文字错乱、图表粗糙等高频问题。而且它还自带高级的3D 材质视觉体系，可以自动区分流程图、数据图表、教学原理图等场景；遇到小众专业概念会先检索参考素材，重构图表时会提取语义进行重绘。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "本周AI音乐周报覆盖版权博弈、大厂整合、轻量化创作工具与前沿学术论文四大核心动态。大厂正加速生态洗牌：谷歌关停实验项目，转向一站式全链路音乐平台Flow Music；音频名厂iZotope并入视觉巨头Boris FX，打造音画一体流。Suno内测移动端声音克隆并探索API，ElevenMusic推出短视频工具包。还有六篇关于歌声编辑、音乐生成、音频评估方向的学术论文带来全新研究进展！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "多模态 图像创作模型——Seedream 5.0 Pro今天正式发布，全方位补齐了图像创作的各类短板。模型在图文匹配、结构合理性、文字渲染与画面美感等基础能力上都有全面提升，既能把密集文字、复杂数据转化为规整专业的可视化图纸，也支持圈选、图层拆分、多图融合等精细化交互式修改，同时还可以高度还原真实人像的光影肌理，一站式满足高密度图文、写实人像、多语言创作需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "作者整理了 12种运镜 + 8种转场 + 4套组合连招 + 5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "Loop 这个东西，最近经常被提到。本文是大聪明结合Claude的文档做了详细拆解。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
