@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-17T16:05:27.951768Z",
+  "generated_at": "2026-07-17T17:54:54.743432Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-17",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-07-17",
+      "title": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-17",
       "title": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
@@ -23,8 +38,23 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-07-17",
+      "title": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-17",
+      "title": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-07-17",
       "title": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
