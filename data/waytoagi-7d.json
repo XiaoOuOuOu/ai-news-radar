@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-07-22T16:11:22.253958Z",
+  "generated_at": "2026-07-22T17:58:52.231251Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-22",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-07-22",
+      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
       "title": "很多人做知识库，最容易高估PDF：文件上传了、链接存好了，就以为Agent能用了。结果真要搜索、双链、改写、整理时，PDF 还是一个“沉默附件”。那么一份PDF怎样才能发挥最大价值？一起来看看作者给出的详细路线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -18,11 +33,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-07-22",
+      "title": "最近ChatCut很火，黄叔研究了一下它的整个迭代历程：从PaperCut把文字变成剪辑对象，到对话剪辑、AI生成MG，再到通用剪辑Agent，最后接入Codex / ChatGPT，变成背后的专业执行层。发现真正值得琢磨的是专业软件的新护城河：可调用、可观察、可编辑、可接管。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "很多创业复盘最容易变成“成功学清单”，看完很燃，但是最后还是不知道该抓什么。Founders播客主理人David Senra的这期访谈适合创始人、AI 产品人、开发者和长期做内容/项目的人看。一起来看看他在研究了400多位创始人后学到了什么！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
       "title": "很多人做知识库，最容易高估PDF：文件上传了、链接存好了，就以为Agent能用了。结果真要搜索、双链、改写、整理时，PDF 还是一个“沉默附件”。那么一份PDF怎样才能发挥最大价值？一起来看看作者给出的详细路线！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "多数人做产品，一上来就想原创、想颠覆，最后用 AI 把一个没人要的想法做得很完整。刘小排借硅谷游戏公司 Zynga 的创始人 Mark Pincus 的Proven、Better、New框架，拆解了下绝大多数成功产品的实现路径：先研究同平台、同用户、同场景里已经验证过的模式；再做一个十个用户都会觉得明显更好的改进；再给用户一个尝试理由，并快速测试多个变化。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
