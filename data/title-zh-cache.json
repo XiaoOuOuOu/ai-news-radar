@@ -33977,5 +33977,10 @@
   "URL shortener links stored in your ATProto PDS": "存储在 ATProto PDS 中的 URL 缩短链接",
   "I am morally opposed to updating my Claude.md": "我在道德上反对更新我的 Claude.md",
   "Canonical backs new project to translate large C codebases into safe Rust": "Canonical 支持将大型 C 代码库转换为安全 Rust 的新项目",
-  "FCC abolishes gigabit speed goal": "FCC 废除千兆速度目标"
+  "FCC abolishes gigabit speed goal": "FCC 废除千兆速度目标",
+  "Citizen Devs: Everyone is an engineer now": "公民开发者：现在人人都是工程师",
+  "Show HN: We chased a weather balloon across Montana and never found it": "Show HN：我们在蒙大拿州追寻气象气球，但从未找到它",
+  "PWAs: Personal Web Apps": "PWA：个人 Web 应用程序",
+  "German court rules: Emails must be end-to-end encrypted": "德国法院规定：电子邮件必须端到端加密",
+  "What Zig felt like, coming from Rust": "来自 Rust 的 Zig 感觉如何"
 }
