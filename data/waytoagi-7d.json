@@ -1,25 +1,70 @@
 {
-  "generated_at": "2026-08-21T18:18:26.982531Z",
+  "generated_at": "2026-08-21T19:17:14.770927Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-21",
-  "count_today": 2,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-08-21",
+      "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "很多人把Agent的成败全部押在模型能力上，真正的瓶颈其实在harness。这份实战指南从工具定义、提示词架构、双层记忆、编排策略到人机回环给出了一套可落地的设计范式。可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
       "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-08-21",
       "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-08-21",
+      "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "很多人把Agent的成败全部押在模型能力上，真正的瓶颈其实在harness。这份实战指南从工具定义、提示词架构、双层记忆、编排策略到人机回环给出了一套可落地的设计范式。可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-21",
       "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
@@ -28,6 +73,11 @@
     {
       "date": "2026-08-21",
       "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
