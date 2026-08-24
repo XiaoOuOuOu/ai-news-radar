@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T17:20:04.020543Z",
+  "generated_at": "2026-08-24T18:20:27.928053Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-24",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-08-24",
@@ -19,6 +19,11 @@
     },
     {
       "date": "2026-08-24",
+      "title": "出门还得背电脑，或者让笔记本在家常亮，其实很别扭。更理想的状态是：家里的Mac mini当主脑，MacBook负责深度创作和开发，iPhone 变成随时下指令的遥控器。这篇文章作者把完整的配置过程写了出来，包括踩过的每一个坑。步骤会写得很细，新手照着做就能跑通。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
       "title": "Fish Audio联合创始人Rissa、Trans-N 创始人Harry，以及来自Plug and Play Japan的投资人 Rebecca。三位分别代表了 AI 语音平台、企业级 Agent 产品、国际投资机构的本地分支三种视角。这次沙龙的话题从为什么选择日本市场、如何进入市场、护城河在哪里来切入，一起看看他们具体都聊了什么？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -28,7 +33,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-08-24",
@@ -38,6 +43,11 @@
     {
       "date": "2026-08-24",
       "title": "小歪用Seedance 2.0 fast、MiniMax H3、Wan 3.0跑了7组真实案例：晨起Vlog、古装微表情、豪门短剧、情侣对峙、女团舞、四人运镜、史前灾难片。不只是单纯地看画质，还对比了短剧节奏、人物表情、动作卡点、多人物稳定性、大场景融合度，以及API和本地部署怎么选。来看看最近更新的这几个视频模型，哪个更适合你？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "出门还得背电脑，或者让笔记本在家常亮，其实很别扭。更理想的状态是：家里的Mac mini当主脑，MacBook负责深度创作和开发，iPhone 变成随时下指令的遥控器。这篇文章作者把完整的配置过程写了出来，包括踩过的每一个坑。步骤会写得很细，新手照着做就能跑通。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
