@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T16:07:02.211485Z",
+  "generated_at": "2026-08-26T18:45:10.538916Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-26",
-  "count_today": 5,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-08-26",
@@ -24,6 +24,11 @@
     },
     {
       "date": "2026-08-26",
+      "title": "Tutti· VM是行业首个【实况级】多人多agent并行协作空间，在不迁移现有工具和使用习惯的前提下，将个人、临时的 Agent 运行环境，升级为持续存在的团队共享工作现场；并且把串行交接变成实时并行协作。文中附有内测邀请码，感兴趣的小伙伴儿可以来体验下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-26",
       "title": "GLM-5系列的首个原生多模态模型：GLM-5.3-Flash (320B-A18B)正式上线并开源。320B 总参数、18B激活，编程体感对齐Claude Opus 4.8，价格却压到Opus 4.8 的1/40。更值得关注的是背后的工程路线：混合注意力机制降低成本，视觉反馈进入代码循环，还跑在国产芯片集群上。一起来测试下真实效果如何？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -31,9 +36,14 @@
       "date": "2026-08-26",
       "title": "Anthropic 官方发布的AI Native 开发手册，适合研发团队、技术负责人和正在把Claude/Codex接进工作流的人看。他们把软件从一个想法变成线上产品的完整过程：规划、设计、构建、测试、部署、运维 详细拆解了下。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "2026 年Agent自进化开始从论文和框架走向工程现场，但很多团队还在把评测、记忆、Skill更新拆开做，结果就是Agent 用了半年还像新手。作者这篇文章基于对 Anthropic 递归自改进报告、斯坦福 CS329A 课程、EvoAgentX 等开源框架的深度研读，结合业界多个团队已验证的优秀实践，提炼出一个完整的、可落地的、经过验证的工程闭环。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-08-26",
@@ -52,12 +62,22 @@
     },
     {
       "date": "2026-08-26",
+      "title": "Tutti· VM是行业首个【实况级】多人多agent并行协作空间，在不迁移现有工具和使用习惯的前提下，将个人、临时的 Agent 运行环境，升级为持续存在的团队共享工作现场；并且把串行交接变成实时并行协作。文中附有内测邀请码，感兴趣的小伙伴儿可以来体验下！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-26",
       "title": "GLM-5系列的首个原生多模态模型：GLM-5.3-Flash (320B-A18B)正式上线并开源。320B 总参数、18B激活，编程体感对齐Claude Opus 4.8，价格却压到Opus 4.8 的1/40。更值得关注的是背后的工程路线：混合注意力机制降低成本，视觉反馈进入代码循环，还跑在国产芯片集群上。一起来测试下真实效果如何？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-08-26",
       "title": "Anthropic 官方发布的AI Native 开发手册，适合研发团队、技术负责人和正在把Claude/Codex接进工作流的人看。他们把软件从一个想法变成线上产品的完整过程：规划、设计、构建、测试、部署、运维 详细拆解了下。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-26",
+      "title": "2026 年Agent自进化开始从论文和框架走向工程现场，但很多团队还在把评测、记忆、Skill更新拆开做，结果就是Agent 用了半年还像新手。作者这篇文章基于对 Anthropic 递归自改进报告、斯坦福 CS329A 课程、EvoAgentX 等开源框架的深度研读，结合业界多个团队已验证的优秀实践，提炼出一个完整的、可落地的、经过验证的工程闭环。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
