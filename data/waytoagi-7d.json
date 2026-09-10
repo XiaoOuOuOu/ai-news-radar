@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-09-10T11:54:19.304063Z",
+  "generated_at": "2026-09-10T15:19:21.778176Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-09",
-  "count_today": 5,
+  "latest_date": "2026-09-10",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-09-09",
-      "title": "阿真这份关于 Image 2.5 的超全实测覆盖：局部改图、8 帧动效、照片精修、参考图保真、多轮编辑、风格迁移、草图锁构图、透明 PNG、信息图与品牌物料。最后发现它的局部修改、透明底和批量延展进步明显；复杂材质会有噪点，多人脸、多轮改图、文字与版式仍可能失手。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "这篇适合准备参加安克首届黑客松挑战赛的开发者，也适合想做 AI 硬件的人。作者结合自己做过的三个项目，来跟大家聊聊AI硬件进入家庭以后，可能会怎样改变我们的生活习惯。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "想降低 GPT-6 Astra 的调用成本，这篇文章整理了官方全套 Token 优化策略，覆盖模型推理、上下文管理、工具调用等多个维度。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "小歪用 30 组题目，把GPT Image 2.5和即梦 5.0 Pro放到同一套测试里：人物保真、局部与多轮编辑、动作序列、12 镜分镜、拆解图、包装和多语导览。到底谁的效果更好呢？一起来看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "GPT-6到底怎么用，才能更顺手，发挥出来它最大的能力？OpenAI 发布的《Using GPT-6 Astra》把模型能力、工具使用、工作方式和接入设置放在了一份指南里。这篇文章带你逐项读懂它：每项变化是什么意思、能起什么作用，以及使用时有哪些条件。涉及接口的术语，也会一起解释。",
+      "date": "2026-09-10",
+      "title": "作者把散落在Grok Bot官方企业版博客、指南库、开发文档里的案例全拼到了一起，包含招聘、销售、市场、财务、再加设计，共同整理成今天这篇文章——「非工程师到底怎么用好 Grok Bot」",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-09-10",
+      "title": "作者把散落在Grok Bot官方企业版博客、指南库、开发文档里的案例全拼到了一起，包含招聘、销售、市场、财务、再加设计，共同整理成今天这篇文章——「非工程师到底怎么用好 Grok Bot」",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-09-09",
       "title": "阿真这份关于 Image 2.5 的超全实测覆盖：局部改图、8 帧动效、照片精修、参考图保真、多轮编辑、风格迁移、草图锁构图、透明 PNG、信息图与品牌物料。最后发现它的局部修改、透明底和批量延展进步明显；复杂材质会有噪点，多人脸、多轮改图、文字与版式仍可能失手。",
