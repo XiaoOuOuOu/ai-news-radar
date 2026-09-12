@@ -34744,5 +34744,16 @@
   "DeCloudflare": "德云耀",
   "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
   "A list of macOS defaults commands with demos": "带有演示的 macOS 默认命令列表",
-  "Houthis used Anthropic to develop guided weapons": "胡塞武装利用 Anthropic 开发制导武器"
+  "Houthis used Anthropic to develop guided weapons": "胡塞武装利用 Anthropic 开发制导武器",
+  "Optimizing a single Rust Clippy lint by 3133X": "通过 3133X 优化单个 Rust Clippy lint",
+  "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases": "Real-SWE：在私人、现实世界、企业代码库上对人工智能模型进行基准测试",
+  "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
+  "Anthropic CEO calls for pacing AI frontier model development and warns 'in 6–12 months such a swarm [of agents] could be capable of taking over the entire internet'": "Anthropic 首席执行官呼吁加快人工智能前沿模型的开发步伐，并警告“在 6 至 12 个月内，这样的一群[代理]可能有能力接管整个互联网”",
+  "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work": "基准：CadQuery 与 OpenSCAD 的代理 CAD 工作",
+  "OpenAI agents hacked a software service before the Hugging Face incident": "OpenAI 特工在 Hugging Face 事件发生前入侵了一项软件服务",
+  "Managing Complex Application State with Reactive Data Flows": "使用反应式数据流管理复杂的应用程序状态",
+  "LG Says We're Fake News [video]": "LG 称我们是假新闻 [视频]",
+  "They do think AI might kill everyone": "他们确实认为人工智能可能会杀死所有人",
+  "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]": "QueryBrew：与系统无关的 SQL 到 SQL 查询优化 [pdf]",
+  "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues": "Show HN：ResolveHQ – 基于 Cloudflare Workers、D1、R2 和队列构建的帮助台"
 }
