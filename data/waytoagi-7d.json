@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:50:22.296234Z",
+  "generated_at": "2026-09-17T17:46:23.378320Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -38,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 31,
   "updates_7d": [
     {
       "date": "2026-09-16",
@@ -193,16 +193,6 @@
     {
       "date": "2026-09-12",
       "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "黄叔这篇 Grok Bot 蓝皮书带你上手这套自带云端电脑的 AI 协作系统。你只需要下达目标，搭建的 AI 员工便能自主分工、交接任务，24 小时在云端持续运行。文中还有大量实操案例，如果你不懂代码，也能跟着一起搭建自动化工作流，把自己从繁杂事务中解放出来。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "你是不是也还在为方案架构图反复调整方框、连线而耗费大量时间？作者用Codex搭配Draw.io MCP的工作流，能自动生成可编辑的图表，就算是多层、数十个模块的复杂大图也能搞定。文中还附带了完整配置教程、多种实战案例与绘图编辑技巧，做PPT、项目方案的大家可以直接上手实操。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
